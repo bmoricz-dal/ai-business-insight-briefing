@@ -1,0 +1,33 @@
+name: Business Source Pack
+
+on:
+  schedule:
+    - cron: "30 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-source-pack:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run business source collection script
+        run: python scripts/fetch_business_sources.py
+
+      - name: Commit and push business source pack
+        run: |
+          git config user.name "business-briefing-bot"
+          git config user.email "business-briefing-bot@users.noreply.github.com"
+          git add data/source_packs/
+          git commit -m "Add business source pack" || echo "No changes to commit"
+          git push
