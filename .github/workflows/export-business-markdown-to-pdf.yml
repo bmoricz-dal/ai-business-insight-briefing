@@ -3,6 +3,8 @@ name: Export Business Markdown reports to PDF
 on:
   workflow_dispatch:
   push:
+    branches:
+      - main
     paths:
       - "reports/daily/markdown/**/*.md"
 
@@ -16,6 +18,10 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+          persist-credentials: true
 
       - name: Install Pandoc and PDF tools
         run: |
@@ -47,8 +53,8 @@ jobs:
 
       - name: Commit generated PDFs
         run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
 
           git add reports/daily/pdf/*.pdf
 
@@ -56,5 +62,5 @@ jobs:
             echo "No PDF changes to commit."
           else
             git commit -m "Export business Markdown reports to PDF"
-            git push
+            git push origin HEAD:main
           fi
