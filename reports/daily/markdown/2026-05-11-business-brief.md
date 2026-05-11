@@ -1,7 +1,7 @@
 # Practical AI Business & Market Intelligence Brief - 2026-05-11
 
 ## 1. The short version
-
+ 
 - The strongest signal today is that AI should be matched to the decision being made, not applied equally to every business question.
 - Halliburton’s AWS Bedrock proof-of-concept shows AI being used to reduce friction in a complex technical workflow, but the evidence is vendor-led and should not be treated as neutral proof.
 - FMCG and distribution businesses face a practical AI opportunity around decisions that change daily: stock, pricing, supplier disruption, delivery costs, and customer demand.
