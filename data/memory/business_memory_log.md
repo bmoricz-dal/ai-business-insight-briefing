@@ -9,38 +9,38 @@
 
 ## Strongest themes today
 
-- AI is most commercially useful when embedded into specific workflows rather than treated as a general chatbot.
-- BI tools are moving from passive reporting toward action-enabled dashboards where users can update records or trigger workflow steps.
-- FMCG, retail, logistics, and distribution businesses need better data quality and cost visibility before AI can create reliable operational value.
+- AI should be matched to the decision type, not applied generically across every business problem.
+- Workflow-specific AI looks more credible than broad productivity claims, especially when it supports expert users in a defined process.
+- FMCG, retail, wholesale, and distribution relevance is strongest where AI improves daily decisions around stock, replenishment, cost pressure, pricing, and supplier disruption.
 
 ## Useful concepts added
 
-**Term:** Workflow automation  
-**Plain English meaning:** Software moves a task from one step to the next with less manual effort.  
-**Business example:** A logistics user reviews a delayed order in a dashboard, adds a reason code, updates the status, and notifies customer service without switching systems.  
-**Why it matters:** It reduces handoffs, saves time, and improves traceability, but it can also make bad data move faster if controls are weak.
+**Term:** Use-case scoring  
+**Plain English meaning:** Ranking AI ideas before building them, based on usefulness, realism, risk, data readiness, and measurability.  
+**Business example:** A distributor scores AI ideas such as demand forecasting, delivery delay alerts, customer email drafting, and supplier risk monitoring before choosing one small pilot.  
+**Why it matters:** It prevents random AI experimentation and helps businesses focus on ideas that can produce practical, testable value.
 
 ## Source quality notes
 
-- Vendor sources such as AWS and Microsoft are useful for spotting product direction and implementation patterns, but they should be treated as biased primary signals rather than neutral proof.
-- Industry news sources are useful for operational pressure, such as shipping cost changes, but they do not automatically prove AI or BI value.
+- MIT Sloan was useful for decision-making framing, but the source pack summary was partial, so detailed conclusions should be checked against the full article.
+- AWS/Halliburton and RedCloud were useful implementation and market signals, but both should be treated as vendor-led or vendor-adjacent evidence rather than neutral proof.
 
 ## FMCG / sales / distribution relevance
 
-- Action-enabled dashboards could support sales reporting, inventory exception handling, delivery status updates, supplier issue tracking, and customer service workflows.
-- Rising parcel, tariff, and supply-chain cost pressure increases the need for clean data, better forecasting, margin visibility, and faster exception management.
+- The strongest FMCG angle is AI-assisted decision prioritisation: stock exceptions, replenishment issues, margin pressure, delivery cost changes, supplier disruption, and customer impact.
+- Cost-pressure sources such as fuel surcharges and product shortages strengthen the case for better data visibility, but they do not prove that AI will automatically solve operational problems.
 
 ## SME / market intelligence relevance
 
-- The strongest SME-facing opportunity is not broad AI transformation; it is practical software that helps smaller firms act on sales, customer, product, supplier, and order data.
-- Domain-specific AI agents and BI workflow features are becoming a clearer vendor positioning trend, especially where commercial decisions depend on large operational datasets.
+- SME-facing AI opportunities are strongest when packaged around specific workflows rather than broad “AI transformation.”
+- Domain-specific AI agents appear to be a vendor positioning trend, especially where firms can connect AI to commercial datasets and repeated operational decisions.
 
 ## Future research ideas
 
-- Research how BI dashboards are evolving from reporting tools into workflow systems.
-- Compare vendor claims about AI workflow acceleration with independent case evidence and customer outcomes.
-- Explore whether FMCG AI platforms are solving real data-readiness problems or mostly repackaging analytics as AI agents.
+- Build a simple AI use-case scoring matrix for FMCG, wholesale, and distribution businesses.
+- Compare generic AI assistants with domain-specific AI agents in operational business workflows.
+- Research how inventory and replenishment AI tools are being positioned to retailers and what evidence exists beyond vendor claims.
 
 ## Workflow improvement note
 
-- The source pack is useful, but future briefs would be stronger if vendor announcements were paired with at least one independent customer case, official source, or measurable implementation outcome.
+- Because the existing brief already focused heavily on action-enabled dashboards and workflow automation, future runs should track the previous day’s angle and deliberately choose a different lead theme when the same source pack is reused.
