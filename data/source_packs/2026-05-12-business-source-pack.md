@@ -1,0 +1,1148 @@
+# Business Source Pack - 2026-05-12
+
+Purpose: source material for practical AI business adoption and market intelligence briefs.
+
+Use this file as input for `prompts/business_insight_prompt.md`.
+
+## Source selection reminder
+
+- Prefer implementation evidence over hype.
+- Treat vendor/company sources as biased primary signals.
+- Separate fact, meaning, risk and application.
+- Look for BI/workflow, FMCG/distribution, SME and market intelligence relevance.
+
+---
+
+## 1. Power BI April 2026 Feature Summary
+
+**Source:** Microsoft Power BI Blog
+**Type:** bi_tooling
+**Published:** Wed, 22 Apr 2026 15:00:00 GMT
+**URL:** https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-April-2026-Feature-Summary/ba-p/5173904
+**Relevance score:** 5/5
+**Quality note:** Vendor/company source: useful primary signal, but not neutral proof.
+
+**Summary:**
+
+Welcome to the April Power BI update! Power BI’s April 2026 update is here, bringing continued improvements across Copilot and AI, reporting, visuals, and modeling. This release includes more flexibility when working with layouts and visuals, expanded Copilot experiences—especially on mobile—and several preview features that continue to enhance performance and authoring workflows. You’ll also find important announcements and deprecation notices to keep in mind as you plan ahead. With FabCon fresh on our minds, now is a great time to dive into what’s new and see what’s coming next. Contents April Power BI Video https://youtu.be/Nn19PQF59MM April Power BI Desktop Power_BI_April_2026_Feature_Summary Version number: v: 2.153.910.0 Date published: 21/4/2026 Events and Announcements The FabCon SQLCon live recap series starts April 14 th Whether you were there or not, this is your fast track to staying in the loop. In this series, we break down keynotes and corenotes into clear insights and standout demos you can use right away. If it mattered at FabCon, you’ll find it here. Join us, get inspired, and stay connected to what’s happening across the Fabric community. Register now . Could you
+
+---
+
+## 2. Translytical Task Flows (Generally Available)
+
+**Source:** Microsoft Power BI Blog
+**Type:** bi_tooling
+**Published:** Mon, 20 Apr 2026 16:00:00 GMT
+**URL:** https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Translytical-Task-Flows-Generally-Available/ba-p/5173907
+**Relevance score:** 5/5
+**Quality note:** Vendor/company source: useful primary signal, but not neutral proof.
+
+**Summary:**
+
+Translytical task flows take interactive Power BI reports to the next level where users can update records, add annotations, and trigger actions in external systems—all without leaving the report. With translytical task flows, report consumers become active participants. Instead of viewing data and then switching to another application to take action, users can complete their entire workflow within the Power BI interface. Translytical task flows connect Power BI reports to Fabric User Data Functions. When a user interacts with a report—selecting a record, entering a value, and clicking a button—the report passes the context of what they have selected to a function to execute the requested action. Translytical_Task_Flows_Generally_Available Figure 1: Example of a translytical report experience, where users can review project status and add notes directly in Power BI. Capabilities Adding data : Insert new records into your database directly from the report. For example, a customer service representative can add a new customer record while reviewing existing accounts and see it immediately in the report. Updating data : Update existing records without leaving the report. A logistics c
+
+---
+
+## 3. Dataflows: Thank you for eight years of Gen1—and why Gen2 is the future
+
+**Source:** Microsoft Power BI Blog
+**Type:** bi_tooling
+**Published:** Thu, 02 Apr 2026 16:00:00 GMT
+**URL:** https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Dataflows-Thank-you-for-eight-years-of-Gen1-and-why-Gen2-is-the/ba-p/5173910
+**Relevance score:** 5/5
+**Quality note:** Vendor/company source: useful primary signal, but not neutral proof.
+
+**Summary:**
+
+Updated on 20 April 2026: Thanks so much for all the engagement on this topic since the original publishing of this blog post on 2 April 2026. We’ve seen several recurring questions, and we’d like to clarify our position on a few key points. Dataflow Gen1 remains supported , but it is in a legacy state and won’t receive future innovation . We understand many customers have built important, business ‑ critical solutions on Gen1, and those existing workloads can continue to run while future investments are planned around Dataflow Gen2. Primary call to action for Premium customers : For Premium customers who already have access to Fabric, Dataflow Gen2 is the recommended path to take advantage of the latest improvements across functionality, productivity, performance, pricing, scale, reliability, and more. Many teams find it helpful to start by evaluating Gen2 for new or evolving workloads where these benefits can be realized quickly. Guidance for Pro and Premium Per User (PPU) customers : Many customers rely on Dataflow Gen1 in Pro/PPU today, and it can continue to be the right choice depending on the scenario. If Gen1 best fits your current use case, it remains supported and existin
+
+---
+
+## 4. US offers lower tariffs for Canada, Mexico steel, aluminum producers
+
+**Source:** Supply Chain Dive
+**Type:** fmcg_supply_chain_news
+**Published:** Mon, 11 May 2026 10:52:00 -0400
+**URL:** https://www.supplychaindive.com/news/us-offers-lower-tariffs-for-canada-mexico-steel-aluminum-producers/819705/
+**Relevance score:** 5/5
+**Quality note:** Industry source: useful sector context, but check whether evidence is narrow or anecdotal.
+
+**Summary:**
+
+The Commerce Department will consider adjusting the current 50% tariff to 25% for companies committing to making the metals in the U.S.
+
+---
+
+## 5. UPS and FedEx up international fuel surcharge rates, add surge fees
+
+**Source:** Supply Chain Dive
+**Type:** fmcg_supply_chain_news
+**Published:** Mon, 11 May 2026 09:43:00 -0400
+**URL:** https://www.supplychaindive.com/news/ups-and-fedex-up-international-fuel-surcharge-rates-add-surge-fees/819749/
+**Relevance score:** 5/5
+**Quality note:** Industry source: useful sector context, but check whether evidence is narrow or anecdotal.
+
+**Summary:**
+
+The changes impact various import and export shipments, including packages traveling to and from the U.S., adding to cost pressures for parcel shippers.
+
+---
+
+## 6. Protein powder shortage threatens America’s biggest food craze
+
+**Source:** Supply Chain Dive
+**Type:** fmcg_supply_chain_news
+**Published:** Mon, 11 May 2026 09:29:21 -0400
+**URL:** https://www.supplychaindive.com/news/protein-powder-shortage-threatens-americas-biggest-food-craze/819745/
+**Relevance score:** 5/5
+**Quality note:** Industry source: useful sector context, but check whether evidence is narrow or anecdotal.
+
+**Summary:**
+
+Companies are now grappling with whether to raise prices at a time when consumers are already reeling from a prolonged period of inflation.
+
+---
+
+## 7. Importers weigh lawsuits as Trump’s 10% global tariff faces appeal
+
+**Source:** Supply Chain Dive
+**Type:** fmcg_supply_chain_news
+**Published:** Mon, 11 May 2026 07:51:00 -0400
+**URL:** https://www.supplychaindive.com/news/importers-weigh-lawsuits-as-trumps-10-global-tariff-faces-appeal/819787/
+**Relevance score:** 5/5
+**Quality note:** Industry source: useful sector context, but check whether evidence is narrow or anecdotal.
+
+**Summary:**
+
+Importers should consider filing lawsuits to try to halt the collection of President Donald Trump's Section 122 tariffs, which a trade court ruled are illegal, lawyers said.
+
+---
+
+## 8. Bob’s Discount Furniture opens first combo store-distribution center
+
+**Source:** Supply Chain Dive
+**Type:** fmcg_supply_chain_news
+**Published:** Mon, 11 May 2026 07:20:00 -0400
+**URL:** https://www.supplychaindive.com/news/bobs-discount-furniture-opens-first-combo-store-distribution-center/819214/
+**Relevance score:** 5/5
+**Quality note:** Industry source: useful sector context, but check whether evidence is narrow or anecdotal.
+
+**Summary:**
+
+The retailer is monitoring the concept and may replicate it in the future, COO Ramesh Murthy told Supply Chain Dive.
+
+---
+
+## 9. Winners announced for Supply Chain Excellence Awards MEA 2026
+
+**Source:** Logistics Manager
+**Type:** logistics_distribution_news
+**Published:** Mon, 11 May 2026 15:04:06 +0000
+**URL:** https://www.logisticsmanager.com/winners-announced-for-supply-chain-excellence-awards-mea-2026/
+**Relevance score:** 5/5
+**Quality note:** Industry source: useful sector context, but check whether evidence is narrow or anecdotal.
+
+**Summary:**
+
+The post Winners announced for Supply Chain Excellence Awards MEA 2026 appeared first on Logistics Manager .
+
+---
+
+## 10. NFU Mutual acquires £2.7m logistics site
+
+**Source:** Logistics Manager
+**Type:** logistics_distribution_news
+**Published:** Mon, 11 May 2026 08:00:58 +0000
+**URL:** https://www.logisticsmanager.com/nfu-mutual-acquires-2-7m-logistics-site/
+**Relevance score:** 5/5
+**Quality note:** Industry source: useful sector context, but check whether evidence is narrow or anecdotal.
+
+**Summary:**
+
+The post NFU Mutual acquires £2.7m logistics site appeared first on Logistics Manager .
+
+---
+
+## 11. Padel Bonito signs 10-year City 7 lease
+
+**Source:** Logistics Manager
+**Type:** logistics_distribution_news
+**Published:** Mon, 11 May 2026 08:00:21 +0000
+**URL:** https://www.logisticsmanager.com/padel-bonito-signs-10-year-city-7-lease/
+**Relevance score:** 5/5
+**Quality note:** Industry source: useful sector context, but check whether evidence is narrow or anecdotal.
+
+**Summary:**
+
+The post Padel Bonito signs 10-year City 7 lease appeared first on Logistics Manager .
+
+---
+
+## 12. MX Park logistics development reaches practical completion
+
+**Source:** Logistics Manager
+**Type:** logistics_distribution_news
+**Published:** Fri, 08 May 2026 08:13:22 +0000
+**URL:** https://www.logisticsmanager.com/mx-park-logistics-development-reaches-practical-completion/
+**Relevance score:** 5/5
+**Quality note:** Industry source: useful sector context, but check whether evidence is narrow or anecdotal.
+
+**Summary:**
+
+The post MX Park logistics development reaches practical completion appeared first on Logistics Manager .
+
+---
+
+## 13. Vinted extends partnership with Royal Mail
+
+**Source:** Logistics Manager
+**Type:** logistics_distribution_news
+**Published:** Thu, 07 May 2026 09:12:45 +0000
+**URL:** https://www.logisticsmanager.com/vinted-extends-partnership-with-royal-mail/
+**Relevance score:** 5/5
+**Quality note:** Industry source: useful sector context, but check whether evidence is narrow or anecdotal.
+
+**Summary:**
+
+The post Vinted extends partnership with Royal Mail appeared first on Logistics Manager .
+
+---
+
+## 14. Calibrate AI Use to the Decision at Hand
+
+**Source:** MIT Sloan Management Review
+**Type:** professional_insight
+**Published:** Wed, 06 May 2026 11:00:43 +0000
+**URL:** https://sloanreview.mit.edu/article/calibrate-ai-use-to-the-decision-at-hand/
+**Relevance score:** 5/5
+**Quality note:** Professional insight source: useful framing, but may be marketing-led.
+
+**Summary:**
+
+PPaint/Ikon Images On a rainy Tuesday in London, the leadership team of a consumer goods company reviewed two business decisions: “Where should we open our next five stores?” and “Should we pivot the brand toward wellness?” Generative AI had been used to support the decision-making process for addressing both questions. The team ended up with [&#8230;]
+
+---
+
+## 15. New toolkit addresses AI adoption in manufacturing for UK SMEs - Just Style
+
+**Source:** Google News - UK SME AI adoption
+**Type:** news_search
+**Published:** Fri, 08 May 2026 09:39:44 GMT
+**URL:** https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zOW9PWU1tREk2OGtaeEVkRF9qMWNnbUViTGFTekRtaFFpNlVzeXE0VVRHemwteHNQX2thckwtMlI3U0hacndCX3RqeVFna1ljSWhaY2p4QzJ2eXktWmc4?oc=5
+**Relevance score:** 5/5
+**Quality note:** News/search source: useful for current signals, but verify important claims.
+
+**Summary:**
+
+New toolkit addresses AI adoption in manufacturing for UK SMEs Just Style
+
+---
+
+## 16. Will AI replace traditional software tools for small businesses in the UK? - YouGov
+
+**Source:** Google News - UK SME AI adoption
+**Type:** news_search
+**Published:** Tue, 05 May 2026 16:16:34 GMT
+**URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxQWm9kUnJqeXV1NXIwNmN6Y3BWS0lmdDRWY1NPLVZOeGYtdWdQczI3dV9qdkktT0s2Ukc1RzFySHViQTVfSVRGRHNPaFJBN0U4XzEyZFFOdmQzeS1Qa0ZXRTBieElkZ0ZqQkJLWDN6WDB4ZzlTMVpoY1R4RE5hdGtWakk3M3BYTzVMbFRoSkpPVFB2RnJwSTJ0Z3ZZaXBNZnFsOG9fdHpsSER4SDVaQjJIQnJjZw?oc=5
+**Relevance score:** 5/5
+**Quality note:** News/search source: useful for current signals, but verify important claims.
+
+**Summary:**
+
+Will AI replace traditional software tools for small businesses in the UK? YouGov
+
+---
+
+## 17. New AWS report reveals that nearly two-thirds of UK organisations now use AI - About Amazon UK
+
+**Source:** Google News - UK SME AI adoption
+**Type:** news_search
+**Published:** Wed, 22 Apr 2026 07:00:00 GMT
+**URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxNX0pfZW9pSXU5b1B3QmxrTW1HYzNxNENCeE5LMFVBcHNQRFNQc1pqT01mMUdzczc4U3p2VTJuTnZYVUI0VG0yUUpCblJXOW44TWdFNWVNRDlqWDBuSFhOQ0hnQWwtRHpvVFk0U3U3b0dPTFJxZVNVeEp2UThfVTloRGZHSi1Oa1VHMG05SXJiUGVYWEZnT2F1emlhUkVqa2lIT1JOWlZQZ0RxVjR4RXY0aXh2eU9LZw?oc=5
+**Relevance score:** 5/5
+**Quality note:** News/search source: useful for current signals, but verify important claims.
+
+**Summary:**
+
+New AWS report reveals that nearly two-thirds of UK organisations now use AI About Amazon UK
+
+---
+
+## 18. Digital Decarbonisation: Making the Hidden Costs of Digital Growth Visible - Loughborough University
+
+**Source:** Google News - UK SME AI adoption
+**Type:** news_search
+**Published:** Thu, 30 Apr 2026 16:19:26 GMT
+**URL:** https://news.google.com/rss/articles/CBMiekFVX3lxTE1sOTBzT24xLTFTWWtyV29nUEVrbjcwVjBIamI4bVBQbU9tQmw1cHl5RjRDZm9iZ1FzOVRrTkpEc204NmVtZEFOUjIyUjE2MGRtMVA0Y2FYSWdjU25xOUdLOG82aVNlNGEwV0NsNHhkQklVVDRUYUNXLTBB?oc=5
+**Relevance score:** 5/5
+**Quality note:** News/search source: useful for current signals, but verify important claims.
+
+**Summary:**
+
+Digital Decarbonisation: Making the Hidden Costs of Digital Growth Visible Loughborough University
+
+---
+
+## 19. OpenAI Survey Reveals Regional Divide in UK AI Uptake - digit.fyi
+
+**Source:** Google News - UK SME AI adoption
+**Type:** news_search
+**Published:** Fri, 20 Mar 2026 07:00:00 GMT
+**URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxQS2FIaUhRbllYYVlJTFhtZ1BfNkliU0NIanpxQ1ptQnRYYzFiNUI5WFFOYW45SlViM1Z0Mksyb1BaVGR5U29CcFVjY1U4X0dLWlJSOTJ2WXBXb0pvcHR2bzAzT1p4cENLLVhxam1lbHhiYW54X3RZN1EtV19hUkdIVVFB?oc=5
+**Relevance score:** 5/5
+**Quality note:** News/search source: useful for current signals, but verify important claims.
+
+**Summary:**
+
+OpenAI Survey Reveals Regional Divide in UK AI Uptake digit.fyi
+
+---
+
+## 20. Corvera raises a further £3m for fmcg AI platform - The Grocer
+
+**Source:** Google News - FMCG AI supply chain UK
+**Type:** news_search
+**Published:** Tue, 05 May 2026 11:50:50 GMT
+**URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxNSGdTWm82M2dZZWxyNWVMQnk0Q3lDWkxfbXhYRHo4NThLM1AyVGYtRDg0OG5GMVViaGpydGRrYzNfRE5DS3BVWndXYUxBM2FRUWFxaXk1cGxVZlNnT2ViSzYwWmhzLXJ0c0ZsUjhiblFnb25SOFhiZW5NN0RnZmNPYXhDbzdlM1ZqazZwOGlUdG93WlV1alBQOUZZMnc?oc=5
+**Relevance score:** 5/5
+**Quality note:** News/search source: useful for current signals, but verify important claims.
+
+**Summary:**
+
+Corvera raises a further £3m for fmcg AI platform The Grocer
+
+---
+
+## 21. RedCloud Unveils Specialist AI Agents Trained on $6.9 Billion FMCG Trade Dataset — Targeted to Improve Thousands of Commercial Decisions Daily - Yahoo Finance UK
+
+**Source:** Google News - FMCG AI supply chain UK
+**Type:** news_search
+**Published:** Tue, 28 Apr 2026 07:00:00 GMT
+**URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxOYmZuekRkN09IV3VTQnc2aXp2YUNOZ095NDVoUi1zMERwMG9CRlAyajh0c1JsTjNIV3pLU003blg4QzRDbTUyUWxTbjVnTVo3QW9iNmVGVE1yQ0tqLXNQRWlYX3Q2a0l6RkJSVTZGRGNUWE5tSEIwUkdrQkZWQllLQjdzN0JaX0ljNE15cXd5NA?oc=5
+**Relevance score:** 5/5
+**Quality note:** News/search source: useful for current signals, but verify important claims.
+
+**Summary:**
+
+RedCloud Unveils Specialist AI Agents Trained on $6.9 Billion FMCG Trade Dataset — Targeted to Improve Thousands of Commercial Decisions Daily Yahoo Finance UK
+
+---
+
+## 22. $6.9B trade dataset powers RedCloud's planned FMCG AI agents - Stock Titan
+
+**Source:** Google News - FMCG AI supply chain UK
+**Type:** news_search
+**Published:** Tue, 28 Apr 2026 07:00:00 GMT
+**URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxQcFd0ODNjbHhBN1gxZUNzYXNPVWo2RjZpUERwSC1VNjREaHpyeGNXcE0yMDkyR1dkQU9YcC1vNVlFOHRGRWtndGU2dDNLVTZrQmVaaGhfaWdsT1E0UU9URFZsYnBqNXluT3ZUNU4xOU1sUVE4YW10dFJFSXpZSWtBdy0tV1hycm9ZaXBzenlUQzN5ZUFEcTFJSU5oWmZtaExCTER1OTBWV1MtYm1leC1mbUE2Y0tsM3JXZHJRWg?oc=5
+**Relevance score:** 5/5
+**Quality note:** News/search source: useful for current signals, but verify important claims.
+
+**Summary:**
+
+$6.9B trade dataset powers RedCloud's planned FMCG AI agents Stock Titan
+
+---
+
+## 23. FMCG Logistics Market Outlook: Rising E-commerce Demand and Advancements in Supply Chain Technologies Driving Growth Opportunities - vocal.media
+
+**Source:** Google News - FMCG AI supply chain UK
+**Type:** news_search
+**Published:** Tue, 07 Apr 2026 04:55:14 GMT
+**URL:** https://news.google.com/rss/articles/CBMi7wFBVV95cUxNRFdqZTJfSGZZcUtybzk2NFZRckZJZ3dxelR3MFpBQzdrY1dMSEhIamdfaHBEWm5CcnpUWG9tMVAxZGxQVGdCYXlyMFhMUVVRS252cDk4ajh4UnA4WURtV256RExJTnJpZmhzMU5jMkhQNFhaQ3R5S1A4cDNNS0VsT1U4bDd1RHJia0plNzV5SHYwOGsxbDV1YmR0c2hfOFRkU3g2LWEzNkhwcmJQcW5JMTgta0NMdS1DcDZNbHp2Yl8tQzhlQzBTRlFYeHprRWl5NDQ4bGRrX1l4dHNCYmJBUWstWTEyWm5ld3RfSDl4QQ?oc=5
+**Relevance score:** 5/5
+**Quality note:** News/search source: useful for current signals, but verify important claims.
+
+**Summary:**
+
+FMCG Logistics Market Outlook: Rising E-commerce Demand and Advancements in Supply Chain Technologies Driving Growth Opportunities vocal.media
+
+---
+
+## 24. Cognitive Automation Market to Reach US$ 33.3 Billion by 2033 - openPR.com
+
+**Source:** Google News - business intelligence AI workflow
+**Type:** news_search
+**Published:** Mon, 11 May 2026 12:11:40 GMT
+**URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxOcmNWeDNLZDZ5X1FhUUJuYmRic2JhMEk0SGdVSkV6TWVRbTdCMHJCTWtIYmt1NUVoRG1SdHFQMUhBRW5ZdW9UYWJLSzlpeExDaFlTRjJVdkg2ZGJQR2x1UnNCSFJxQmktVUdhV0cyRDVvUkhSdFFlMF9PaVp1Z1E1cVJxQVNubzRYa0ZfaGQzUzFlMUVRYllTdTNjTmw?oc=5
+**Relevance score:** 5/5
+**Quality note:** News/search source: useful for current signals, but verify important claims.
+
+**Summary:**
+
+Cognitive Automation Market to Reach US$ 33.3 Billion by 2033 openPR.com
+
+---
+
+## 25. Be Decision-Ready with AI Business Intelligence - Microsoft
+
+**Source:** Google News - business intelligence AI workflow
+**Type:** news_search
+**Published:** Thu, 23 Apr 2026 04:15:06 GMT
+**URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxOVmFBVHRiUk1wbWpnVm1SbldtWUlEZW4tMmJlaEZSMHZVUW1KajdNWFJYT3VrbHJVRkFBMzlSLW5QeUpJc0VTdEJnZmQ5NTBPWXdkSVA2LUpOREhPem1tQklTUHMyTi16Wm1LaDJRN0lNQUwtV2R0ZmxBSW5TelJDOUx3QWI5OTk1M0tvamszbkxlQ0RtTFFkXzhGS3lBalY0LTZaanItc3UydVlQR3pmbVpIOA?oc=5
+**Relevance score:** 5/5
+**Quality note:** News/search source: useful for current signals, but verify important claims.
+
+**Summary:**
+
+Be Decision-Ready with AI Business Intelligence Microsoft
+
+---
+
+## 26. How AI is reshaping workflows and redefining jobs - MIT Sloan
+
+**Source:** Google News - business intelligence AI workflow
+**Type:** news_search
+**Published:** Wed, 22 Apr 2026 07:00:00 GMT
+**URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxNTXd5YlE5UnFPcDZHZnV6WnlEX3hZQ05QRmdCMVk2TklkcW5JaXE0MDJ0c3FmMW1oT2ZIZ1MyTzRqOUpsT3lHRVB3Wm5yTkpRUTVidS1LZjJNVmRXNVM2NmNXWE9uUUl6RTJmVjN0QUpmWVhpM0pjcFFqRmhvWjZEdWZpN3g5c2NlRUdEd1ZEa0hjRzZpZ1Jr?oc=5
+**Relevance score:** 5/5
+**Quality note:** News/search source: useful for current signals, but verify important claims.
+
+**Summary:**
+
+How AI is reshaping workflows and redefining jobs MIT Sloan
+
+---
+
+## 27. AlphaSense Scales Workflow Automation in Financial Firms and Enterprises with Custom AI Agents and AI-Led Expert Calls - AlphaSense
+
+**Source:** Google News - business intelligence AI workflow
+**Type:** news_search
+**Published:** Tue, 24 Mar 2026 12:13:31 GMT
+**URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWlJuOFpWd0R3X3JURlY1bzVWWTJwVTRmZUVKTXdiSEtGcGt3WndWeEl3WVVydWt0dHJHNVlHTzUtQWkwd0hMQnlTOTV3OXJDenoxWU1SOWRPWFA0NWpabEpCaVdjSzNHeVl5Y2t1eUozQnozSEs3Y1dlRDVzdTVDY1hqTF83SU5KTnhTX3NMTjJnYWIxYzJ2dW5tcnUwNUI5V0hYX29HaDdabEU?oc=5
+**Relevance score:** 5/5
+**Quality note:** News/search source: useful for current signals, but verify important claims.
+
+**Summary:**
+
+AlphaSense Scales Workflow Automation in Financial Firms and Enterprises with Custom AI Agents and AI-Led Expert Calls AlphaSense
+
+---
+
+## 28. How to embed AI into business processes without breaking the business - cio.com
+
+**Source:** Google News - business intelligence AI workflow
+**Type:** news_search
+**Published:** Mon, 30 Mar 2026 07:00:00 GMT
+**URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxNYmV5d3pDNFRRbWtwUGpDOEJqb20wMGhTVE5qN0V0azgzeUg0dlJ4SHVYTlg5a3h3dTdPOFJNR3Ayb1AxbEwxZl92NzRnUlNFWmpaZlEzQjNRb0p2WWFzaXItVnl3M1d4YnczLVhYZXo5Zk9vQjJzVDdfOTlwSlJCM0pVYThaNHE4U293dmE1TXJ0RzdQMjNHLWg3UkF6cHY1YU0zT242WkIzZ1gxWnFz?oc=5
+**Relevance score:** 5/5
+**Quality note:** News/search source: useful for current signals, but verify important claims.
+
+**Summary:**
+
+How to embed AI into business processes without breaking the business cio.com
+
+---
+
+## 29. Iceland partners with invent.ai to transform inventory and replenishment operations - Retail Times
+
+**Source:** Google News - retail distribution AI UK
+**Type:** news_search
+**Published:** Tue, 14 Apr 2026 07:00:00 GMT
+**URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxQV1RzMnJlQzZPdkxLMnRqSWU3VjVJMFdQbzJWOWFobWxLZnJIWE50UG91eGh6RXQxS1k1OXhDY3EyVGk1NHJxd0Y5eVJIbWUxbTJDSi0wNW04MEM0bkdoNE4tNDFZVm1KUGJYU3NnX0h1QXVOcVpveEEyd2RRaERhNmZxd3RjT2JIb2pTM2xWLU9NQk5jc3ZoZzl5VUtEeHItX05UV0ZxOU1FRGx0QjhN?oc=5
+**Relevance score:** 5/5
+**Quality note:** News/search source: useful for current signals, but verify important claims.
+
+**Summary:**
+
+Iceland partners with invent.ai to transform inventory and replenishment operations Retail Times
+
+---
+
+## 30. Global Retail Outlook 2024 - Deloitte
+
+**Source:** Google News - retail distribution AI UK
+**Type:** news_search
+**Published:** Mon, 30 Mar 2026 05:20:02 GMT
+**URL:** https://news.google.com/rss/articles/CBMilAFBVV95cUxNbjZOZ2czaEZjZVBvYnZlY0hKMVh1Tnl6MjM3SUVSdVZLdURvRXVEY1hpWkpCc181NFlveUZoZG9KbGZhMWd4c1BNZ2hic0E2OEVUWjdFdXJLV19Rd0lFSVVzODFkWXlna01UTHhpaGFZUk5sVjJPU0ZQUXJMckNuWTJQOG44ZEpRdDEzdDNPNG50Vi1i?oc=5
+**Relevance score:** 5/5
+**Quality note:** News/search source: useful for current signals, but verify important claims.
+
+**Summary:**
+
+Global Retail Outlook 2024 Deloitte
+
+---
+
+## 31. ONS business, economy and technology statistics
+
+**Source:** ONS
+**Type:** official_watchlist
+**Published:** 2026-05-12
+**URL:** https://www.ons.gov.uk/
+**Relevance score:** 5/5
+**Quality note:** Official source: credible context, but may be broad or slow-moving.
+**Manual check:** Yes - this source is included as a watchlist item.
+
+**Summary:**
+
+Official UK statistics source for business conditions, productivity, retail, labour market and economic context.
+
+---
+
+## 32. OECD AI, SMEs, productivity and digital adoption
+
+**Source:** OECD
+**Type:** official_watchlist
+**Published:** 2026-05-12
+**URL:** https://www.oecd.org/
+**Relevance score:** 5/5
+**Quality note:** Official source: credible context, but may be broad or slow-moving.
+**Manual check:** Yes - this source is included as a watchlist item.
+
+**Summary:**
+
+Useful for international context on SME digital adoption, productivity, AI diffusion and policy.
+
+---
+
+## 33. The Grocer - UK FMCG and grocery sector
+
+**Source:** The Grocer
+**Type:** fmcg_watchlist
+**Published:** 2026-05-12
+**URL:** https://www.thegrocer.co.uk/
+**Relevance score:** 5/5
+**Quality note:** Industry source: useful sector context, but check whether evidence is narrow or anecdotal.
+**Manual check:** Yes - this source is included as a watchlist item.
+
+**Summary:**
+
+Specialist UK FMCG and grocery source. Useful for suppliers, wholesalers, pricing, retail pressure and distribution signals.
+
+---
+
+## 34. IGD grocery, retail and supply-chain insight
+
+**Source:** IGD
+**Type:** fmcg_watchlist
+**Published:** 2026-05-12
+**URL:** https://www.igd.com/
+**Relevance score:** 5/5
+**Quality note:** Industry source: useful sector context, but check whether evidence is narrow or anecdotal.
+**Manual check:** Yes - this source is included as a watchlist item.
+
+**Summary:**
+
+Useful for grocery, retail, wholesale and supply-chain context.
+
+---
+
+## 35. Kantar retail and FMCG insights
+
+**Source:** Kantar
+**Type:** fmcg_watchlist
+**Published:** 2026-05-12
+**URL:** https://www.kantar.com/uki/industries/retail
+**Relevance score:** 5/5
+**Quality note:** Industry source: useful sector context, but check whether evidence is narrow or anecdotal.
+**Manual check:** Yes - this source is included as a watchlist item.
+
+**Summary:**
+
+Professional insight source for FMCG, retail, consumers and brand performance.
+
+---
+
+## 36. NielsenIQ retail and FMCG insights
+
+**Source:** NielsenIQ
+**Type:** fmcg_watchlist
+**Published:** 2026-05-12
+**URL:** https://nielseniq.com/global/en/insights/
+**Relevance score:** 5/5
+**Quality note:** Industry source: useful sector context, but check whether evidence is narrow or anecdotal.
+**Manual check:** Yes - this source is included as a watchlist item.
+
+**Summary:**
+
+Professional retail and FMCG data source for market trends, consumer behaviour and category performance.
+
+---
+
+## 37. How enterprises are scaling AI
+
+**Source:** OpenAI News
+**Type:** company_primary_ai
+**Published:** Mon, 11 May 2026 10:00:00 GMT
+**URL:** https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai
+**Relevance score:** 4/5
+**Quality note:** Vendor/company source: useful primary signal, but not neutral proof.
+
+**Summary:**
+
+How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.
+
+---
+
+## 38. Amazon Quick: Accelerating the path from enterprise data to AI-powered decisions
+
+**Source:** AWS Machine Learning Blog
+**Type:** ai_data_tooling
+**Published:** Mon, 11 May 2026 15:56:33 +0000
+**URL:** https://aws.amazon.com/blogs/machine-learning/amazon-quick-accelerating-the-path-from-enterprise-data-to-ai-powered-decisions/
+**Relevance score:** 4/5
+**Quality note:** Vendor/company source: useful primary signal, but not neutral proof.
+
+**Summary:**
+
+Amazon Quick helps turn your large enterprise data into fast and accurate AI-powered decisions. In this post, you will learn about five new capabilities of Amazon Quick that accelerate how data professionals deliver trusted AI-powered insights at enterprise scale.
+
+---
+
+## 39. How ChatGPT adoption broadened in early 2026
+
+**Source:** OpenAI News
+**Type:** company_primary_ai
+**Published:** Mon, 11 May 2026 15:00:00 GMT
+**URL:** https://openai.com/signals/research/2026q1-update
+**Relevance score:** 3/5
+**Quality note:** Vendor/company source: useful primary signal, but not neutral proof.
+
+**Summary:**
+
+ChatGPT adoption surged in Q1 2026, with fastest growth among users over 35 and more balanced gender usage, signaling broader mainstream AI adoption.
+
+---
+
+## 40. Introducing Claude Platform on AWS: Anthropic’s native platform, through your AWS account
+
+**Source:** AWS Machine Learning Blog
+**Type:** ai_data_tooling
+**Published:** Mon, 11 May 2026 18:43:03 +0000
+**URL:** https://aws.amazon.com/blogs/machine-learning/introducing-claude-platform-on-aws-anthropics-native-platform-through-your-aws-account/
+**Relevance score:** 3/5
+**Quality note:** Vendor/company source: useful primary signal, but not neutral proof.
+
+**Summary:**
+
+Today, we're excited to announce the general availability of Claude Platform on AWS. Claude Platform on AWS is a new service that gives customers direct access to Anthropic's native Claude Platform experience through their AWS account, with no separate credentials, contracts, or billing relationships required. AWS is the first cloud provider to offer access to the native Claude Platform experience. In this post, we explore how Claude Platform on AWS works and how you can start using it today.
+
+---
+
+## 41. How Miro uses Amazon Bedrock to boost software bug routing accuracy and improve time-to-resolution from days to hours
+
+**Source:** AWS Machine Learning Blog
+**Type:** ai_data_tooling
+**Published:** Mon, 11 May 2026 17:03:00 +0000
+**URL:** https://aws.amazon.com/blogs/machine-learning/how-miro-uses-amazon-bedrock-to-boost-software-bug-routing-accuracy-and-improve-time-to-resolution-from-days-to-hours/
+**Relevance score:** 3/5
+**Quality note:** Vendor/company source: useful primary signal, but not neutral proof.
+
+**Summary:**
+
+In this post, we dive deep into the architecture and techniques we used to improve Miro’s bug routing, achieving six times fewer team reassignments and five times shorter time-to-resolution powered by Amazon Bedrock.
+
+---
+
+## 42. Execute DAX Queries REST API (Preview)
+
+**Source:** Microsoft Power BI Blog
+**Type:** bi_tooling
+**Published:** Thu, 07 May 2026 17:47:39 GMT
+**URL:** https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Execute-DAX-Queries-REST-API-Preview/ba-p/5177697
+**Relevance score:** 3/5
+**Quality note:** Vendor/company source: useful primary signal, but not neutral proof.
+
+**Summary:**
+
+Author: Kay Unkroth - Principal Program Manager
+
+---
+
+## 43. Semantic model settings pane (Preview)
+
+**Source:** Microsoft Power BI Blog
+**Type:** bi_tooling
+**Published:** Wed, 06 May 2026 18:04:07 GMT
+**URL:** https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Semantic-model-settings-pane-Preview/ba-p/5177694
+**Relevance score:** 3/5
+**Quality note:** Vendor/company source: useful primary signal, but not neutral proof.
+
+**Summary:**
+
+Author: Kay Unkroth - Principal Program Manager
+
+---
+
+## 44. UK households cut back spending at fastest rate in 16 months, Barclays says
+
+**Source:** The Guardian Business
+**Type:** independent_news
+**Published:** Tue, 12 May 2026 06:40:42 GMT
+**URL:** https://www.theguardian.com/business/2026/may/12/uk-households-cut-spending-barclays-credit-card-iran-war
+**Relevance score:** 3/5
+**Quality note:** News/search source: useful for current signals, but verify important claims.
+
+**Summary:**
+
+Dip in credit card spending in April, particularly on travel, suggests Britons preparing for harder times amid Iran war fallout Households cut back on their spending in April at the fastest pace in 16 months, as the conflict in the Middle East provoked fears of another cost of living crisis, a report from one of the UK’s biggest banks has suggested. Barclays, which processes nearly 40% of the UK’s credit and debit card transactions, said its data showed there had been a 0.1% fall in card spending last month compared with a year earlier. This was the first year-on-year fall since November 2024. Continue reading...
+
+---
+
+## 45. Buyers of Liza Minnelli memoir claim it was not signed by hand
+
+**Source:** The Guardian Business
+**Type:** independent_news
+**Published:** Tue, 12 May 2026 07:00:18 GMT
+**URL:** https://www.theguardian.com/music/2026/may/12/liza-minnelli-memoir-signed-by-hand-signatures-autopen
+**Relevance score:** 3/5
+**Quality note:** News/search source: useful for current signals, but verify important claims.
+
+**Summary:**
+
+Premium editions of Kids, Wait Till You Hear This! cost up to $250 but some say signatures are unnaturally identical Liza Minnelli fans who bought signed copies of her memoir are seeking refunds because they believe her signature is fake. Copies of Kids, Wait Till You Hear This ! by the American 80-year-old singer were marketed around the world as “hand-signed collectibles”, with premium editions costing up to $250 (£185). Continue reading...
+
+---
+
+## 46. Untitled
+
+**Source:** GOV.UK SMEs digital adoption
+**Type:** official_policy
+**Published:** 
+**URL:** https://www.gov.uk/api/search.json?q=SME%20digital%20adoption%20artificial%20intelligence&count=5&order=updated-newest
+**Relevance score:** 3/5
+**Quality note:** Official source: credible context, but may be broad or slow-moving.
+**Fetch error:** HTTP Error 422: Unknown Error
+
+**Summary:**
+
+
+
+---
+
+## 47. Untitled
+
+**Source:** GOV.UK business productivity technology
+**Type:** official_policy
+**Published:** 
+**URL:** https://www.gov.uk/api/search.json?q=business%20productivity%20technology%20SME&count=5&order=updated-newest
+**Relevance score:** 3/5
+**Quality note:** Official source: credible context, but may be broad or slow-moving.
+**Fetch error:** HTTP Error 422: Unknown Error
+
+**Summary:**
+
+
+
+---
+
+## 48. Building web search-enabled agents with Strands and Exa
+
+**Source:** AWS Machine Learning Blog
+**Type:** ai_data_tooling
+**Published:** Mon, 11 May 2026 21:58:16 +0000
+**URL:** https://aws.amazon.com/blogs/machine-learning/building-web-search-enabled-agents-with-strands-and-exa/
+**Relevance score:** 2/5
+**Quality note:** Vendor/company source: useful primary signal, but not neutral proof.
+
+**Summary:**
+
+In this post, you will learn how to set up the Exa integration in Strands Agents, understand the two core tools it exposes, and walk through real-world use cases that show how agents use web search to complete multi-step tasks.
+
+---
+
+## 49. Manufacturing intelligence with Amazon Nova Multimodal Embeddings
+
+**Source:** AWS Machine Learning Blog
+**Type:** ai_data_tooling
+**Published:** Mon, 11 May 2026 17:08:24 +0000
+**URL:** https://aws.amazon.com/blogs/machine-learning/manufacturing-intelligence-with-amazon-nova-multimodal-embeddings/
+**Relevance score:** 2/5
+**Quality note:** Vendor/company source: useful primary signal, but not neutral proof.
+
+**Summary:**
+
+In this post, we build a multimodal retrieval system for aerospace manufacturing documents using Amazon Nova Multimodal Embeddings on Amazon Bedrock and Amazon S3 Vectors. We evaluate the system on 26 manufacturing queries and compare generation quality between a text-only pipeline and the multimodal pipeline.
+
+---
+
+## 50. ﻿How Leaders Can Move Past Personal Obstacles
+
+**Source:** MIT Sloan Management Review
+**Type:** professional_insight
+**Published:** Mon, 11 May 2026 11:00:37 +0000
+**URL:** https://sloanreview.mit.edu/article/how-leaders-can-move-past-personal-obstacles/
+**Relevance score:** 2/5
+**Quality note:** Professional insight source: useful framing, but may be marketing-led.
+
+**Summary:**
+
+Brian Stauffer/theispot.com Imagine you’re Gabrielle, a senior leader at a fast-growing tech company. Two of your top performers are also your biggest headaches, and they’re making everyone miserable — most of all, you. One is technically brilliant but undermines colleagues’ ideas with sly sarcasm and strategic inaction. The other is a creative powerhouse but belittles [&#8230;]
+
+---
+
+## 51. Why Businesses Should Experiment With Quantum Computing Now
+
+**Source:** MIT Sloan Management Review
+**Type:** professional_insight
+**Published:** Thu, 07 May 2026 11:00:58 +0000
+**URL:** https://sloanreview.mit.edu/article/why-businesses-should-experiment-with-quantum-computing-now/
+**Relevance score:** 2/5
+**Quality note:** Professional insight source: useful framing, but may be marketing-led.
+
+**Summary:**
+
+Matt Chinworth/theispot.com Executives tracking the latest news about quantum computing might conclude that with technical milestones still to be reached, the prudent approach is to watch and wait before investing. But that overlooks what other, bolder companies recognize: Quantum computing is an enabling technology, and user organizations have a critical role to play in shaping [&#8230;]
+
+---
+
+## 52. Behind the AI in the Newsroom: The Washington Post’s Vineet Khosla
+
+**Source:** MIT Sloan Management Review
+**Type:** professional_insight
+**Published:** Tue, 05 May 2026 11:00:47 +0000
+**URL:** https://sloanreview.mit.edu/audio/behind-the-ai-in-the-newsroom-the-washington-posts-vineet-khosla/
+**Relevance score:** 2/5
+**Quality note:** Professional insight source: useful framing, but may be marketing-led.
+
+**Summary:**
+
+In this episode of Me, Myself, and AI, host Sam Ransbotham speaks with Vineet Khosla, CTO of The Washington Post, about how AI is reshaping the way news is produced, delivered, and consumed. Vineet argues that journalism itself isn’t broken — but the formats people use to consume news are rapidly evolving, especially as audiences [&#8230;]
+
+---
+
+## 53. The Innovation Advantage GenAI Can’t Give You
+
+**Source:** MIT Sloan Management Review
+**Type:** professional_insight
+**Published:** Mon, 04 May 2026 11:00:55 +0000
+**URL:** https://sloanreview.mit.edu/article/the-innovation-advantage-genai-cant-give-you/
+**Relevance score:** 2/5
+**Quality note:** Professional insight source: useful framing, but may be marketing-led.
+
+**Summary:**
+
+Eliot Wyatt/Ikon Images For most of modern business times, competitive advantage belonged to whoever had the best ideas. Better ideas meant better products, which meant more customers, which meant more revenue and profit. The entire innovation industry — consultancies, design firms, brainstorming retreats fueled by sticky notes and gallons of La Croix — was built [&#8230;]
+
+---
+
+## 54. Agents, robots, and us: How AI reshapes work and skills in Europe
+
+**Source:** McKinsey Insights
+**Type:** professional_insight
+**Published:** Tue, 12 May 2026
+**URL:** https://www.mckinsey.com/mgi/our-research/agents-robots-and-us-how-ai-reshapes-work-and-skills-in-europe
+**Relevance score:** 2/5
+**Quality note:** Professional insight source: useful framing, but may be marketing-led.
+
+**Summary:**
+
+Most skills will still be needed—but how people use them will change as they work alongside intelligent machines.
+
+---
+
+## 55. Talking with Nigel Morris, cofounder of QED Investors
+
+**Source:** McKinsey Insights
+**Type:** professional_insight
+**Published:** Mon, 11 May 2026
+**URL:** https://www.mckinsey.com/industries/financial-services/our-insights/talking-with-nigel-morris-cofounder-of-qed-investors
+**Relevance score:** 2/5
+**Quality note:** Professional insight source: useful framing, but may be marketing-led.
+
+**Summary:**
+
+The venture capital firm, which supports early-stage and growth fintechs, gives its founders a front-row seat to observe the industry’s accelerating evolution.
+
+---
+
+## 56. Author Talks: Feeling stuck? Turn uncertainty into purpose
+
+**Source:** McKinsey Insights
+**Type:** professional_insight
+**Published:** Mon, 11 May 2026
+**URL:** https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-feeling-stuck-turn-uncertainty-into-purpose
+**Relevance score:** 2/5
+**Quality note:** Professional insight source: useful framing, but may be marketing-led.
+
+**Summary:**
+
+Being stuck isn’t failure—it’s a signal to act. NobleReach Foundation CEO Arun Gupta explains how action—not clarity—creates momentum and fuels mission in an uncertain world.
+
+---
+
+## 57. The McKinsey Crossword: Made with AI | No. 266
+
+**Source:** McKinsey Insights
+**Type:** professional_insight
+**Published:** Mon, 11 May 2026
+**URL:** https://www.mckinsey.com/featured-insights/the-mckinsey-crossword/may-2026
+**Relevance score:** 2/5
+**Quality note:** Professional insight source: useful framing, but may be marketing-led.
+
+**Summary:**
+
+Sharpen your problem-solving skills with the McKinsey Quarterly crossword. Each puzzle is created with the McKinsey audience in mind and is built around a subtle (and sometimes not-so-subtle) business theme for you to find.
+
+---
+
+## 58. The end of ERP as we know it? Five ways AI is disrupting ERP
+
+**Source:** McKinsey Insights
+**Type:** professional_insight
+**Published:** Mon, 11 May 2026
+**URL:** https://www.mckinsey.com/capabilities/mckinsey-technology/our-insights/the-end-of-erp-as-we-know-it-five-ways-ai-is-disrupting-erp
+**Relevance score:** 2/5
+**Quality note:** Professional insight source: useful framing, but may be marketing-led.
+
+**Summary:**
+
+The question is not whether AI will affect the familiar ERP paradigm but rather how radically and quickly the shift will happen.
+
+---
+
+## 59. UK bond yields jump and pound falls amid ‘political uncertainty’ over Starmer’s future – business live
+
+**Source:** The Guardian Business
+**Type:** independent_news
+**Published:** Tue, 12 May 2026 07:09:25 GMT
+**URL:** https://www.theguardian.com/business/live/2026/may/12/uk-bond-yields-borrowing-costs-pound-falls-oil-inflation-live-updates
+**Relevance score:** 2/5
+**Quality note:** News/search source: useful for current signals, but verify important claims.
+
+**Summary:**
+
+Rolling coverage of the latest economic and financial news Starmer on the brink as cabinet ministers urge him to quit Newsflash: UK government borrowing costs have risen at the start of bond market trading. Political uncertainty is gripping the markets, after Keir Starmer was urged to set out an orderly timetable for his departure ahead of this morning’s cabinet meeting. The market’s main concern here, and the reason for this Gilt underperformance, is twofold – firstly, that a new PM would shift to the left, and loosen/scrap the UK’s current fiscal rules; and, secondly, that doing so would exacerbate the UK’s inflation problem. With political uncertainty likely to persist for a while, and the fiscal rhetoric only set to ramp up, those considering buying the dip in Gilts may be minded to wait a while. Continue reading...
+
+---
+
+## 60. OpenAI Campus Network: Student club interest form
+
+**Source:** OpenAI News
+**Type:** company_primary_ai
+**Published:** Mon, 11 May 2026 10:00:00 GMT
+**URL:** https://openai.com/index/openai-campus-network-student-club-interest-form
+**Relevance score:** 1/5
+**Quality note:** Vendor/company source: useful primary signal, but not neutral proof.
+
+**Summary:**
+
+Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.
+
+---
+
+## 61. OpenAI launches DeployCo to help businesses build around intelligence
+
+**Source:** OpenAI News
+**Type:** company_primary_ai
+**Published:** Mon, 11 May 2026 06:00:00 GMT
+**URL:** https://openai.com/index/openai-launches-the-deployment-company
+**Relevance score:** 1/5
+**Quality note:** Vendor/company source: useful primary signal, but not neutral proof.
+
+**Summary:**
+
+OpenAI launches DeployCo, a new enterprise deployment company built to help organizations bring frontier AI into production and turn it into measurable business impact.
+
+---
+
+## 62. Running Codex safely at OpenAI
+
+**Source:** OpenAI News
+**Type:** company_primary_ai
+**Published:** Fri, 08 May 2026 12:30:00 GMT
+**URL:** https://openai.com/index/running-codex-safely
+**Relevance score:** 1/5
+**Quality note:** Vendor/company source: useful primary signal, but not neutral proof.
+
+**Summary:**
+
+How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption.
+
+---
+
+## 63. AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields
+
+**Source:** Google DeepMind Blog
+**Type:** company_primary_ai
+**Published:** Wed, 06 May 2026 10:43:49 +0000
+**URL:** https://deepmind.google/blog/alphaevolve-impact/
+**Relevance score:** 1/5
+**Quality note:** Vendor/company source: useful primary signal, but not neutral proof.
+
+**Summary:**
+
+Explore how AlphaEvolve's Gemini-powered algorithms are driving impact across business, infrastructure, and science.
+
+---
+
+## 64. Enabling a new model for healthcare with AI co-clinician
+
+**Source:** Google DeepMind Blog
+**Type:** company_primary_ai
+**Published:** Thu, 30 Apr 2026 12:14:15 +0000
+**URL:** https://deepmind.google/blog/ai-co-clinician/
+**Relevance score:** 1/5
+**Quality note:** Vendor/company source: useful primary signal, but not neutral proof.
+
+**Summary:**
+
+Researching the path to AI-augmented care and development of an AI co-clinician.
+
+---
+
+## 65. Announcing our partnership with the Republic of Korea
+
+**Source:** Google DeepMind Blog
+**Type:** company_primary_ai
+**Published:** Mon, 27 Apr 2026 07:00:06 +0000
+**URL:** https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/
+**Relevance score:** 1/5
+**Quality note:** Vendor/company source: useful primary signal, but not neutral proof.
+
+**Summary:**
+
+Google DeepMind and Korea partner to accelerate scientific breakthroughs using frontier AI models
+
+---
+
+## 66. Decoupled DiLoCo: A new frontier for resilient, distributed AI training
+
+**Source:** Google DeepMind Blog
+**Type:** company_primary_ai
+**Published:** Wed, 22 Apr 2026 10:20:03 +0000
+**URL:** https://deepmind.google/blog/decoupled-diloco/
+**Relevance score:** 1/5
+**Quality note:** Vendor/company source: useful primary signal, but not neutral proof.
+
+**Summary:**
+
+
+
+---
+
+## 67. Partnering with industry leaders to accelerate AI transformation
+
+**Source:** Google DeepMind Blog
+**Type:** company_primary_ai
+**Published:** Tue, 21 Apr 2026 14:54:15 +0000
+**URL:** https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/
+**Relevance score:** 1/5
+**Quality note:** Vendor/company source: useful primary signal, but not neutral proof.
+
+**Summary:**
+
+Google DeepMind partners with global consultancies to bring the power of frontier AI to organizations around the world.
+
+---
+
+## 68. How driving test booking is changing for learner drivers
+
+**Source:** BBC Business
+**Type:** independent_news
+**Published:** Mon, 11 May 2026 23:08:21 GMT
+**URL:** https://www.bbc.com/news/articles/ckgpl9zdw3po?at_medium=RSS&at_campaign=rss
+**Relevance score:** 1/5
+**Quality note:** News/search source: useful for current signals, but verify important claims.
+
+**Summary:**
+
+From 12 May, only learner drivers can book their own tests, not instructors.
+
+---
+
+## 69. China should stop hoarding food and fertiliser, says former World Bank chief
+
+**Source:** BBC Business
+**Type:** independent_news
+**Published:** Tue, 12 May 2026 03:40:29 GMT
+**URL:** https://www.bbc.com/news/articles/cwy2rnyg50zo?at_medium=RSS&at_campaign=rss
+**Relevance score:** 1/5
+**Quality note:** News/search source: useful for current signals, but verify important claims.
+
+**Summary:**
+
+David Malpass also said that Beijing's claim to be a developing nation is no longer credible.
+
+---
+
+## 70. British Steel nationalisation plans announced by Starmer
+
+**Source:** BBC Business
+**Type:** independent_news
+**Published:** Mon, 11 May 2026 11:22:01 GMT
+**URL:** https://www.bbc.com/news/articles/c8xwg0gdrpzo?at_medium=RSS&at_campaign=rss
+**Relevance score:** 1/5
+**Quality note:** News/search source: useful for current signals, but verify important claims.
+
+**Summary:**
+
+The steelworks has been under government control for almost a year, but leglistation to nationalise it will be put forward this week.
+
+---
+
+## 71. Ovo energy customers urged not to panic as takeover planned
+
+**Source:** BBC Business
+**Type:** independent_news
+**Published:** Mon, 11 May 2026 15:39:32 GMT
+**URL:** https://www.bbc.com/news/articles/cn4pl91npjdo?at_medium=RSS&at_campaign=rss
+**Relevance score:** 1/5
+**Quality note:** News/search source: useful for current signals, but verify important claims.
+
+**Summary:**
+
+All existing tariffs will be honoured in full under a planned deal that could create one of Britain's largest energy suppliers.
+
+---
+
+## 72. Elon Musk and Tim Cook among CEOs expected to accompany Trump on China trip
+
+**Source:** BBC Business
+**Type:** independent_news
+**Published:** Mon, 11 May 2026 18:26:20 GMT
+**URL:** https://www.bbc.com/news/articles/c5yx757w048o?at_medium=RSS&at_campaign=rss
+**Relevance score:** 1/5
+**Quality note:** News/search source: useful for current signals, but verify important claims.
+
+**Summary:**
+
+A total of 17 US executives are set to join the president on his visit, where he will meet his Chinese counterpart Xi Jinping.
+
+---
+
+## 73. BuzzFeed sold to Byron Allen, who will take over as CEO in $120m deal
+
+**Source:** The Guardian Business
+**Type:** independent_news
+**Published:** Mon, 11 May 2026 22:43:25 GMT
+**URL:** https://www.theguardian.com/business/2026/may/11/buzzfeed-digital-media-deal-byron-allen
+**Relevance score:** 1/5
+**Quality note:** News/search source: useful for current signals, but verify important claims.
+
+**Summary:**
+
+Allen, a media entrepreneur, to replace founder Jonah Peretti as chief executive with ‘significant’ cost cuts to come BuzzFeed , the digital media pioneer that was once valued as high as $1.7bn amid a private equity-funded wave of interest in websites that generated massive amounts of online traffic in the 2010s, has finally changed hands for $120m. On Monday, the company announced that a controlling stake in the company has been sold to media entrepreneur Byron Allen. Allen, who often makes large, sometimes unsolicited bids for media companies, is also an on-screen personality in addition to controlling his Allen Media Group conglomerate, which owns networks including The Weather Channel. Allen’s show, Comics Unleashed, will replace the Late Show with Stephen Colbert on CBS’s schedule starting later this month . Continue reading...
+
+---
+
+## 74. British Steel nationalisation: what went wrong, and what happens now?
+
+**Source:** The Guardian Business
+**Type:** independent_news
+**Published:** Tue, 12 May 2026 06:00:17 GMT
+**URL:** https://www.theguardian.com/business/2026/may/12/british-steel-nationalisation-jingye-keir-starmer-scunthorpe-plant
+**Relevance score:** 1/5
+**Quality note:** News/search source: useful for current signals, but verify important claims.
+
+**Summary:**
+
+Keir Starmer’s plan for full state ownership marks latest chapter in Scunthorpe plant’s troubled history Full nationalisation of British Steel expected in king’s speech Nils Pratley: More questions than answers on the future Four queens – blast furnaces named after Anne, Bess (Elizabeth), Victoria and Mary – loom over the British Steel works at Scunthorpe. Within days the queens could be under public ownership, after Keir Starmer on Monday promised legislation to nationalise the plant. “Strong nations in a world like this need to make steel,” Starmer said on Monday in a speech. The prime minister was hoping decisive action would fend off challenges to his leadership. Continue reading...
+
+---
+
+## 75. Untitled
+
+**Source:** GOV.UK AI business adoption
+**Type:** official_policy
+**Published:** 
+**URL:** https://www.gov.uk/api/search.json?q=artificial%20intelligence%20business%20adoption&count=5&order=updated-newest
+**Relevance score:** 1/5
+**Quality note:** Official source: credible context, but may be broad or slow-moving.
+**Fetch error:** HTTP Error 422: Unknown Error
+
+**Summary:**
+
+
+
+---
