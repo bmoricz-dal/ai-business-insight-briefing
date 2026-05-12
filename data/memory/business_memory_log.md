@@ -44,3 +44,49 @@
 ## Workflow improvement note
 
 - Because the existing brief already focused heavily on action-enabled dashboards and workflow automation, future runs should track the previous day’s angle and deliberately choose a different lead theme when the same source pack is reused.
+
+
+# Memory Update - 2026-05-12
+
+## Brief generated
+
+- File: `reports/daily/markdown/2026-05-12-business-brief.md`
+- Source pack used: `data/source_packs/2026-05-12-business-source-pack.md`
+
+## Strongest themes today
+
+- BI tools are moving from passive dashboards toward action-enabled workflow interfaces.
+- The business value of AI and BI depends on clean data, clear process ownership, permissions, and auditability.
+- FMCG, retail, sales, and distribution relevance is strongest where dashboards help teams act on daily exceptions such as stock issues, delivery delays, customer updates, supplier problems, and margin pressure.
+
+## Useful concepts added
+
+**Term:** Action-enabled business intelligence dashboard  
+**Plain English meaning:** A dashboard that does not only show information, but also lets users take a controlled action from inside the report.  
+**Business example:** A customer service manager sees a delayed order in a dashboard, adds a note, updates the case status, and triggers a follow-up task without leaving the report.  
+**Why it matters:** It reduces the gap between insight and action, but it also increases the need for data quality, permissions, checks, and accountability.
+
+## Source quality notes
+
+- Microsoft Power BI sources were useful for tracking product direction and workflow capability, but they are vendor-led and should not be treated as neutral proof of business value.
+- The Iceland/invent.ai source was highly relevant to retail replenishment, but the source pack only included a headline-level summary, so detailed claims should be checked against the full article.
+
+## FMCG / sales / distribution relevance
+
+- The strongest practical angle is using BI dashboards to manage operational exceptions: replenishment problems, delayed deliveries, supplier updates, customer notes, sales follow-ups, and margin-impacting cost changes.
+- Shipping cost pressure from UPS and FedEx surcharge changes strengthens the case for better cost visibility, but it does not prove that AI or BI tools automatically solve margin pressure.
+
+## SME / market intelligence relevance
+
+- SME-facing software opportunities are strongest when AI or BI tools are packaged around clear workflows rather than broad transformation claims.
+- There may be demand for lightweight tools that connect reporting, task management, and operational updates without requiring a large enterprise data team.
+
+## Future research ideas
+
+- Research how BI dashboards are evolving from reporting tools into workflow tools.
+- Compare passive dashboards, action-enabled dashboards, and AI-assisted workflow tools for FMCG/distribution use cases.
+- Build a small public framework for assessing whether a business process is ready for action-enabled BI.
+
+## Workflow improvement note
+
+- Future briefs should avoid reusing the same Microsoft-led BI angle too often. If the next source pack contains similar Power BI sources, select a different lead theme unless there is a genuinely new implementation or market signal.
