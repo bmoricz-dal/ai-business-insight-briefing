@@ -90,3 +90,102 @@
 ## Workflow improvement note
 
 - Future briefs should avoid reusing the same Microsoft-led BI angle too often. If the next source pack contains similar Power BI sources, select a different lead theme unless there is a genuinely new implementation or market signal.
+
+# Memory Update - 2026-05-13
+
+## Brief generated
+
+- File: `reports/daily/markdown/2026-05-13-business-brief.md`
+- Source pack used: `data/source_packs/2026-05-13-business-source-pack.md`
+
+## Strongest themes today
+
+- Enterprise AI is shifting from access and experimentation toward deployment capability.
+- The most useful framing is that AI value depends on operating-model redesign, not just model quality or tool availability.
+- OpenAI and IBM both point toward the same market direction: AI needs workflow integration, data readiness, orchestration, governance, infrastructure, and implementation support.
+- The strongest FMCG / retail link is agentic AI for retail supply-chain coordination, including demand forecasting, procurement, supplier coordination, replenishment, and exception handling.
+
+## Useful concepts added
+
+**Term:** AI deployment capability  
+**Plain English meaning:** The business has the people, data, systems, governance, and workflow discipline needed to turn AI tools into useful operational change.  
+**Business example:** A wholesaler moves from giving staff AI chat access to embedding AI into sales, stock, supplier, and replenishment workflows with manager review.  
+**Why it matters:** AI access is easy to buy. AI deployment capability is harder to build and more likely to determine whether value appears.
+
+## Source quality notes
+
+- OpenAI B2B Signals is useful for understanding vendor framing around enterprise AI adoption, but it is not neutral evidence.
+- Reuters coverage of OpenAI’s deployment company is a stronger independent market signal, but the initiative is new and does not yet prove business outcomes.
+- IBM Think 2026 material is useful for operating-model framing, but it is vendor-led and should be checked against independent implementation evidence.
+- The Flowr retail supply-chain paper is relevant to FMCG and supermarket operations, but it should be treated as research evidence rather than broad market validation.
+
+## FMCG / sales / distribution relevance
+
+- AI in FMCG and retail is most convincing when tied to daily operating workflows: replenishment, supplier coordination, store-level stock issues, purchase orders, promotions, delivery exceptions, and margin pressure.
+- The key risk is scaling bad decisions. Poor product data, weak supplier records, unreliable stock information, or unclear approval rules can make agentic systems dangerous rather than useful.
+- A practical SME-friendly angle is “AI-assisted exception management” rather than full autonomous supply-chain control.
+
+## SME / market intelligence relevance
+
+- SME AI opportunities are likely to sit in deployment support, workflow templates, and lightweight data-readiness services rather than generic chatbot access.
+- The market may reward tools that combine BI, operational data, task management, and human approval loops.
+- There is a clear consulting/product opportunity around helping firms move from AI experimentation to AI deployment capability.
+
+## Future research ideas
+
+- Write a framework comparing AI access, AI adoption, and AI deployment capability.
+- Build a checklist for whether a business workflow is ready for AI agents.
+- Research retail and FMCG use cases where AI improves exception handling without fully automating operational decisions.
+- Compare vendor claims about “agentic enterprise” with independent evidence of measurable workflow change.
+
+## Workflow improvement note
+
+- Avoid making the next brief another broad “enterprise AI operating model” piece unless there is a new implementation case with measurable outcomes.
+- Look for stronger independent evidence from retail, logistics, supply-chain, SME software, or BI implementation sources.
+
+# Memory Update - 2026-05-14
+
+## Brief generated
+
+- File: `reports/daily/markdown/2026-05-14-business-brief.md`
+
+## Strongest themes today
+
+- AI implementation value increasingly appears through exception management rather than broad autonomous decision-making.
+- Workflow design, escalation ownership, and data reliability remain stronger predictors of value than model sophistication.
+- Retail and FMCG use cases continue to be strongest where AI reduces operational noise and prioritises actions.
+
+## Useful concepts added
+
+**Term:** Exception-first AI workflow design  
+**Plain English meaning:** Designing AI around identifying and prioritising unusual operational events rather than attempting complete automation.  
+**Business example:** AI ranks inventory disruptions by commercial impact and highlights which issues managers should address first.  
+**Why it matters:** Most operational value comes from improving focus and coordination.
+
+## Source quality notes
+
+- Retail supply-chain research remains one of the strongest practical FMCG signals.
+- Vendor material increasingly converges around workflow and operational infrastructure themes.
+- Independent implementation evidence remains thinner than market positioning material.
+
+## FMCG / sales / distribution relevance
+
+- Strong opportunities exist around inventory exceptions, replenishment risk, supplier coordination, and delivery disruption workflows.
+- AI-assisted prioritisation appears more realistic than full workflow autonomy for many operational environments.
+- Data reliability remains the dominant constraint.
+
+## SME / market intelligence relevance
+
+- SME opportunities likely sit in lightweight exception-management tools rather than large autonomous platforms.
+- There may be product opportunities around prioritisation layers sitting above existing BI systems.
+
+## Future research ideas
+
+- Compare exception management systems with autonomous workflow systems.
+- Build an operational readiness framework for AI-assisted prioritisation.
+- Study where alert fatigue begins in AI-supported operational environments.
+
+## Workflow improvement note
+
+- Avoid repeating broad deployment and operating-model themes in the next brief unless supported by stronger implementation evidence.
+- Prioritise measurable case studies where operational outcomes are visible.
