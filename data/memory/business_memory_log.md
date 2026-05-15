@@ -189,3 +189,51 @@
 
 - Avoid repeating broad deployment and operating-model themes in the next brief unless supported by stronger implementation evidence.
 - Prioritise measurable case studies where operational outcomes are visible.
+
+# Memory Update - 2026-05-15
+
+## Brief generated
+
+- File: `reports/daily/markdown/2026-05-15-business-brief.md`
+
+## Strongest themes today
+
+- AI implementation increasingly depends on workflow integration and connected operational data.
+- Data movement and orchestration appear to be becoming more commercially important.
+- Businesses may gain more value from reducing operational friction than from isolated AI tools.
+
+## Useful concepts added
+
+**Term:** Workflow integration readiness  
+**Plain English meaning:** The degree to which systems, data, and processes work together without heavy manual intervention.  
+**Business example:** Inventory, supplier, and sales systems become connected rather than requiring manual reconciliation.  
+**Why it matters:** AI outcomes often depend on workflow quality and operational context.
+
+## Source quality notes
+
+- Vendor sources continue converging around orchestration and workflow themes.
+- Independent evidence still lags behind product positioning.
+- Stronger operational case studies should remain a future priority.
+
+## FMCG / sales / distribution relevance
+
+- Connected workflows may provide stronger practical value than isolated AI tools.
+- Inventory, replenishment, transport, and supplier coordination remain high-value operational targets.
+- Data fragmentation remains a major implementation risk.
+
+## SME / market intelligence relevance
+
+- SME barriers increasingly appear operational rather than technical.
+- Lightweight integration and workflow tools may represent attractive opportunities.
+- Ecosystem complexity may become a competitive challenge.
+
+## Future research ideas
+
+- Create an AI workflow integration readiness scorecard.
+- Compare system fragmentation costs across SMEs.
+- Study how disconnected operational systems reduce AI implementation success.
+
+## Workflow improvement note
+
+- Avoid another workflow orchestration theme unless stronger independent implementation evidence emerges.
+- Prioritise measurable operational outcomes and practical business process changes.
