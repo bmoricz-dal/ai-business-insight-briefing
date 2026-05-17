@@ -237,3 +237,97 @@
 
 - Avoid another workflow orchestration theme unless stronger independent implementation evidence emerges.
 - Prioritise measurable operational outcomes and practical business process changes.
+
+# Memory Update - 2026-05-16
+
+## Brief generated
+
+- File: `reports/daily/markdown/2026-05-16-business-brief.md`
+
+## Strongest themes today
+
+- AI implementation increasingly appears strongest when linked to operational decisions rather than broad transformation goals.
+- Decision support and workflow fit continue appearing more practical than autonomous ambitions.
+- Businesses face growing pressure to prioritise AI opportunities rather than pursue too many use cases simultaneously.
+
+## Useful concepts added
+
+**Term:** Decision-first AI design  
+**Plain English meaning:** Selecting AI use cases by beginning with operational decisions and workflow friction rather than technology capability.  
+**Business example:** AI supports delayed shipment handling because it solves a specific operational bottleneck.  
+**Why it matters:** Improves the likelihood that AI projects create measurable value.
+
+## Source quality notes
+
+- Professional insight sources provided stronger framing than implementation measurement.
+- Vendor materials continue reinforcing workflow and operational positioning.
+- Independent operational evidence remains relatively limited.
+
+## FMCG / sales /distribution relevance
+
+- Inventory, replenishment, delivery handling, and supplier coordination continue appearing as strong AI targets.
+- Narrow operational workflows may create stronger implementation outcomes than broad transformation efforts.
+- Data consistency remains a major operational risk.
+
+## SME / market intelligence relevance
+
+- SMEs may benefit more from workflow-specific AI tools than large-scale AI platforms.
+- AI prioritisation frameworks could become valuable advisory and software opportunities.
+
+## Future research ideas
+
+- Build a decision-first AI readiness framework.
+- Compare technology-first versus workflow-first implementation approaches.
+- Study operational decision bottlenecks across FMCG and wholesale environments.
+
+## Workflow improvement note
+
+- Avoid returning repeatedly to broad workflow themes unless stronger independent implementation cases appear.
+- Continue prioritising operational evidence and measurable business outcomes.
+
+# Memory Update - 2026-05-17
+
+## Brief generated
+
+- File: `reports/daily/markdown/2026-05-17-business-brief.md`
+
+## Strongest themes today
+
+- Enterprise AI discussions increasingly focus on accountability and workflow ownership.
+- Governance increasingly appears as an operational design issue rather than only a compliance topic.
+- Human review structures continue appearing more practical than broad automation ambitions.
+
+## Useful concepts added
+
+**Term:** Human-in-the-loop operational governance  
+**Plain English meaning:** AI supports decisions while people remain responsible for reviewing and controlling outcomes.  
+**Business example:** AI recommends inventory actions but managers approve operational changes.  
+**Why it matters:** Strong ownership structures improve trust and operational reliability.
+
+## Source quality notes
+
+- Institutional sources strengthened governance framing beyond vendor narratives.
+- Vendor materials continue showing workflow and implementation priorities rather than direct outcome evidence.
+- Stronger operational case studies remain a future requirement.
+
+## FMCG / sales / distribution relevance
+
+- Replenishment, supplier escalation, and inventory decisions remain strong workflow candidates.
+- Approval structures become increasingly important when operational decisions carry financial consequences.
+- AI systems should narrow ambiguity rather than create responsibility gaps.
+
+## SME / market intelligence relevance
+
+- SMEs may benefit from lightweight workflow controls rather than complex autonomous systems.
+- Trusted implementation could become a competitive differentiator.
+
+## Future research ideas
+
+- Build an AI accountability readiness framework.
+- Study responsibility shifts inside AI-assisted operational workflows.
+- Compare automation intensity with employee trust and adoption.
+
+## Workflow improvement note
+
+- Avoid revisiting broad governance themes unless linked to measurable implementation outcomes.
+- Continue prioritising operational case evidence over abstract framework discussions.
