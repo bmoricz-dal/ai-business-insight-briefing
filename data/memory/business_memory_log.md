@@ -331,3 +331,51 @@
 
 - Avoid revisiting broad governance themes unless linked to measurable implementation outcomes.
 - Continue prioritising operational case evidence over abstract framework discussions.
+
+
+# Memory Update - 2026-05-18
+
+## Brief generated
+
+- File: `reports/daily/markdown/2026-05-18-business-brief.md`
+
+## Strongest themes today
+
+- AI implementation discussions increasingly focus on measurable operational outcomes.
+- Businesses appear to be moving from adoption metrics toward productivity and workflow performance metrics.
+- Implementation discipline and measurement quality increasingly matter as much as model capability.
+
+## Useful concepts added
+
+**Term:** Outcome-first AI measurement  
+**Plain English meaning:** Defining operational outcomes and business metrics before AI implementation begins.  
+**Business example:** Measuring stock-out reduction and exception response speed rather than AI usage counts.  
+**Why it matters:** AI value often becomes difficult to prove when measurement starts after implementation.
+
+## Source quality notes
+
+- Institutional and professional insight sources provided stronger balance against vendor-led material.
+- Independent operational evidence remains stronger than broad product announcements.
+- Long-term measurement studies remain relatively limited.
+
+## FMCG / sales / distribution relevance
+
+- Inventory performance, replenishment efficiency, delivery reliability, and response speed remain strong operational metrics.
+- Businesses should focus on measurable workflow outcomes rather than AI activity levels.
+- KPI overload may create implementation confusion.
+
+## SME / market intelligence relevance
+
+- SMEs may benefit from lightweight outcome measurement frameworks before expanding AI adoption.
+- Implementation measurement tools and advisory services may become attractive opportunities.
+
+## Future research ideas
+
+- Build an AI outcome measurement framework.
+- Compare activity metrics with operational business outcomes.
+- Study implementation failures caused by weak measurement design.
+
+## Workflow improvement note
+
+- Avoid returning to broad workflow themes unless linked to measurable operational evidence.
+- Continue prioritising implementation outcome evidence over capability discussions.
