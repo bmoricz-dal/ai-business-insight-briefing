@@ -379,3 +379,50 @@
 
 - Avoid returning to broad workflow themes unless linked to measurable operational evidence.
 - Continue prioritising implementation outcome evidence over capability discussions.
+
+# Memory Update - 2026-05-19
+
+## Brief generated
+
+- File: `reports/daily/markdown/2026-05-19-business-brief.md`
+
+## Strongest themes today
+
+- Master-data quality increasingly appears as an implementation constraint rather than a background technical issue.
+- AI capability and operational information quality increasingly appear tightly connected.
+- Businesses with cleaner operational environments may gain implementation advantages.
+
+## Useful concepts added
+
+**Term:** Master-data readiness  
+**Plain English meaning:** The degree to which operational information is reliable, consistent, and usable across systems.  
+**Business example:** Product definitions remain identical across inventory, pricing, and supplier systems.  
+**Why it matters:** AI systems often amplify information quality rather than compensate for weak operational foundations.
+
+## Source quality notes
+
+- Industry and institutional sources created stronger balance against vendor positioning.
+- Data quality themes increasingly appear repeatedly across implementation discussions.
+- Stronger implementation evidence with measurable operational outcomes remains desirable.
+
+## FMCG / sales / distribution relevance
+
+- Inventory accuracy, replenishment planning, and supplier data quality remain high-value operational targets.
+- Master-data quality increasingly appears linked to AI usefulness.
+- Faster workflows can magnify poor operational assumptions.
+
+## SME / market intelligence relevance
+
+- SMEs may gain significant value from improving operational information quality before expanding AI adoption.
+- Lightweight data-readiness tools may become practical opportunities.
+
+## Future research ideas
+
+- Build a master-data readiness framework for SMEs.
+- Compare implementation outcomes across businesses with different data maturity levels.
+- Study operational failures linked to weak information environments.
+
+## Workflow improvement note
+
+- Avoid revisiting generic workflow discussions unless supported by stronger operational implementation evidence.
+- Prioritise measurable business outcomes and operational case material.
