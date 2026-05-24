@@ -426,3 +426,246 @@
 
 - Avoid revisiting generic workflow discussions unless supported by stronger operational implementation evidence.
 - Prioritise measurable business outcomes and operational case material.
+
+
+# Memory Update - 2026-05-20
+
+## Brief generated
+
+- File: `reports/daily/markdown/2026-05-20-business-brief.md`
+
+## Strongest themes today
+
+- AI implementation increasingly appears tied to workflow redesign and operational adaptation.
+- Organisational change may increasingly matter as much as technical deployment.
+- Process redesign and AI adoption increasingly appear interconnected.
+
+## Useful concepts added
+
+**Term:** Workflow redesign readiness  
+**Plain English meaning:** The degree to which an organisation can change operational processes alongside technology adoption.  
+**Business example:** AI reduces routine inventory approvals while managers focus only on exceptions.  
+**Why it matters:** Existing workflows often become implementation bottlenecks.
+
+## Source quality notes
+
+- Institutional and professional sources strengthened implementation framing.
+- Vendor materials continued reinforcing operational and workflow themes.
+- Strong long-term implementation measurement remains limited.
+
+## FMCG / sales / distribution relevance
+
+- Approval chains, replenishment workflows, and supplier coordination remain practical AI redesign targets.
+- Workflow simplification may create stronger operational gains than automation alone.
+- Internal adaptation risk remains significant.
+
+## SME / market intelligence relevance
+
+- SMEs may benefit from simplifying workflows before expanding AI capability.
+- Process redesign support could become a growing implementation opportunity.
+
+## Future research ideas
+
+- Build a workflow redesign readiness framework.
+- Compare AI outcomes across organisations with different process maturity.
+- Study operational bottlenecks that repeatedly limit implementation success.
+
+## Workflow improvement note
+
+- Avoid broad workflow redesign themes in future briefs unless stronger measured implementation evidence emerges.
+- Prioritise measurable operational outcomes and case material.
+
+
+# Memory Update - 2026-05-21
+
+## Brief generated
+
+- File: `reports/daily/markdown/2026-05-21-business-brief.md`
+
+## Strongest themes today
+
+- AI implementation increasingly appears strongest in exception-heavy workflows.
+- Operational disruptions may create stronger AI opportunities than routine processes.
+- Prioritisation and anomaly visibility increasingly appear alongside workflow automation themes.
+
+## Useful concepts added
+
+**Term:** Exception-driven workflow design  
+**Plain English meaning:** Designing workflows around identifying and handling unusual situations rather than routine activity.  
+**Business example:** Managers focus only on deliveries deviating from expected behaviour.  
+**Why it matters:** Operational cost and disruption frequently come from exceptions rather than normal flow.
+
+## Source quality notes
+
+- Industry sources strengthened practical supply-chain relevance.
+- Vendor material continued reinforcing workflow themes and should remain treated as implementation signals rather than proof.
+- Long-term measured implementation evidence remains limited.
+
+## FMCG / sales / distribution relevance
+
+- Delayed deliveries, inventory mismatches, and demand shifts remain strong exception-management candidates.
+- AI may create greater value through prioritisation rather than broad automation.
+- Alert fatigue remains an implementation risk.
+
+## SME / market intelligence relevance
+
+- SMEs may gain from lightweight operational monitoring and exception prioritisation tools.
+- Workflow visibility software may become an attractive market segment.
+
+## Future research ideas
+
+- Build an exception-readiness framework for operational workflows.
+- Compare exception-focused AI against routine process automation outcomes.
+- Study operational resilience impacts from anomaly-detection workflows.
+
+## Workflow improvement note
+
+- Avoid returning to generic workflow discussions without stronger measured implementation evidence.
+- Continue prioritising operational outcomes and implementation case material.
+
+
+
+# Memory Update - 2026-05-22
+
+## Brief generated
+
+- File: `reports/daily/markdown/2026-05-22-business-brief.md`
+
+## Strongest themes today
+
+- Trust calibration increasingly appears as an implementation requirement.
+- Human interaction quality may influence AI outcomes as much as model performance.
+- Explainability and workflow usability increasingly appear alongside adoption discussions.
+
+## Useful concepts added
+
+**Term:** Trust calibration  
+**Plain English meaning:** Helping people understand when AI recommendations should be trusted and questioned.  
+**Business example:** Shipment alerts include confidence indicators before operational action occurs.  
+**Why it matters:** Poor trust design may create overreliance or rejection.
+
+## Source quality notes
+
+- Institutional and professional insight sources improved balance against vendor positioning.
+- Human adoption themes increasingly appear alongside workflow discussions.
+- Strong measured operational evidence remains relatively limited.
+
+## FMCG / sales / distribution relevance
+
+- Inventory and replenishment decisions remain strong trust-sensitive workflows.
+- Recommendation visibility and transparency may influence operational adoption.
+- Information overload remains a practical risk.
+
+## SME / market intelligence relevance
+
+- SMEs may benefit from simple, transparent AI systems rather than highly complex solutions.
+- Trust and usability tools may become emerging implementation opportunities.
+
+## Future research ideas
+
+- Build a trust-calibration framework for AI-supported workflows.
+- Compare operational outcomes under high versus low recommendation transparency.
+- Study AI adoption failures linked to trust imbalance.
+
+## Workflow improvement note
+
+- Avoid repeating workflow redesign themes without stronger measured implementation evidence.
+- Continue prioritising operational use cases and adoption outcomes.
+
+
+
+# Memory Update - 2026-05-23
+
+## Brief generated
+
+- File: `reports/daily/markdown/2026-05-23-business-brief.md`
+
+## Strongest themes today
+
+- Workflow fragmentation increasingly appears as a practical AI implementation constraint.
+- Integration quality may increasingly influence AI value realisation.
+- Connected information flows increasingly appear alongside workflow and operational themes.
+
+## Useful concepts added
+
+**Term:** Workflow interoperability  
+**Plain English meaning:** The ability of systems and business processes to work together smoothly and exchange information reliably.  
+**Business example:** Inventory updates automatically flow into replenishment and warehouse workflows.  
+**Why it matters:** Fragmented systems frequently create hidden operational friction.
+
+## Source quality notes
+
+- Professional and institutional sources strengthened implementation framing.
+- Vendor material remained useful as a signal for workflow priorities rather than implementation proof.
+- Long-term measured evidence on workflow integration outcomes remains limited.
+
+## FMCG / sales / distribution relevance
+
+- Inventory, warehouse, and supplier workflows remain highly dependent on information flow quality.
+- AI may create stronger gains through connected systems rather than isolated intelligence tools.
+- Operational fragmentation remains a persistent implementation risk.
+
+## SME / market intelligence relevance
+
+- SMEs may benefit from workflow simplification and lightweight system integration before expanding AI capability.
+- Workflow integration services may become a growing market opportunity.
+
+## Future research ideas
+
+- Build a workflow interoperability readiness framework.
+- Compare AI implementation outcomes across firms with different system integration maturity.
+- Study operational costs created by fragmented information environments.
+
+## Workflow improvement note
+
+- Continue avoiding repeated governance and redesign framing unless stronger operational evidence emerges.
+- Prioritise measurable workflow and operational case examples.
+
+
+
+# Memory Update - 2026-05-24
+
+## Brief generated
+
+- File: `reports/daily/markdown/2026-05-24-business-brief.md`
+
+## Strongest themes today
+
+- AI implementation increasingly appears focused on prioritisation and decision support.
+- Information overload may become a stronger operational challenge than information scarcity.
+- Attention allocation increasingly appears alongside workflow and implementation themes.
+
+## Useful concepts added
+
+**Term:** Attention management architecture  
+**Plain English meaning:** Designing systems so important operational issues receive attention before lower-priority activity.  
+**Business example:** Managers review only high-risk disruptions instead of monitoring every operational event.  
+**Why it matters:** Too much information can create slower decisions rather than better decisions.
+
+## Source quality notes
+
+- Professional and institutional sources strengthened implementation framing.
+- Vendor materials remained useful as implementation signals rather than proof.
+- Strong measured evidence on prioritisation outcomes remains limited.
+
+## FMCG / sales / distribution relevance
+
+- Demand shifts, supplier delays, and inventory risks remain strong prioritisation candidates.
+- AI may create operational value through signal reduction rather than information expansion.
+- Recommendation quality remains dependent on prioritisation logic.
+
+## SME / market intelligence relevance
+
+- SMEs may benefit from lightweight prioritisation systems before expanding AI complexity.
+- Operational attention-management tools may become an emerging software opportunity.
+
+## Future research ideas
+
+- Build an operational prioritisation readiness framework.
+- Compare AI-supported prioritisation against dashboard-heavy workflows.
+- Study operational outcomes from attention-focused AI implementations.
+
+## Workflow improvement note
+
+- Continue avoiding repeated workflow redesign and governance framing unless linked to measurable operational outcomes.
+- Prioritise operational decision support and practical implementation examples.
