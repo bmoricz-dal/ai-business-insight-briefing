@@ -1,0 +1,1118 @@
+# Business Source Pack - 2026-06-10
+
+Purpose: source material for practical AI business adoption and market intelligence briefs.
+
+Use this file as input for `prompts/business_insight_prompt.md`.
+
+## Source selection reminder
+
+- Prefer implementation evidence over hype.
+- Treat vendor/company sources as biased primary signals.
+- Separate fact, meaning, risk and application.
+- Look for BI/workflow, FMCG/distribution, SME and market intelligence relevance.
+
+---
+
+## 1. Unlocking AI flexibility in Europe: A guide to cross-region inference for EU data processing and model access
+
+**Source:** AWS Machine Learning Blog
+**Type:** ai_data_tooling
+**Published:** Mon, 08 Jun 2026 16:40:34 +0000
+**URL:** https://aws.amazon.com/blogs/machine-learning/unlocking-ai-flexibility-in-europe-a-guide-to-cross-region-inference-for-eu-data-processing-and-model-access/
+**Relevance score:** 5/5
+**Quality note:** Vendor/company source: useful primary signal, but not neutral proof.
+
+**Summary:**
+
+With access to the latest generative AI models and high-performance accelerated compute in high global demand, AWS customers need tools to take advantage of model availability and capacity across multiple AWS Regions, while still meeting their security and privacy requirements. cross-Region Inference (CRIS) on Amazon Bedrock meets these needs by automatically routing requests across multiple […]
+
+---
+
+## 2. Building in the Agentic Era with Power BI and Fabric
+
+**Source:** Microsoft Power BI Blog
+**Type:** bi_tooling
+**Published:** Wed, 03 Jun 2026 21:20:25 GMT
+**URL:** https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Building-in-the-Agentic-Era-with-Power-BI-and-Fabric/ba-p/5190754
+**Relevance score:** 5/5
+**Quality note:** Vendor/company source: useful primary signal, but not neutral proof.
+
+**Summary:**
+
+Microsoft Build 2026 marks a major shift in how developers build data experiences with AI agents. Today we're announcing two capabilities that bring agentic analytics to the forefront: Agent Skills for Power BI, which let developers prompt an AI agent to build and refine semantic models and reports, and Fabric Apps for Semantic Models, which enable AI agents to build and deploy Fabric-native web apps on semantic models. Both capabilities will accelerate the time it takes to go from raw data to a polished analytics solution with just natural language prompts.
+
+---
+
+## 3. Power BI at Microsoft Build 2026: The Agentic Era of analytics
+
+**Source:** Microsoft Power BI Blog
+**Type:** bi_tooling
+**Published:** Thu, 04 Jun 2026 23:35:23 GMT
+**URL:** https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-at-Microsoft-Build-2026-The-Agentic-Era-of-analytics/ba-p/5191671
+**Relevance score:** 5/5
+**Quality note:** Vendor/company source: useful primary signal, but not neutral proof.
+
+**Summary:**
+
+Microsoft Build 2026 brings the next generation of intelligent analytics to Power BI—where agents do the building, apps deliver insights everywhere, and the platform gets more powerful for every user.
+
+---
+
+## 4. How Gong cha overhauled its supply chain for US growth
+
+**Source:** Supply Chain Dive
+**Type:** fmcg_supply_chain_news
+**Published:** Tue, 09 Jun 2026 11:50:00 -0400
+**URL:** https://www.supplychaindive.com/news/how-gong-cha-overhauled-its-supply-chain-for-us-growth/820900/
+**Relevance score:** 5/5
+**Quality note:** Industry source: useful sector context, but check whether evidence is narrow or anecdotal.
+
+**Summary:**
+
+The bubble tea brand has standardized its supply chain playbook by moving to a direct franchising system, according to Alan Davis, director of supply chain for the Americas.
+
+---
+
+## 5. Why Tommy John centralized its fulfillment operations
+
+**Source:** Supply Chain Dive
+**Type:** fmcg_supply_chain_news
+**Published:** Tue, 09 Jun 2026 11:11:00 -0400
+**URL:** https://www.supplychaindive.com/news/why-tommy-john-centralized-its-fulfillment-operations/822129/
+**Relevance score:** 5/5
+**Quality note:** Industry source: useful sector context, but check whether evidence is narrow or anecdotal.
+
+**Summary:**
+
+The brand&rsquo;s shift from using multiple fulfillment partners to a single provider closed visibility gaps, its CFO told Supply Chain Dive.
+
+---
+
+## 6. Steel imports down 30% in 2026 as tariffs bolster US production
+
+**Source:** Supply Chain Dive
+**Type:** fmcg_supply_chain_news
+**Published:** Tue, 09 Jun 2026 10:38:00 -0400
+**URL:** https://www.supplychaindive.com/news/steel-imports-down-30-in-2026-as-tariffs-bolster-us-production/822044/
+**Relevance score:** 5/5
+**Quality note:** Industry source: useful sector context, but check whether evidence is narrow or anecdotal.
+
+**Summary:**
+
+Raw and finished steel reached 1.87 million net tons for the month of April, driven by increased imports of tin plate, metallic coatings and other goods, according to census data.
+
+---
+
+## 7. Walmart, Wing add 7 markets to drone delivery expansion plan
+
+**Source:** Supply Chain Dive
+**Type:** fmcg_supply_chain_news
+**Published:** Tue, 09 Jun 2026 07:38:00 -0400
+**URL:** https://www.supplychaindive.com/news/walmart-wing-add-7-markets-to-drone-delivery-expansion-plan/822330/
+**Relevance score:** 5/5
+**Quality note:** Industry source: useful sector context, but check whether evidence is narrow or anecdotal.
+
+**Summary:**
+
+The companies aim to start operations in Philadelphia, Phoenix and other metros by 2027 as the retailer advances its fast delivery push.
+
+---
+
+## 8. ArcBest, ABF Freight announce 5.9% rate increase
+
+**Source:** Supply Chain Dive
+**Type:** fmcg_supply_chain_news
+**Published:** Mon, 08 Jun 2026 12:29:00 -0400
+**URL:** https://www.supplychaindive.com/news/arcbest-abf-freight-announce-59-rate-increase/822242/
+**Relevance score:** 5/5
+**Quality note:** Industry source: useful sector context, but check whether evidence is narrow or anecdotal.
+
+**Summary:**
+
+The atypical Q2 announcement goes into effect later this month as heavier freight mixes gain traction.
+
+---
+
+## 9. UrbanChain extends renewable energy partnership with Believ
+
+**Source:** Logistics Manager
+**Type:** logistics_distribution_news
+**Published:** Wed, 10 Jun 2026 08:19:16 +0000
+**URL:** https://www.logisticsmanager.com/urbanchain-extends-renewable-energy-partnership-with-believ/
+**Relevance score:** 5/5
+**Quality note:** Industry source: useful sector context, but check whether evidence is narrow or anecdotal.
+
+**Summary:**
+
+The post UrbanChain extends renewable energy partnership with Believ appeared first on Logistics Manager .
+
+---
+
+## 10. DHL broadens its Asia-Pacific data centre logistics capabilities
+
+**Source:** Logistics Manager
+**Type:** logistics_distribution_news
+**Published:** Wed, 10 Jun 2026 08:00:02 +0000
+**URL:** https://www.logisticsmanager.com/dhl-broadens-its-asia-pacific-data-centre-logistics-capabilities/
+**Relevance score:** 5/5
+**Quality note:** Industry source: useful sector context, but check whether evidence is narrow or anecdotal.
+
+**Summary:**
+
+The post DHL broadens its Asia-Pacific data centre logistics capabilities appeared first on Logistics Manager .
+
+---
+
+## 11. Orbbec opens RVMC Factory
+
+**Source:** Logistics Manager
+**Type:** logistics_distribution_news
+**Published:** Tue, 09 Jun 2026 14:14:31 +0000
+**URL:** https://www.logisticsmanager.com/orbbec-opens-rvmc-factory/
+**Relevance score:** 5/5
+**Quality note:** Industry source: useful sector context, but check whether evidence is narrow or anecdotal.
+
+**Summary:**
+
+The post Orbbec opens RVMC Factory appeared first on Logistics Manager .
+
+---
+
+## 12. Canmoor appoints contractor for Glasgow Airport project
+
+**Source:** Logistics Manager
+**Type:** logistics_distribution_news
+**Published:** Tue, 09 Jun 2026 12:57:33 +0000
+**URL:** https://www.logisticsmanager.com/canmoor-appoints-contractor-for-glasgow-airport-project/
+**Relevance score:** 5/5
+**Quality note:** Industry source: useful sector context, but check whether evidence is narrow or anecdotal.
+
+**Summary:**
+
+The post Canmoor appoints contractor for Glasgow Airport project appeared first on Logistics Manager .
+
+---
+
+## 13. Dominican Republic announces $100m logistics investment
+
+**Source:** Logistics Manager
+**Type:** logistics_distribution_news
+**Published:** Tue, 09 Jun 2026 08:00:30 +0000
+**URL:** https://www.logisticsmanager.com/dominican-republic-announces-100m-logistics-investment/
+**Relevance score:** 5/5
+**Quality note:** Industry source: useful sector context, but check whether evidence is narrow or anecdotal.
+
+**Summary:**
+
+The post Dominican Republic announces $100m logistics investment appeared first on Logistics Manager .
+
+---
+
+## 14. The AI Atrophy Problem: How CIOs Fight It
+
+**Source:** MIT Sloan Management Review
+**Type:** professional_insight
+**Published:** Tue, 09 Jun 2026 11:00:35 +0000
+**URL:** https://sloanreview.mit.edu/video/the-ai-atrophy-problem-how-cios-fight-it/
+**Relevance score:** 5/5
+**Quality note:** Professional insight source: useful framing, but may be marketing-led.
+
+**Summary:**
+
+AI tools can help teams become faster and more efficient. But as organizations race to integrate artificial intelligence into more workflows, a problem is taking shape: the erosion of the critical thinking skills that leaders value. At the 2026 MIT Sloan CIO Symposium, we asked technology and business leaders to answer this question: What is [&#8230;]
+
+---
+
+## 15. Reinventing autonomous driving in the age of generative AI
+
+**Source:** McKinsey Insights
+**Type:** professional_insight
+**Published:** Tue, 09 Jun 2026
+**URL:** https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/reinventing-autonomous-driving-in-the-age-of-generative-ai
+**Relevance score:** 5/5
+**Quality note:** Professional insight source: useful framing, but may be marketing-led.
+
+**Summary:**
+
+As AI-native systems take hold, autonomous driving is becoming a race for compute power, software, data, and semiconductors.
+
+---
+
+## 16. Only a fifth of small businesses regularly use AI - SME Magazine
+
+**Source:** Google News - UK SME AI adoption
+**Type:** news_search
+**Published:** Tue, 09 Jun 2026 11:47:29 GMT
+**URL:** https://news.google.com/rss/articles/CBMifkFVX3lxTE5PbHFhOVJhclljY3FNZERrR01KVDlnWFFXZDJZaHdtU1p5b1B2XzQycEFHS2tGMVZTM083M1RndTlMRFR3SWp1QmVyYXdkSS1zblByMjdaVy04Q0RfYU04aWV0Z0V5ek1pRVlYY0dVVV9TQUtZdzBQY2FFal9YZw?oc=5
+**Relevance score:** 5/5
+**Quality note:** News/search source: useful for current signals, but verify important claims.
+
+**Summary:**
+
+Only a fifth of small businesses regularly use AI SME Magazine
+
+---
+
+## 17. Government announces £200 million in funding to help businesses adopt AI - SME Magazine
+
+**Source:** Google News - UK SME AI adoption
+**Type:** news_search
+**Published:** Mon, 08 Jun 2026 16:34:57 GMT
+**URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxOeFBMVy1UMExsLURzRmtEZllHNE5UQ0pSVG9oQmtRTW51YllKNUhMZ3FaTC1LY2l4d1p4Nm9mX0xwMkp2YkxvODJ6YjBMeVdibnBYQkxNblZvSkdNTFVXUUZmdHJZSzdzOHhySTdSYnhqN0h0YnlXeWRldlZmSkw1VG8xUkpxaVBWQ18wdEl1bFlkZUh4YURSQkxYVQ?oc=5
+**Relevance score:** 5/5
+**Quality note:** News/search source: useful for current signals, but verify important claims.
+
+**Summary:**
+
+Government announces £200 million in funding to help businesses adopt AI SME Magazine
+
+---
+
+## 18. New toolkit addresses AI adoption in manufacturing for UK SMEs - Just Style
+
+**Source:** Google News - UK SME AI adoption
+**Type:** news_search
+**Published:** Fri, 08 May 2026 07:00:00 GMT
+**URL:** https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zOW9PWU1tREk2OGtaeEVkRF9qMWNnbUViTGFTekRtaFFpNlVzeXE0VVRHemwteHNQX2thckwtMlI3U0hacndCX3RqeVFna1ljSWhaY2p4QzJ2eXktWmc4?oc=5
+**Relevance score:** 5/5
+**Quality note:** News/search source: useful for current signals, but verify important claims.
+
+**Summary:**
+
+New toolkit addresses AI adoption in manufacturing for UK SMEs Just Style
+
+---
+
+## 19. Will AI replace traditional software tools for small businesses in the UK? - YouGov
+
+**Source:** Google News - UK SME AI adoption
+**Type:** news_search
+**Published:** Tue, 05 May 2026 07:00:00 GMT
+**URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxQWm9kUnJqeXV1NXIwNmN6Y3BWS0lmdDRWY1NPLVZOeGYtdWdQczI3dV9qdkktT0s2Ukc1RzFySHViQTVfSVRGRHNPaFJBN0U4XzEyZFFOdmQzeS1Qa0ZXRTBieElkZ0ZqQkJLWDN6WDB4ZzlTMVpoY1R4RE5hdGtWakk3M3BYTzVMbFRoSkpPVFB2RnJwSTJ0Z3ZZaXBNZnFsOG9fdHpsSER4SDVaQjJIQnJjZw?oc=5
+**Relevance score:** 5/5
+**Quality note:** News/search source: useful for current signals, but verify important claims.
+
+**Summary:**
+
+Will AI replace traditional software tools for small businesses in the UK? YouGov
+
+---
+
+## 20. New AWS report reveals that nearly two-thirds of UK organisations now use AI - About Amazon UK
+
+**Source:** Google News - UK SME AI adoption
+**Type:** news_search
+**Published:** Wed, 22 Apr 2026 07:00:00 GMT
+**URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxNX0pfZW9pSXU5b1B3QmxrTW1HYzNxNENCeE5LMFVBcHNQRFNQc1pqT01mMUdzczc4U3p2VTJuTnZYVUI0VG0yUUpCblJXOW44TWdFNWVNRDlqWDBuSFhOQ0hnQWwtRHpvVFk0U3U3b0dPTFJxZVNVeEp2UThfVTloRGZHSi1Oa1VHMG05SXJiUGVYWEZnT2F1emlhUkVqa2lIT1JOWlZQZ0RxVjR4RXY0aXh2eU9LZw?oc=5
+**Relevance score:** 5/5
+**Quality note:** News/search source: useful for current signals, but verify important claims.
+
+**Summary:**
+
+New AWS report reveals that nearly two-thirds of UK organisations now use AI About Amazon UK
+
+---
+
+## 21. RedCloud Unveils Specialist AI Agents Trained on $6.9 Billion FMCG Trade Dataset — Targeted to Improve Thousands of Commercial Decisions Daily - Yahoo Finance UK
+
+**Source:** Google News - FMCG AI supply chain UK
+**Type:** news_search
+**Published:** Tue, 28 Apr 2026 07:00:00 GMT
+**URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxOYmZuekRkN09IV3VTQnc2aXp2YUNOZ095NDVoUi1zMERwMG9CRlAyajh0c1JsTjNIV3pLU003blg4QzRDbTUyUWxTbjVnTVo3QW9iNmVGVE1yQ0tqLXNQRWlYX3Q2a0l6RkJSVTZGRGNUWE5tSEIwUkdrQkZWQllLQjdzN0JaX0ljNE15cXd5NA?oc=5
+**Relevance score:** 5/5
+**Quality note:** News/search source: useful for current signals, but verify important claims.
+
+**Summary:**
+
+RedCloud Unveils Specialist AI Agents Trained on $6.9 Billion FMCG Trade Dataset — Targeted to Improve Thousands of Commercial Decisions Daily Yahoo Finance UK
+
+---
+
+## 22. Use Cases of AI in the FMCG Industry with Real Examples - appinventiv.com
+
+**Source:** Google News - FMCG AI supply chain UK
+**Type:** news_search
+**Published:** Mon, 01 Jun 2026 07:00:00 GMT
+**URL:** https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tRnFOYVk1ZXVuVERRZzdkNXNScmJrdUNUemNfLUpSeXZOX3ZXMlVlcHF1UzAyVlJYUnczQWRzVXNESWVHOG52M28xbVpOOVNvdFE?oc=5
+**Relevance score:** 5/5
+**Quality note:** News/search source: useful for current signals, but verify important claims.
+
+**Summary:**
+
+Use Cases of AI in the FMCG Industry with Real Examples appinventiv.com
+
+---
+
+## 23. Corvera raises a further £3m for fmcg AI platform - The Grocer
+
+**Source:** Google News - FMCG AI supply chain UK
+**Type:** news_search
+**Published:** Tue, 05 May 2026 07:00:00 GMT
+**URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxNSGdTWm82M2dZZWxyNWVMQnk0Q3lDWkxfbXhYRHo4NThLM1AyVGYtRDg0OG5GMVViaGpydGRrYzNfRE5DS3BVWndXYUxBM2FRUWFxaXk1cGxVZlNnT2ViSzYwWmhzLXJ0c0ZsUjhiblFnb25SOFhiZW5NN0RnZmNPYXhDbzdlM1ZqazZwOGlUdG93WlV1alBQOUZZMnc?oc=5
+**Relevance score:** 5/5
+**Quality note:** News/search source: useful for current signals, but verify important claims.
+
+**Summary:**
+
+Corvera raises a further £3m for fmcg AI platform The Grocer
+
+---
+
+## 24. AI Workflow Automation Market Size & Growth 2035 - SNS Insider
+
+**Source:** Google News - business intelligence AI workflow
+**Type:** news_search
+**Published:** Tue, 09 Jun 2026 13:38:08 GMT
+**URL:** https://news.google.com/rss/articles/CBMicEFVX3lxTFBRWWY1VlZocEpTbnhSSmp4b3ZLQ29BQlpFWTJSMmNTM2F3ZGJFTV9pYl94Y1lIemEtaHhqYWpON2xmZ2EwOG5MLWtYU25BZHRxSkJJcEc3ZWpXUVRlTVNRMDc5dmpZRW5iVHlna3RVRGE?oc=5
+**Relevance score:** 5/5
+**Quality note:** News/search source: useful for current signals, but verify important claims.
+
+**Summary:**
+
+AI Workflow Automation Market Size & Growth 2035 SNS Insider
+
+---
+
+## 25. 16 Best AI Tools for Business in 2026: Tested & Ranked - Memeburn
+
+**Source:** Google News - business intelligence AI workflow
+**Type:** news_search
+**Published:** Mon, 08 Jun 2026 05:11:42 GMT
+**URL:** https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwQnBYNFM3cXk2eUZVZWZHYjBJZ01wbHJOMkpiNXExelhCZUc4US1OX0tnaWdyTnNCZkp6bGEwN0FOMDBiUzh6a29Wd2pmUk9pNWdRdXdXNG9HZVpo?oc=5
+**Relevance score:** 5/5
+**Quality note:** News/search source: useful for current signals, but verify important claims.
+
+**Summary:**
+
+16 Best AI Tools for Business in 2026: Tested & Ranked Memeburn
+
+---
+
+## 26. AlphaSense Raises $350 Million At $7.5 Billion Valuation While Surpassing $600 Million In Annual Recurring Revenue - Pulse 2.0
+
+**Source:** Google News - business intelligence AI workflow
+**Type:** news_search
+**Published:** Sun, 07 Jun 2026 19:32:48 GMT
+**URL:** https://news.google.com/rss/articles/CBMiywFBVV95cUxQMlRTcE1mMU1JY180bEdSOWhscDRmSzU2RG9VODdNSEwxNDRTRGtuUjBpRDBUZ0d4enBHZEUxcmpNNGRvNl8zY3pRbEpWcl83VXI0SzZFTENZTlRUWU5rbjNBMEJRZ3M0YUhFX2w0T1o2RG9TLVI4R3JLVWc1b1ZNQjlhU084ekhoNzZGb3ZiMkVxM3Q5S2pEdVVFdTZwc3pXQkUwNzdMU3BDWnJGanBTLTFOc3hfY0xlQUdmQ3QxampQbE55bHVic0FHMNIB0AFBVV95cUxQVTU3dHlNWks3MXkwamVPLXNmbVpuS2pxeFRFT21CbHJEZHVONDk2Y1BWUEtaSzJjMGM5cHU4ak8tYkF0ZURXUnpoeHBMVks3RnRiNDBKeTdwSjRJb1NwZWtoeVJCLUJvUVlDUE9pRl90NlNfU0RPX0JjU2NzUXNySExhNGdYMWJ1RlJhVkcyNl9BX3ljRHpPeGxQaG5neU05VHpOcHRGenMwWElZNEhkVmFEdGdLaW5Yb1NXRVNFNFhLZ1NmM0xpMUxEYkl0WlQ5?oc=5
+**Relevance score:** 5/5
+**Quality note:** News/search source: useful for current signals, but verify important claims.
+
+**Summary:**
+
+AlphaSense Raises $350 Million At $7.5 Billion Valuation While Surpassing $600 Million In Annual Recurring Revenue Pulse 2.0
+
+---
+
+## 27. Be Decision-Ready with AI Business Intelligence - Microsoft
+
+**Source:** Google News - business intelligence AI workflow
+**Type:** news_search
+**Published:** Thu, 23 Apr 2026 07:00:00 GMT
+**URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxOVmFBVHRiUk1wbWpnVm1SbldtWUlEZW4tMmJlaEZSMHZVUW1KajdNWFJYT3VrbHJVRkFBMzlSLW5QeUpJc0VTdEJnZmQ5NTBPWXdkSVA2LUpOREhPem1tQklTUHMyTi16Wm1LaDJRN0lNQUwtV2R0ZmxBSW5TelJDOUx3QWI5OTk1M0tvamszbkxlQ0RtTFFkXzhGS3lBalY0LTZaanItc3UydVlQR3pmbVpIOA?oc=5
+**Relevance score:** 5/5
+**Quality note:** News/search source: useful for current signals, but verify important claims.
+
+**Summary:**
+
+Be Decision-Ready with AI Business Intelligence Microsoft
+
+---
+
+## 28. Top 10 LLM Development Companies Dominating the AI Revolution in 2026 - vocal.media
+
+**Source:** Google News - business intelligence AI workflow
+**Type:** news_search
+**Published:** Sat, 30 May 2026 06:58:52 GMT
+**URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxOLVZXVVRGdlBJdV9lRlhmaDgxWEhtNkVDWnJQelRKMEk4WVNzXzFrWFEweGRSeFZPSFR2OW82OFVTQUtGWVNzZEdndjZwQVlHSXBKb0ZCZzBfSTYwNDFUMEJJejZBeVBUamlEaEFGSkpzenpLdHljZVhyT0VGR0pIRVB5d2g2bGItQy1mYUZGb2hKclJSdG9hRk5UYUlLYUU?oc=5
+**Relevance score:** 5/5
+**Quality note:** News/search source: useful for current signals, but verify important claims.
+
+**Summary:**
+
+Top 10 LLM Development Companies Dominating the AI Revolution in 2026 vocal.media
+
+---
+
+## 29. Iceland partners with invent.ai to transform inventory and replenishment operations - Retail Times
+
+**Source:** Google News - retail distribution AI UK
+**Type:** news_search
+**Published:** Tue, 14 Apr 2026 07:00:00 GMT
+**URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxQV1RzMnJlQzZPdkxLMnRqSWU3VjVJMFdQbzJWOWFobWxLZnJIWE50UG91eGh6RXQxS1k1OXhDY3EyVGk1NHJxd0Y5eVJIbWUxbTJDSi0wNW04MEM0bkdoNE4tNDFZVm1KUGJYU3NnX0h1QXVOcVpveEEyd2RRaERhNmZxd3RjT2JIb2pTM2xWLU9NQk5jc3ZoZzl5VUtEeHItX05UV0ZxOU1FRGx0QjhN?oc=5
+**Relevance score:** 5/5
+**Quality note:** News/search source: useful for current signals, but verify important claims.
+
+**Summary:**
+
+Iceland partners with invent.ai to transform inventory and replenishment operations Retail Times
+
+---
+
+## 30. ONS business, economy and technology statistics
+
+**Source:** ONS
+**Type:** official_watchlist
+**Published:** 2026-06-10
+**URL:** https://www.ons.gov.uk/
+**Relevance score:** 5/5
+**Quality note:** Official source: credible context, but may be broad or slow-moving.
+**Manual check:** Yes - this source is included as a watchlist item.
+
+**Summary:**
+
+Official UK statistics source for business conditions, productivity, retail, labour market and economic context.
+
+---
+
+## 31. OECD AI, SMEs, productivity and digital adoption
+
+**Source:** OECD
+**Type:** official_watchlist
+**Published:** 2026-06-10
+**URL:** https://www.oecd.org/
+**Relevance score:** 5/5
+**Quality note:** Official source: credible context, but may be broad or slow-moving.
+**Manual check:** Yes - this source is included as a watchlist item.
+
+**Summary:**
+
+Useful for international context on SME digital adoption, productivity, AI diffusion and policy.
+
+---
+
+## 32. The Grocer - UK FMCG and grocery sector
+
+**Source:** The Grocer
+**Type:** fmcg_watchlist
+**Published:** 2026-06-10
+**URL:** https://www.thegrocer.co.uk/
+**Relevance score:** 5/5
+**Quality note:** Industry source: useful sector context, but check whether evidence is narrow or anecdotal.
+**Manual check:** Yes - this source is included as a watchlist item.
+
+**Summary:**
+
+Specialist UK FMCG and grocery source. Useful for suppliers, wholesalers, pricing, retail pressure and distribution signals.
+
+---
+
+## 33. IGD grocery, retail and supply-chain insight
+
+**Source:** IGD
+**Type:** fmcg_watchlist
+**Published:** 2026-06-10
+**URL:** https://www.igd.com/
+**Relevance score:** 5/5
+**Quality note:** Industry source: useful sector context, but check whether evidence is narrow or anecdotal.
+**Manual check:** Yes - this source is included as a watchlist item.
+
+**Summary:**
+
+Useful for grocery, retail, wholesale and supply-chain context.
+
+---
+
+## 34. Kantar retail and FMCG insights
+
+**Source:** Kantar
+**Type:** fmcg_watchlist
+**Published:** 2026-06-10
+**URL:** https://www.kantar.com/uki/industries/retail
+**Relevance score:** 5/5
+**Quality note:** Industry source: useful sector context, but check whether evidence is narrow or anecdotal.
+**Manual check:** Yes - this source is included as a watchlist item.
+
+**Summary:**
+
+Professional insight source for FMCG, retail, consumers and brand performance.
+
+---
+
+## 35. NielsenIQ retail and FMCG insights
+
+**Source:** NielsenIQ
+**Type:** fmcg_watchlist
+**Published:** 2026-06-10
+**URL:** https://nielseniq.com/global/en/insights/
+**Relevance score:** 5/5
+**Quality note:** Industry source: useful sector context, but check whether evidence is narrow or anecdotal.
+**Manual check:** Yes - this source is included as a watchlist item.
+
+**Summary:**
+
+Professional retail and FMCG data source for market trends, consumer behaviour and category performance.
+
+---
+
+## 36. Build an agentic incident triage assistant with Amazon Quick and New Relic
+
+**Source:** AWS Machine Learning Blog
+**Type:** ai_data_tooling
+**Published:** Tue, 09 Jun 2026 16:10:37 +0000
+**URL:** https://aws.amazon.com/blogs/machine-learning/build-an-agentic-incident-triage-assistant-with-amazon-quick-and-new-relic/
+**Relevance score:** 4/5
+**Quality note:** Vendor/company source: useful primary signal, but not neutral proof.
+
+**Summary:**
+
+This post shows engineering teams how to apply that principle to one of the most time-sensitive workflows in engineering: incident triage. You will build a custom incident triage assistant agent using Amazon Quick that orchestrates a response with the New Relic Model Context Protocol (MCP) Server and Asana through native integrations. From a single prompt, the Amazon Quick agent investigates the incident, assembles a root cause analysis (RCA) brief with evidence links, and creates a tracked Asana task ready for handoff.
+
+---
+
+## 37. Power BI June 2026 Feature Summary
+
+**Source:** Microsoft Power BI Blog
+**Type:** bi_tooling
+**Published:** Tue, 09 Jun 2026 19:48:16 GMT
+**URL:** https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-June-2026-Feature-Summary/ba-p/5193264
+**Relevance score:** 4/5
+**Quality note:** Vendor/company source: useful primary signal, but not neutral proof.
+
+**Summary:**
+
+This month, we’re continuing to focus on making every day work a little easier—whether that’s building reports, modeling data, or just getting answers faster. You’ll see progress across Copilot and newer AI-driven experiences, along with a set of practical updates to reporting that help reduce repetitive work.
+
+---
+
+## 38. Our Guide to the Summer 2026 Issue
+
+**Source:** MIT Sloan Management Review
+**Type:** professional_insight
+**Published:** Tue, 02 Jun 2026 13:48:06 +0000
+**URL:** https://sloanreview.mit.edu/article/our-guide-to-the-summer-2026-issue/
+**Relevance score:** 4/5
+**Quality note:** Professional insight source: useful framing, but may be marketing-led.
+
+**Summary:**
+
+Create Generative AI Value at Scale Kevin Schmitt, Gregory Vial, and Ivo Blohm Key Insight: Organizations are expanding their GenAI use by implementing coordinated cross-functional structures that draw on domain expertise and user innovation. Top Takeaways: Companies that establish a new kind of internal AI organization that researchers have dubbed the “AI spine” are better [&#8230;]
+
+---
+
+## 39. Productivity reimagined
+
+**Source:** McKinsey Insights
+**Type:** professional_insight
+**Published:** Wed, 10 Jun 2026
+**URL:** https://www.mckinsey.com/featured-insights/insights-on-europe/productivity-reimagined
+**Relevance score:** 4/5
+**Quality note:** Professional insight source: useful framing, but may be marketing-led.
+
+**Summary:**
+
+Bold moves to redefine growth in Germany.
+
+---
+
+## 40. Where value is won and lost in distribution
+
+**Source:** McKinsey Insights
+**Type:** professional_insight
+**Published:** Tue, 09 Jun 2026
+**URL:** https://www.mckinsey.com/industries/industrials/our-insights/where-value-is-won-and-lost-in-distribution
+**Relevance score:** 4/5
+**Quality note:** Professional insight source: useful framing, but may be marketing-led.
+
+**Summary:**
+
+The state of distribution in the United States is defined by permanent volatility, especially from the emergence of AI. The ability to address five current themes will define leaders in this new era.
+
+---
+
+## 41. AI-Powered Power BI reporting: From design to deployment with agent skills (Preview)
+
+**Source:** Microsoft Power BI Blog
+**Type:** bi_tooling
+**Published:** Mon, 08 Jun 2026 17:29:20 GMT
+**URL:** https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/AI-Powered-Power-BI-reporting-From-design-to-deployment-with/ba-p/5190703
+**Relevance score:** 3/5
+**Quality note:** Vendor/company source: useful primary signal, but not neutral proof.
+
+**Summary:**
+
+AI powered Power BI reporting skills is a collection of multiple skills that enables AI agents to automate report creation, from designing pages to publishing to Fabric. Now available through the Power BI authoring plugin in Skills for Fabric —a first-party catalog of agent skills for Microsoft Fabric optimized for GitHub Copilot CLI—this capability allows agents to author reports through natural language, write schema-correct PBIR files, reload Power BI Desktop, capture screenshots, and iteratively refine reports for a seamless, end-to-end authoring experience.
+
+---
+
+## 42. Copilot in web modeling (Preview)
+
+**Source:** Microsoft Power BI Blog
+**Type:** bi_tooling
+**Published:** Thu, 04 Jun 2026 23:36:54 GMT
+**URL:** https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Copilot-in-web-modeling-Preview/ba-p/5182287
+**Relevance score:** 3/5
+**Quality note:** Vendor/company source: useful primary signal, but not neutral proof.
+
+**Summary:**
+
+Copilot in web modeling (Preview) in the Power BI service, is an AI-powered assistant helping you analyze and improve your semantic models using natural language so you can spend less time on manual edits.
+
+---
+
+## 43. WH Smith to raise £100m as it warns on profits due to Iran war
+
+**Source:** The Guardian Business
+**Type:** independent_news
+**Published:** Wed, 10 Jun 2026 07:46:38 GMT
+**URL:** https://www.theguardian.com/business/2026/jun/10/wh-smith-shut-stories-profit-warning-iran-war-airport-middle-east
+**Relevance score:** 3/5
+**Quality note:** News/search source: useful for current signals, but verify important claims.
+
+**Summary:**
+
+Retailer plans to shut unprofitable stores as shopper numbers at airports fall amid Middle East conflict Business live – latest updates WH Smith has issued a profit warning after shopper numbers at its stores in US airports fell as a result of the war in the Middle East. The retailer, which operates 1,200 outlets globally in airports, railway stations and hospitals, also announced plans to raise about £100m to strengthen its balance sheet, pay down debt, invest in technology and shut down unprofitable stores after “a downturn in trading conditions”. Continue reading...
+
+---
+
+## 44. Anthropic releases ‘safe’ version of Claude Mythos AI model to public
+
+**Source:** The Guardian Business
+**Type:** independent_news
+**Published:** Tue, 09 Jun 2026 22:28:29 GMT
+**URL:** https://www.theguardian.com/technology/2026/jun/09/anthropic-claude-mythos-ai-model
+**Relevance score:** 3/5
+**Quality note:** News/search source: useful for current signals, but verify important claims.
+
+**Summary:**
+
+AI company restricted access to Fable 5, its most powerful Mythos model, for months over cybersecurity concerns Anthropic , the maker of the Claude artificial intelligence ( AI ) models, made a new version of its technology available to the general public on Tuesday while restricting its use in sensitive areas. Dubbed Fable 5, the model is the first to be made widely available from the company’s new Mythos class – its most advanced lineup of AI technology, unveiled in April but restricted to a small set of partner institutions for months over cybersecurity concerns. Continue reading...
+
+---
+
+## 45. Nike charges World Cup fans the most for replica shirts after price surge
+
+**Source:** The Guardian Business
+**Type:** independent_news
+**Published:** Wed, 10 Jun 2026 07:00:13 GMT
+**URL:** https://www.theguardian.com/business/2026/jun/10/nike-charges-world-cup-fans-most-replica-shirts-prices-surge
+**Relevance score:** 3/5
+**Quality note:** News/search source: useful for current signals, but verify important claims.
+
+**Summary:**
+
+England supporters face paying inflation-busting £95 for an adult shirt as the tournament begins in the US Fans of World Cup teams kitted out by Nike face the highest costs if they want to buy a replica shirt before the tournament kicks off this week amid a “striking” overall increase in prices. Alongside the official match versions, which are retailing for as much as €160, manufacturers typically make “stadium”, or replica, versions aimed at supporters. Continue reading...
+
+---
+
+## 46. Untitled
+
+**Source:** GOV.UK SMEs digital adoption
+**Type:** official_policy
+**Published:** 
+**URL:** https://www.gov.uk/api/search.json?q=SME%20digital%20adoption%20artificial%20intelligence&count=5&order=updated-newest
+**Relevance score:** 3/5
+**Quality note:** Official source: credible context, but may be broad or slow-moving.
+**Fetch error:** HTTP Error 422: Unknown Error
+
+**Summary:**
+
+
+
+---
+
+## 47. Untitled
+
+**Source:** GOV.UK business productivity technology
+**Type:** official_policy
+**Published:** 
+**URL:** https://www.gov.uk/api/search.json?q=business%20productivity%20technology%20SME&count=5&order=updated-newest
+**Relevance score:** 3/5
+**Quality note:** Official source: credible context, but may be broad or slow-moving.
+**Fetch error:** HTTP Error 422: Unknown Error
+
+**Summary:**
+
+
+
+---
+
+## 48. How engineers at Nextdoor use Codex to build without limits
+
+**Source:** OpenAI News
+**Type:** company_primary_ai
+**Published:** Tue, 09 Jun 2026 12:00:00 GMT
+**URL:** https://openai.com/index/nextdoor
+**Relevance score:** 2/5
+**Quality note:** Vendor/company source: useful primary signal, but not neutral proof.
+
+**Summary:**
+
+How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes.
+
+---
+
+## 49. We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks
+
+**Source:** Google DeepMind Blog
+**Type:** company_primary_ai
+**Published:** Thu, 21 May 2026 19:46:42 +0000
+**URL:** https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/
+**Relevance score:** 2/5
+**Quality note:** Vendor/company source: useful primary signal, but not neutral proof.
+
+**Summary:**
+
+
+
+---
+
+## 50. Scale Robot Reinforcement Learning with NVIDIA Isaac Lab on Amazon SageMaker AI
+
+**Source:** AWS Machine Learning Blog
+**Type:** ai_data_tooling
+**Published:** Tue, 09 Jun 2026 20:07:24 +0000
+**URL:** https://aws.amazon.com/blogs/machine-learning/scale-robot-reinforcement-learning-with-nvidia-isaac-lab-on-amazon-sagemaker-ai/
+**Relevance score:** 2/5
+**Quality note:** Vendor/company source: useful primary signal, but not neutral proof.
+
+**Summary:**
+
+In this post, we show how to train robot policies for the Unitree H1 humanoid with NVIDIA Isaac Lab on Amazon SageMaker AI across two compute options: Amazon SageMaker HyperPod and Amazon SageMaker Training Jobs.
+
+---
+
+## 51. Hands-free first notice of loss: Using Strands Agents and Amazon Bedrock AgentCore Browser Tool for intelligent claims intake
+
+**Source:** AWS Machine Learning Blog
+**Type:** ai_data_tooling
+**Published:** Tue, 09 Jun 2026 16:43:28 +0000
+**URL:** https://aws.amazon.com/blogs/machine-learning/hands-free-first-notice-of-loss-using-strands-agents-and-amazon-bedrock-agentcore-browser-tool-for-intelligent-claims-intake/
+**Relevance score:** 2/5
+**Quality note:** Vendor/company source: useful primary signal, but not neutral proof.
+
+**Summary:**
+
+In this post, we demonstrate how a hands-free FNOL intake system combines agents built with the Strands Agents SDK for domain reasoning with Amazon Bedrock AgentCore Browser Tool for live portal interaction. This approach preserves human expertise while removing repetitive screen work.
+
+---
+
+## 52. It’s safe to close your laptop now: Hosting coding agents on Amazon Bedrock AgentCore
+
+**Source:** AWS Machine Learning Blog
+**Type:** ai_data_tooling
+**Published:** Mon, 08 Jun 2026 16:35:02 +0000
+**URL:** https://aws.amazon.com/blogs/machine-learning/its-safe-to-close-your-laptop-now-hosting-coding-agents-on-amazon-bedrock-agentcore/
+**Relevance score:** 2/5
+**Quality note:** Vendor/company source: useful primary signal, but not neutral proof.
+
+**Summary:**
+
+Amazon Bedrock AgentCore Runtime gives each agent session its own isolated microVM with a persistent workspace, secure tool access through Gateway, and built-in observability—so you can run Claude Code, Codex, Kiro, and Cursor in parallel without sharing secrets, ports, or filesystems. Close the lid, go to dinner, and pick up where you left off tomorrow.
+
+---
+
+## 53. The Empathy Tax Female Leaders Pay
+
+**Source:** MIT Sloan Management Review
+**Type:** professional_insight
+**Published:** Mon, 08 Jun 2026 12:30:26 +0000
+**URL:** https://sloanreview.mit.edu/article/the-empathy-tax-female-leaders-pay/
+**Relevance score:** 2/5
+**Quality note:** Professional insight source: useful framing, but may be marketing-led.
+
+**Summary:**
+
+Carolyn Geason-Beissel/MIT SMR &#124; Getty Images The consulting manager took a call at 7:30 p.m., while volunteering at her son’s soccer practice, from an employee who felt “on the verge of quitting.” Later that same week, she responded to texts sent at 2 a.m. from team members who could not sleep amid corporate restructuring and [&#8230;]
+
+---
+
+## 54. How Nespresso Builds Sustainability Into Its Business Model
+
+**Source:** MIT Sloan Management Review
+**Type:** professional_insight
+**Published:** Tue, 02 Jun 2026 14:02:57 +0000
+**URL:** https://sloanreview.mit.edu/article/how-nespresso-builds-sustainability-into-its-business-model/
+**Relevance score:** 2/5
+**Quality note:** Professional insight source: useful framing, but may be marketing-led.
+
+**Summary:**
+
+Photo courtesy of Nestlé Jean-Christophe Jaunin became CEO of Nespresso North America, the Nestlé unit that sells coffee brewing machines and capsules, on Jan. 1, 2026, after having served as global chief customer and technology officer. At the NYU Stern Center for Sustainable Business’s annual practice forum in March, MIT Sloan Management Review spoke with [&#8230;]
+
+---
+
+## 55. What Wise Leaders Understand About Business Ecosystems
+
+**Source:** MIT Sloan Management Review
+**Type:** professional_insight
+**Published:** Tue, 02 Jun 2026 13:47:51 +0000
+**URL:** https://sloanreview.mit.edu/article/what-wise-leaders-understand-about-business-ecosystems/
+**Relevance score:** 2/5
+**Quality note:** Professional insight source: useful framing, but may be marketing-led.
+
+**Summary:**
+
+It’s safe to say that most people who rise to the top of their companies like to win. A healthy competitive streak is energizing and motivates individuals and teams to do their best — to find their edge and sharpen it. But sustained, long-term success and industry leadership often rely on the ability to look [&#8230;]
+
+---
+
+## 56. Reimagining trade spend: From cost center to growth catalyst
+
+**Source:** McKinsey Insights
+**Type:** professional_insight
+**Published:** Tue, 09 Jun 2026
+**URL:** https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/reimagining-trade-spend-from-cost-center-to-growth-catalyst
+**Relevance score:** 2/5
+**Quality note:** Professional insight source: useful framing, but may be marketing-led.
+
+**Summary:**
+
+Despite costing companies 8 to 11 percent of revenue, trade spend underdelivers. Companies could reset their approach through six design principles to unlock best-in-class trade spend optimization.
+
+---
+
+## 57. Private credit in 2025: A maturing industry navigates change
+
+**Source:** McKinsey Insights
+**Type:** professional_insight
+**Published:** Tue, 09 Jun 2026
+**URL:** https://www.mckinsey.com/industries/private-capital/our-insights/global-private-markets-report/private-credit
+**Relevance score:** 2/5
+**Quality note:** Professional insight source: useful framing, but may be marketing-led.
+
+**Summary:**
+
+Complexity is increasing and competitive pressures are on the rise. The asset class is becoming less about deploying capital at pace—and more about deploying it with precision.
+
+---
+
+## 58. Asian stocks fall as US and Iran exchange fire – business live
+
+**Source:** The Guardian Business
+**Type:** independent_news
+**Published:** Wed, 10 Jun 2026 08:17:06 GMT
+**URL:** https://www.theguardian.com/business/live/2026/jun/10/asian-stocks-fall-us-iran-exchange-fire-middle-east-strait-of-hormuz-oil-prices-latest-news-updates
+**Relevance score:** 2/5
+**Quality note:** News/search source: useful for current signals, but verify important claims.
+
+**Summary:**
+
+Rolling coverage of the latest economic and financial news The industrial and energy company Metlen Energy & Metals is the best performer in the FTSE 100 so far this morning, with its shares up 3.6%. It is followed by Primark owner Associated British Foods , which is up 2.2% and Tesco , which is up 1.8%. Endeavour Mining , Relx and credit agency data business Experian are the biggest fallers, all down by about 2.3%. US May inflation data is due out later today, with economists expecting both core and headline inflation to tick up. Consensus is for headline CPI inflation to reach 4.2%, which would be the highest it’s been since April 2023, and following on from strong jobs data would put more pressure on the Fed to think about raising interest rates. The US central bank is stuck between a rock and a hard place, with the President likely to take a dim view of rate rises, but higher oil prices are steadily pushing up prices across the economy. Continue reading...
+
+---
+
+## 59. More than half of clean energy schemes needed for Labour’s 2030 target offered grid connection
+
+**Source:** The Guardian Business
+**Type:** independent_news
+**Published:** Wed, 10 Jun 2026 06:00:14 GMT
+**URL:** https://www.theguardian.com/environment/2026/jun/10/labour-renewable-energy-projects-halfway-long-delay
+**Relevance score:** 2/5
+**Quality note:** News/search source: useful for current signals, but verify important claims.
+
+**Summary:**
+
+The 700 projects include wind and solar farms, battery storage, gas and hydro plans More than half the renewable energy projects needed to meet the government’s clean power targets by 2030 are now able to plug into the electricity grid after years of delay, according to the system operator. The National Energy System Operator (Neso) has offered more than 700 clean energy projects in Great Britain a grid connection date since the start of the year, after a two-year process to unblock a bottleneck that threatened to delay projects into the 2030s . Continue reading...
+
+---
+
+## 60. What Codex unlocks for Notion
+
+**Source:** OpenAI News
+**Type:** company_primary_ai
+**Published:** Tue, 09 Jun 2026 10:00:00 GMT
+**URL:** https://openai.com/index/notion
+**Relevance score:** 1/5
+**Quality note:** Vendor/company source: useful primary signal, but not neutral proof.
+
+**Summary:**
+
+How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams.
+
+---
+
+## 61. Industrial policy for the Intelligence Age
+
+**Source:** OpenAI News
+**Type:** company_primary_ai
+**Published:** Tue, 09 Jun 2026 00:00:00 GMT
+**URL:** https://openai.com/index/industrial-policy-for-the-intelligence-age
+**Relevance score:** 1/5
+**Quality note:** Vendor/company source: useful primary signal, but not neutral proof.
+
+**Summary:**
+
+Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves.
+
+---
+
+## 62. Confidential submission of draft S-1 to the SEC
+
+**Source:** OpenAI News
+**Type:** company_primary_ai
+**Published:** Mon, 08 Jun 2026 14:00:00 GMT
+**URL:** https://openai.com/index/openai-submits-confidential-s-1
+**Relevance score:** 1/5
+**Quality note:** Vendor/company source: useful primary signal, but not neutral proof.
+
+**Summary:**
+
+OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.
+
+---
+
+## 63. Built to benefit everyone: our plan
+
+**Source:** OpenAI News
+**Type:** company_primary_ai
+**Published:** Mon, 08 Jun 2026 01:30:00 GMT
+**URL:** https://openai.com/index/built-to-benefit-everyone-our-plan
+**Relevance score:** 1/5
+**Quality note:** Vendor/company source: useful primary signal, but not neutral proof.
+
+**Summary:**
+
+A vision for the future of AI, focusing on access, safety, and shared prosperity as OpenAI works to ensure AGI benefits everyone.
+
+---
+
+## 64. Fluid, natural voice translation with Gemini 3.5 Live Translate
+
+**Source:** Google DeepMind Blog
+**Type:** company_primary_ai
+**Published:** Tue, 09 Jun 2026 15:16:25 +0000
+**URL:** https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/
+**Relevance score:** 1/5
+**Quality note:** Vendor/company source: useful primary signal, but not neutral proof.
+
+**Summary:**
+
+Gemini 3.5 Live Translate brings near real-time, natural speech translation to Google AI Studio, Google Translate and Google Meet.
+
+---
+
+## 65. Introducing Gemma 4 12B: a unified, encoder-free multimodal model
+
+**Source:** Google DeepMind Blog
+**Type:** company_primary_ai
+**Published:** Tue, 09 Jun 2026 14:10:19 +0000
+**URL:** https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/
+**Relevance score:** 1/5
+**Quality note:** Vendor/company source: useful primary signal, but not neutral proof.
+
+**Summary:**
+
+
+
+---
+
+## 66. Powering the future of robotics in Europe
+
+**Source:** Google DeepMind Blog
+**Type:** company_primary_ai
+**Published:** Tue, 09 Jun 2026 14:02:33 +0000
+**URL:** https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/
+**Relevance score:** 1/5
+**Quality note:** Vendor/company source: useful primary signal, but not neutral proof.
+
+**Summary:**
+
+
+
+---
+
+## 67. Measuring the impact of learning with AI in Sierra Leone and beyond
+
+**Source:** Google DeepMind Blog
+**Type:** company_primary_ai
+**Published:** Mon, 08 Jun 2026 13:04:59 +0000
+**URL:** https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/
+**Relevance score:** 1/5
+**Quality note:** Vendor/company source: useful primary signal, but not neutral proof.
+
+**Summary:**
+
+Results from a randomized controlled trial show the potential of Gemini’s Guided Learning feature to boost engagement and accelerate learning.
+
+---
+
+## 68. Bill debt soars but many don't know help is available
+
+**Source:** BBC Business
+**Type:** independent_news
+**Published:** Tue, 09 Jun 2026 23:03:32 GMT
+**URL:** https://www.bbc.com/news/articles/cdjkevgv9rzo?at_medium=RSS&at_campaign=rss
+**Relevance score:** 1/5
+**Quality note:** News/search source: useful for current signals, but verify important claims.
+
+**Summary:**
+
+The majority of billpayers are unaware of special tariffs for water and broadband, the spending watchdog says.
+
+---
+
+## 69. World's largest chipmaker does not rule out price rises as costs increase
+
+**Source:** BBC Business
+**Type:** independent_news
+**Published:** Tue, 09 Jun 2026 22:00:24 GMT
+**URL:** https://www.bbc.com/news/articles/ce3ez4zzzlvo?at_medium=RSS&at_campaign=rss
+**Relevance score:** 1/5
+**Quality note:** News/search source: useful for current signals, but verify important claims.
+
+**Summary:**
+
+In a rare interview, a senior executive at TSMC discusses the AI boom, the geopolitics of chips and what it means for the price of electronics.
+
+---
+
+## 70. How to enjoy the World Cup - and keep your boss on side
+
+**Source:** BBC Business
+**Type:** independent_news
+**Published:** Tue, 09 Jun 2026 23:03:08 GMT
+**URL:** https://www.bbc.com/news/articles/c0r2yldw1vjo?at_medium=RSS&at_campaign=rss
+**Relevance score:** 1/5
+**Quality note:** News/search source: useful for current signals, but verify important claims.
+
+**Summary:**
+
+Football fans and bosses share their strategies to balance late night kick offs with work the next day.
+
+---
+
+## 71. UK pint prices up 36% since last World Cup – here's why
+
+**Source:** BBC Business
+**Type:** independent_news
+**Published:** Wed, 10 Jun 2026 05:23:36 GMT
+**URL:** https://www.bbc.com/news/articles/c982107drq8o?at_medium=RSS&at_campaign=rss
+**Relevance score:** 1/5
+**Quality note:** News/search source: useful for current signals, but verify important claims.
+
+**Summary:**
+
+UK pint prices are up 36% since the last World Cup. We look at why beer now costs so much more.
+
+---
+
+## 72. Beauty Pie LED mask ad banned over misleading anti-wrinkle claim
+
+**Source:** BBC Business
+**Type:** independent_news
+**Published:** Tue, 09 Jun 2026 23:03:20 GMT
+**URL:** https://www.bbc.com/news/articles/c892lj7xn02o?at_medium=RSS&at_campaign=rss
+**Relevance score:** 1/5
+**Quality note:** News/search source: useful for current signals, but verify important claims.
+
+**Summary:**
+
+The mask is not "clinically proven to reduce wrinkles in four weeks", the advertising watchdog finds.
+
+---
+
+## 73. Untitled
+
+**Source:** GOV.UK AI business adoption
+**Type:** official_policy
+**Published:** 
+**URL:** https://www.gov.uk/api/search.json?q=artificial%20intelligence%20business%20adoption&count=5&order=updated-newest
+**Relevance score:** 1/5
+**Quality note:** Official source: credible context, but may be broad or slow-moving.
+**Fetch error:** HTTP Error 422: Unknown Error
+
+**Summary:**
+
+
+
+---
