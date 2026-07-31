@@ -1,0 +1,684 @@
+{
+  "date": "2026-07-31",
+  "purpose": "AI business adoption, BI/workflow, FMCG/distribution, SME software and market intelligence source pack.",
+  "items": [
+    {
+      "source": "AWS Machine Learning Blog",
+      "type": "ai_data_tooling",
+      "title": "Inference meta-monitoring for Amazon SageMaker AI endpoints with Amazon Quick",
+      "published": "Thu, 30 Jul 2026 16:10:10 +0000",
+      "url": "https://aws.amazon.com/blogs/machine-learning/inference-meta-monitoring-for-amazon-sagemaker-ai-endpoints-with-amazon-quick/",
+      "summary": "Learn how to build an inference meta-monitoring system for Amazon SageMaker AI endpoints using Amazon Quick. This governance layer sits above production ML inference pipelines to continuously track prediction and data quality, detect drift, integrate delayed ground truth, and surface automated performance dashboards.",
+      "quality_note": "Vendor/company source: useful primary signal, but not neutral proof.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Supply Chain Dive",
+      "type": "fmcg_supply_chain_news",
+      "title": "General Motors is driving toward supply chain resiliency",
+      "published": "Thu, 30 Jul 2026 13:14:00 -0400",
+      "url": "https://www.supplychaindive.com/news/general-motors-is-driving-toward-supply-chain-resiliency/826542/",
+      "summary": "The automaker is upping its domestic production investments while securing memory supply to shield rising commodity and logistics costs.",
+      "quality_note": "Industry source: useful sector context, but check whether evidence is narrow or anecdotal.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Supply Chain Dive",
+      "type": "fmcg_supply_chain_news",
+      "title": "UPS: Over two-thirds of US volume now handled by automated locations",
+      "published": "Thu, 30 Jul 2026 09:45:00 -0400",
+      "url": "https://www.supplychaindive.com/news/ups-over-two-thirds-of-us-volume-now-handled-by-automated-locations/826477/",
+      "summary": "The carrier is increasing its use of automation in a bid to reduce package handling costs and more flexibly adjust capacity.",
+      "quality_note": "Industry source: useful sector context, but check whether evidence is narrow or anecdotal.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Supply Chain Dive",
+      "type": "fmcg_supply_chain_news",
+      "title": "Fed holds benchmark rate steady in vote with three dissents",
+      "published": "Thu, 30 Jul 2026 09:38:00 -0400",
+      "url": "https://www.supplychaindive.com/news/fed-holds-benchmark-rate-steady-in-vote-with-three-dissents/826561/",
+      "summary": "The central bank held the main interest rate steady as inflation remained elevated due to supply shocks across sectors such as energy.",
+      "quality_note": "Industry source: useful sector context, but check whether evidence is narrow or anecdotal.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Supply Chain Dive",
+      "type": "fmcg_supply_chain_news",
+      "title": "Walgreens opens Washington micro-fulfillment center",
+      "published": "Thu, 30 Jul 2026 09:26:00 -0400",
+      "url": "https://www.supplychaindive.com/news/walgreens-opens-washington-micro-fulfillment-center/826480/",
+      "summary": "The automated facility in Kent is set to support 196 Walgreens stores across the region by streamlining prescription fulfillment.",
+      "quality_note": "Industry source: useful sector context, but check whether evidence is narrow or anecdotal.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Supply Chain Dive",
+      "type": "fmcg_supply_chain_news",
+      "title": "Caraway Home’s 3PL collaboration drives parcel savings, returns benefits",
+      "published": "Wed, 29 Jul 2026 14:41:24 -0400",
+      "url": "https://www.supplychaindive.com/news/caraway-homes-3pl-collaboration-drives-parcel-savings-returns-benefits/826398/",
+      "summary": "A live rate-shopping tool and custom reverse logistics workflow from ITS Logistics is aiding the home goods brand's omnichannel strategy.",
+      "quality_note": "Industry source: useful sector context, but check whether evidence is narrow or anecdotal.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Logistics Manager",
+      "type": "logistics_distribution_news",
+      "title": "DHL and Vinted expand German partnership",
+      "published": "Thu, 30 Jul 2026 11:04:12 +0000",
+      "url": "https://www.logisticsmanager.com/dhl-and-vinted-expand-german-partnership/",
+      "summary": "The post DHL and Vinted expand German partnership appeared first on Logistics Manager .",
+      "quality_note": "Industry source: useful sector context, but check whether evidence is narrow or anecdotal.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Logistics Manager",
+      "type": "logistics_distribution_news",
+      "title": "Positive growth indicators buoy Port of Barcelona’s 2026",
+      "published": "Thu, 30 Jul 2026 10:32:28 +0000",
+      "url": "https://www.logisticsmanager.com/positive-growth-indicators-buoy-port-of-barcelonas-2026/",
+      "summary": "The post Positive growth indicators buoy Port of Barcelona&#8217;s 2026 appeared first on Logistics Manager .",
+      "quality_note": "Industry source: useful sector context, but check whether evidence is narrow or anecdotal.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Logistics Manager",
+      "type": "logistics_distribution_news",
+      "title": "M&S rolls out lower emission truck fleet",
+      "published": "Wed, 29 Jul 2026 16:02:28 +0000",
+      "url": "https://www.logisticsmanager.com/ms-rolls-out-lower-emission-truck-fleet/",
+      "summary": "The post M&#038;S rolls out lower emission truck fleet appeared first on Logistics Manager .",
+      "quality_note": "Industry source: useful sector context, but check whether evidence is narrow or anecdotal.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Logistics Manager",
+      "type": "logistics_distribution_news",
+      "title": "Verdion completes its European Logistics Fund",
+      "published": "Wed, 29 Jul 2026 08:34:19 +0000",
+      "url": "https://www.logisticsmanager.com/verdion-completes-its-european-logistics-fund/",
+      "summary": "The post Verdion completes its European Logistics Fund appeared first on Logistics Manager .",
+      "quality_note": "Industry source: useful sector context, but check whether evidence is narrow or anecdotal.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Logistics Manager",
+      "type": "logistics_distribution_news",
+      "title": "Evri expands Haul&Store partnership",
+      "published": "Wed, 29 Jul 2026 08:00:04 +0000",
+      "url": "https://www.logisticsmanager.com/evri-expands-haulstore-partnership/",
+      "summary": "The post Evri expands Haul&#038;Store partnership appeared first on Logistics Manager .",
+      "quality_note": "Industry source: useful sector context, but check whether evidence is narrow or anecdotal.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Google News - UK SME AI adoption",
+      "type": "news_search",
+      "title": "UK SMEs cautious of AI adoption for businesses - Catering Insight",
+      "published": "Wed, 29 Jul 2026 08:23:53 GMT",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNelBSelFRaW55cmE2YktDV2o1TlJYdXZ0MjY0ak9leUhtVGJvdHJESzdraElob1pZN0ZqVHZDYkdyTEY1OU50eUtTdlpJcFBmT1VZMHpnQnhRU0V2S2EySUZhcGsyTHpPMk5mYWd2aGI5SDVnY0JScjFzdk9nZjVlT1E3T25SQQ?oc=5",
+      "summary": "UK SMEs cautious of AI adoption for businesses Catering Insight",
+      "quality_note": "News/search source: useful for current signals, but verify important claims.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Google News - UK SME AI adoption",
+      "type": "news_search",
+      "title": "Artificial intelligence in UK businesses: 2023 to 2026 - Office for National Statistics",
+      "published": "Mon, 20 Jul 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQclFvbXQ4Ti1Kd09LQXBwRVNrOW03dWNIVEd0WGFkN3BGd1dfWUMydWZlZGs1bHJta3JUYjVXRXlQZWJvYm9oQW9KeFlUZm9tbUxKLUVKVW1SMUh0WTZUYWtnY0JVRExRMEloM2dCczVwczRrQmtIZFZvS3hjcUtMeVEyeWMzWVlLZ3BKS0tNS2pkSzItbjVNN2J4NVVyY1ZBLXE0cjZQRmNWVmp2SXpFZTMyZGtscDBQZnMxeVVSLXJqYnFwSHprU3p3?oc=5",
+      "summary": "Artificial intelligence in UK businesses: 2023 to 2026 Office for National Statistics",
+      "quality_note": "News/search source: useful for current signals, but verify important claims.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Google News - UK SME AI adoption",
+      "type": "news_search",
+      "title": "The AI adoption gap: what UK SMEs need that nobody is building for them - BCS, The Chartered Institute for IT",
+      "published": "Tue, 21 Jul 2026 09:41:36 GMT",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZHJaQks3STZhT2NiNU1GNjVEYlpUQngtSHR2QU1fWmF4Slp3X3ZTeFRwSXQzVXFhdHpKYzFnTnMzZW91bWRFdWtmcnhlQ2R4azE2Q01PY19PQW1mU015b3lWbi1WanM0WXJLYUlGejFNUXYyV3lfMDNLN0lNNGdzTXpibmxzSUtDZ2VCZ21hV3BqTUVMX01ocGd2dDlMbnQySzZKMFcwV1lzbG1iSV8wQXZSVXZvb1BJTnZkaG1n?oc=5",
+      "summary": "The AI adoption gap: what UK SMEs need that nobody is building for them BCS, The Chartered Institute for IT",
+      "quality_note": "News/search source: useful for current signals, but verify important claims.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Google News - UK SME AI adoption",
+      "type": "news_search",
+      "title": "Shaping how AI changes work in London | London City Hall - london.gov.uk",
+      "published": "Tue, 21 Jul 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOSl93OUZjcGk3WG5SR1MxaFo0XzZDSXRQUldhUFZtdnJaVU10cDBheUZ0YlQwTUJmV2FFRjlGelRZUWtVMGJEOC1vRmpTLWQzajZ5YUNtc285a3N3emFyR1dCNmJzV2V4Y1lyUUo2bEh4bWdiOXByTDJmV0xVMU1VZHFSVjJ6UzFQVjRLaTc4SllFREhDa3l3eEJNeFk5ZTBuaER5YXl5RmpEOW5MZ0RjQW9hOGtIS2NlaHVmSkhDMmV5VmQ5SDhYR09UakNvU3lTdkVEQV9MazFlSXRNT2c2S2NxQ1MtczFueWRudHFWeEFET3pCQmpJY1ZoT2Rwb1RxWml0Q2VDMGxIVVk?oc=5",
+      "summary": "Shaping how AI changes work in London | London City Hall london.gov.uk",
+      "quality_note": "News/search source: useful for current signals, but verify important claims.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Google News - UK SME AI adoption",
+      "type": "news_search",
+      "title": "Government to partner with tech companies, trade unions and industry leaders to boost AI adoption and equip workers with AI skills - GOV.UK",
+      "published": "Mon, 08 Jun 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQb0NuaTNpaHdyQkpvU1RreGNXYl9HUWhUM2l1Ylh2TWxtNkotcXZ3QkE4QXM0YXduazZDS3gycTBoa0hMT3lSalVzX2VnRW95dkJTWkxCeDI0dDBSOTNteVZVcHM2YUlfclJkdHRUTVZkamNkRF9yWk5vU0VobjhyU2VZRWVxaGc0VVVFNTU1b0htbWtuTFp2MDM2T01DYTBnbTdSNXkyVkd2OGJYVkY0OXpLQWh5VnNreWFoRlRNelYzZ0NidHdaRHBqNHZnZHpRYnlMZXJvX3p4M2wwTlRQanNsbnVKNzNrS1lhOWFoblo0dlRNOEZv?oc=5",
+      "summary": "Government to partner with tech companies, trade unions and industry leaders to boost AI adoption and equip workers with AI skills GOV.UK",
+      "quality_note": "News/search source: useful for current signals, but verify important claims.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Google News - FMCG AI supply chain UK",
+      "type": "news_search",
+      "title": "How AI Is Transforming India's FMCG Supply Chain, Distribution & Demand Forecasting - Logistics Insider",
+      "published": "Mon, 27 Jul 2026 07:03:20 GMT",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUU1Nd0QzTTU0YUJYQ2hiVHc0c3pCSmQzOXhhZDBvTnlkZHJjVmZUTDZlenN6VzhFSlFoTHlaQkNXTEJ3MkFpQUJ4amJuVllFWEsxS0VUNk9HeEk3bXNybTJNLVRIbGMyT2N5b3FoY0M1MEdoOHZhOWlaT3NOWk9CLWtFeHd3VWZnZHNESEt3V0w2cGxBWGxDYUpOUjZCVUI4M2xTeHdKY1pNLUtWbE1JcGFB?oc=5",
+      "summary": "How AI Is Transforming India's FMCG Supply Chain, Distribution & Demand Forecasting Logistics Insider",
+      "quality_note": "News/search source: useful for current signals, but verify important claims.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Google News - business intelligence AI workflow",
+      "type": "news_search",
+      "title": "7 Types of AI Agents to Automate Your Workflows in 2026 - Reply",
+      "published": "Fri, 31 Jul 2026 02:29:14 GMT",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVU13cjVYWkVGWFBQWmVKckdNcTRTc0pEdXlTNjVHZDE2TlZVZ1N6WndhenhsLXhKb3hCWU9FcnlQN01BWkdadDdRakR4MV83LTR3bXp0b29WWGM2Sjd2elhoWnViXzdIcHNFT1VxcTdfdzg3bkFQMXBmQUJHUFZySW1BanpKM0dqQzhyQ0NtWWl0XzdpX2hxVUpoWk5ScUF0eWZ5amlmb3lTeEZGUUFF?oc=5",
+      "summary": "7 Types of AI Agents to Automate Your Workflows in 2026 Reply",
+      "quality_note": "News/search source: useful for current signals, but verify important claims.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Google News - business intelligence AI workflow",
+      "type": "news_search",
+      "title": "Chartwell Mortgage Services adopts JammJar AI platform - The Intermediary",
+      "published": "Fri, 24 Jul 2026 07:08:22 GMT",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdjNwN2FHQUIzMmlJT193LUQwY0ZYdGZpM0RFaVJHRURSdUZnUUVmd19yQTVZQW8tX1BYZGJVNDZMY3JfWjhELVNrQ2dYMy1MSTBtS0FhSFBzeHF4bGptWWhEX20xNlZweVd0NlZUb0owWnAtX2JnSVFnQkJrUmJocVpXaVljYUFxQWNIUGszTXhRdXRoaG0wMg?oc=5",
+      "summary": "Chartwell Mortgage Services adopts JammJar AI platform The Intermediary",
+      "quality_note": "News/search source: useful for current signals, but verify important claims.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Google News - business intelligence AI workflow",
+      "type": "news_search",
+      "title": "Building Enterprise AI Workflow Automation Systems: Key Architectures and Best Practices - Nasscom",
+      "published": "Wed, 29 Jul 2026 11:41:51 GMT",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMlZzS2pwSTBleTJObnZFYVhnby1wSzhfaWdUS243aW5udEVFOEhIeVVxUlBoUlBLdW5BSFUzUURLWENVMWxidDNBZ1hPVXptM2VRRHdGU0p3NzZrNFBBbFlzVnE2UDM1MEZSRzd2bXdteHRaVkZqZW05WjdQemdkbHI3XzNUOEZ4WUIxcGlKSzZJYU5WdFowYmN0SjJDRGtzM3dZb01nVllmM3NSWEFvZ0VSVXlRN2hzcDNFdG1R?oc=5",
+      "summary": "Building Enterprise AI Workflow Automation Systems: Key Architectures and Best Practices Nasscom",
+      "quality_note": "News/search source: useful for current signals, but verify important claims.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Google News - business intelligence AI workflow",
+      "type": "news_search",
+      "title": "Salesforce AppExchange Tools Market Size, Share, Global Growth Report 2035 - Global Growth Insights",
+      "published": "Wed, 29 Jul 2026 17:31:35 GMT",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcHZtdHZXcmRDcG1FR0lMUzN4NWNYdUhDNlZfdlZJS2hUTGpsdmZHQlQ0Z29UMTU1YWhmRktwanFVVEZ5ajFSNEJUNVBXcmxsRWNudTkzQmFpdm5GbVZiSUdYNjlzZWFURTdDdUpOSUM2X2Q1NEprblZ5dWt5UlZRdEE3LVMxWUZ3dUlSQ3dpTVhIX2MtV1hiVVpn?oc=5",
+      "summary": "Salesforce AppExchange Tools Market Size, Share, Global Growth Report 2035 Global Growth Insights",
+      "quality_note": "News/search source: useful for current signals, but verify important claims.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Google News - business intelligence AI workflow",
+      "type": "news_search",
+      "title": "Enterprise AI Companies: Landscape Breakdown in 2026 - aimultiple.com",
+      "published": "Mon, 20 Jul 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81Q3hSaFRVQzNTanluNEpDZTNXbnJtNlhkVkhDOEVWanlRS2JHV0tvOWtrRWtYUGx4TmNfZ2VueXJlQ2NOc3FRaFBzLTNnVjZ2ZTk3bXp5bHh3UQ?oc=5",
+      "summary": "Enterprise AI Companies: Landscape Breakdown in 2026 aimultiple.com",
+      "quality_note": "News/search source: useful for current signals, but verify important claims.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Google News - retail distribution AI UK",
+      "type": "news_search",
+      "title": "The future of AI regulation in UK financial services: key insights from the FCA's Mills Review - Deloitte",
+      "published": "Fri, 10 Jul 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUVpqbzFQaEp4c1hLa3ctZVYzbXItTFNNQ2tsMUswNXFTUlFzQTdsQ29MYmVNeVpLU2pSNWlmaW83dHBEdDR0WVdrcGVBaVczaWhxMTh3TnJQb05aSGhRVUdSbnNPU1Y2SHo4MDdDYW1hNGhSU0FQVFFPY3BMMy1BQkhvNHlMbTNJaWQ3QmhpSzRFWkdMOFdCcGtnWmtMSlNHdEZfcl81ejZKMXc3bk9RVF9wZkhRaC0xdU9kdk5TNlVyaUVlc3YzbmdWOTl0SmptMVg2ckhn?oc=5",
+      "summary": "The future of AI regulation in UK financial services: key insights from the FCA's Mills Review Deloitte",
+      "quality_note": "News/search source: useful for current signals, but verify important claims.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Google News - retail distribution AI UK",
+      "type": "news_search",
+      "title": "Epicor launches Prism AI for UK & Europe ERP users - IT Brief UK",
+      "published": "Wed, 24 Jun 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUWNQa3V0YmJ2ZzQwNGhOSGxYWHJkTGYxMXo3UEtibzQ5MnhkZDlnM2FEZEpHNFZITTB0d2dBSDlxQU9Od3ZQSmo1bjNRaVZMaE1BMVNWbXNOdkJMSk9DUGRPMWVMbnAtU2JYbmhNNTFQMHRvYUZTaE0xd251ZWRBNFlR?oc=5",
+      "summary": "Epicor launches Prism AI for UK & Europe ERP users IT Brief UK",
+      "quality_note": "News/search source: useful for current signals, but verify important claims.",
+      "relevance_score": 5
+    },
+    {
+      "source": "ONS",
+      "type": "official_watchlist",
+      "title": "ONS business, economy and technology statistics",
+      "published": "2026-07-31",
+      "url": "https://www.ons.gov.uk/",
+      "summary": "Official UK statistics source for business conditions, productivity, retail, labour market and economic context.",
+      "manual_check": true,
+      "quality_note": "Official source: credible context, but may be broad or slow-moving.",
+      "relevance_score": 5
+    },
+    {
+      "source": "OECD",
+      "type": "official_watchlist",
+      "title": "OECD AI, SMEs, productivity and digital adoption",
+      "published": "2026-07-31",
+      "url": "https://www.oecd.org/",
+      "summary": "Useful for international context on SME digital adoption, productivity, AI diffusion and policy.",
+      "manual_check": true,
+      "quality_note": "Official source: credible context, but may be broad or slow-moving.",
+      "relevance_score": 5
+    },
+    {
+      "source": "The Grocer",
+      "type": "fmcg_watchlist",
+      "title": "The Grocer - UK FMCG and grocery sector",
+      "published": "2026-07-31",
+      "url": "https://www.thegrocer.co.uk/",
+      "summary": "Specialist UK FMCG and grocery source. Useful for suppliers, wholesalers, pricing, retail pressure and distribution signals.",
+      "manual_check": true,
+      "quality_note": "Industry source: useful sector context, but check whether evidence is narrow or anecdotal.",
+      "relevance_score": 5
+    },
+    {
+      "source": "IGD",
+      "type": "fmcg_watchlist",
+      "title": "IGD grocery, retail and supply-chain insight",
+      "published": "2026-07-31",
+      "url": "https://www.igd.com/",
+      "summary": "Useful for grocery, retail, wholesale and supply-chain context.",
+      "manual_check": true,
+      "quality_note": "Industry source: useful sector context, but check whether evidence is narrow or anecdotal.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Kantar",
+      "type": "fmcg_watchlist",
+      "title": "Kantar retail and FMCG insights",
+      "published": "2026-07-31",
+      "url": "https://www.kantar.com/uki/industries/retail",
+      "summary": "Professional insight source for FMCG, retail, consumers and brand performance.",
+      "manual_check": true,
+      "quality_note": "Industry source: useful sector context, but check whether evidence is narrow or anecdotal.",
+      "relevance_score": 5
+    },
+    {
+      "source": "NielsenIQ",
+      "type": "fmcg_watchlist",
+      "title": "NielsenIQ retail and FMCG insights",
+      "published": "2026-07-31",
+      "url": "https://nielseniq.com/global/en/insights/",
+      "summary": "Professional retail and FMCG data source for market trends, consumer behaviour and category performance.",
+      "manual_check": true,
+      "quality_note": "Industry source: useful sector context, but check whether evidence is narrow or anecdotal.",
+      "relevance_score": 5
+    },
+    {
+      "source": "OpenAI News",
+      "type": "company_primary_ai",
+      "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+      "published": "Wed, 29 Jul 2026 00:00:00 GMT",
+      "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+      "summary": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
+      "quality_note": "Vendor/company source: useful primary signal, but not neutral proof.",
+      "relevance_score": 4
+    },
+    {
+      "source": "MIT Sloan Management Review",
+      "type": "professional_insight",
+      "title": "﻿The Link Between Explicit AI-Generated Images and Offline Crime",
+      "published": "Wed, 29 Jul 2026 11:00:40 +0000",
+      "url": "https://sloanreview.mit.edu/article/the-link-between-explicit-ai-generated-images-and-offline-crime/",
+      "summary": "Dung Hoang/theispot.com The online revolution enabled frictionless access to virtually every type of content — including adult content. Generative AI has added a whole new, and potentially more dangerous, dimension to the boom in explicit content. In the absence of strong safeguards, AI users can transition from consumers to creators of their own explicit media [&#8230;]",
+      "quality_note": "Professional insight source: useful framing, but may be marketing-led.",
+      "relevance_score": 4
+    },
+    {
+      "source": "MIT Sloan Management Review",
+      "type": "professional_insight",
+      "title": "Robots Are Coming — but Not Everywhere",
+      "published": "Thu, 23 Jul 2026 11:00:55 +0000",
+      "url": "https://sloanreview.mit.edu/article/robots-are-coming-but-not-everywhere/",
+      "summary": "Getty Images “The ChatGPT moment for robotics is coming,” declared Nvidia CEO Jensen Huang at the Consumer Electronics Show in January 2025. It’s a widespread expectation: that humanoid robots will follow the same explosive adoption curve as generative AI. Our research suggests the opposite. Humanoid robotics will be adopted unevenly, across diverging use cases and [&#8230;]",
+      "quality_note": "Professional insight source: useful framing, but may be marketing-led.",
+      "relevance_score": 4
+    },
+    {
+      "source": "MIT Sloan Management Review",
+      "type": "professional_insight",
+      "title": "Creating Shared Prosperity With AI: Stanford Digital Economy Lab’s Erik Brynjolfsson",
+      "published": "Tue, 21 Jul 2026 11:00:41 +0000",
+      "url": "https://sloanreview.mit.edu/audio/creating-shared-prosperity-with-ai-stanford-digital-economy-labs-erik-brynjolfsson/",
+      "summary": "Erik Brynjolfsson has a challenge for anyone worried about artificial intelligence: Stop asking what AI will do to us, and start asking what we will do with AI. In this episode of Me, Myself, and AI, the Stanford University economist explains why technology isn’t the biggest barrier to progress — people, organizations, and institutions are. [&#8230;]",
+      "quality_note": "Professional insight source: useful framing, but may be marketing-led.",
+      "relevance_score": 4
+    },
+    {
+      "source": "The Guardian Business",
+      "type": "independent_news",
+      "title": "Could AI take your job? Some workers in China already know the answer",
+      "published": "Fri, 31 Jul 2026 02:22:05 GMT",
+      "url": "https://www.theguardian.com/world/2026/jul/31/china-ai-jobs-workers-labour-market-technology",
+      "summary": "Across the country, workers are fearful about the impact of AI on their livelihoods in an increasingly fragile labour market On the tree-lined streets of Wuhan, where cars jostle for space with mopeds and cargo trucks, the malfunctioning of a new type of vehicle has recently been causing chaos on the city’s roads. In March, several cars from a fleet of driverless taxis stopped abruptly in the streets. The “system malfunction” left distressed riders stranded for hours. The robotaxis, known as Apollo Go and powered by artificial intelligence (AI), were taken off Wuhan’s streets for months for investigations. Continue reading...",
+      "quality_note": "News/search source: useful for current signals, but verify important claims.",
+      "relevance_score": 4
+    },
+    {
+      "source": "OpenAI News",
+      "type": "company_primary_ai",
+      "title": "Advancing the price-performance frontier with GPT-5.6",
+      "published": "Thu, 30 Jul 2026 10:00:00 GMT",
+      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+      "summary": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
+      "quality_note": "Vendor/company source: useful primary signal, but not neutral proof.",
+      "relevance_score": 3
+    },
+    {
+      "source": "OpenAI News",
+      "type": "company_primary_ai",
+      "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+      "published": "Thu, 30 Jul 2026 00:00:00 GMT",
+      "url": "https://openai.com/index/avatarin",
+      "summary": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
+      "quality_note": "Vendor/company source: useful primary signal, but not neutral proof.",
+      "relevance_score": 3
+    },
+    {
+      "source": "Microsoft Power BI Blog",
+      "type": "bi_tooling",
+      "url": "https://powerbi.microsoft.com/en-us/blog/feed/",
+      "error": "HTTP Error 403: Forbidden",
+      "quality_note": "Vendor/company source: useful primary signal, but not neutral proof.",
+      "relevance_score": 3
+    },
+    {
+      "source": "McKinsey Insights",
+      "type": "professional_insight",
+      "title": "How utilities can rewire customer operations with agentic AI",
+      "published": "Thu, 30 Jul 2026",
+      "url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/how-utilities-can-rewire-customer-operations-with-agentic-ai",
+      "summary": "Faced with declining customer satisfaction, North American utilities are turning to agentic AI to transform the customer experience for the better while reducing costs.",
+      "quality_note": "Professional insight source: useful framing, but may be marketing-led.",
+      "relevance_score": 3
+    },
+    {
+      "source": "McKinsey Insights",
+      "type": "professional_insight",
+      "title": "AI transformations: Views from AMD, Dell, Liquid AI, and Mercedes-Benz",
+      "published": "Thu, 30 Jul 2026",
+      "url": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/ai-transformations-views-from-amd-dell-liquid-ai-and-mercedes-benz",
+      "summary": "Executives from AMD, Dell, Liquid AI, and Mercedes-Benz discuss how to structure processes with AI in mind and why enterprise-wide transformation is about people, not just technology.",
+      "quality_note": "Professional insight source: useful framing, but may be marketing-led.",
+      "relevance_score": 3
+    },
+    {
+      "source": "The Guardian Business",
+      "type": "independent_news",
+      "title": "Apple and Amazon report rising revenues as investors turn on some tech stocks",
+      "published": "Thu, 30 Jul 2026 21:42:22 GMT",
+      "url": "https://www.theguardian.com/technology/2026/jul/30/apple-amazon-second-quarter-revenues",
+      "summary": "Both tech companies beat Wall Street predictions on revenue in their second quarters Apple and Amazon both released their second quarter earnings on Thursday, a test of investor confidence in major tech companies amid growing concerns over exorbitant AI spending. Apple revealed quarterly revenue of $109.4bn, beating Wall Street expectations of $108.65bn in revenue. It also reported $2.02 earnings per share, driven by sales of its marquee products such as iPhones and laptops. Continue reading...",
+      "quality_note": "News/search source: useful for current signals, but verify important claims.",
+      "relevance_score": 3
+    },
+    {
+      "source": "GOV.UK SMEs digital adoption",
+      "type": "official_policy",
+      "url": "https://www.gov.uk/api/search.json?q=SME%20digital%20adoption%20artificial%20intelligence&count=5&order=updated-newest",
+      "error": "HTTP Error 422: Unknown Error",
+      "quality_note": "Official source: credible context, but may be broad or slow-moving.",
+      "relevance_score": 3
+    },
+    {
+      "source": "GOV.UK business productivity technology",
+      "type": "official_policy",
+      "url": "https://www.gov.uk/api/search.json?q=business%20productivity%20technology%20SME&count=5&order=updated-newest",
+      "error": "HTTP Error 422: Unknown Error",
+      "quality_note": "Official source: credible context, but may be broad or slow-moving.",
+      "relevance_score": 3
+    },
+    {
+      "source": "OpenAI News",
+      "type": "company_primary_ai",
+      "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+      "published": "Wed, 29 Jul 2026 15:00:00 GMT",
+      "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+      "summary": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
+      "quality_note": "Vendor/company source: useful primary signal, but not neutral proof.",
+      "relevance_score": 2
+    },
+    {
+      "source": "AWS Machine Learning Blog",
+      "type": "ai_data_tooling",
+      "title": "Deploying Kimi K3 on AWS",
+      "published": "Thu, 30 Jul 2026 17:22:32 +0000",
+      "url": "https://aws.amazon.com/blogs/machine-learning/deploying-kimi-k3-on-aws/",
+      "summary": "This post walks through deploying Kimi K3 on AWS using two approaches: Amazon SageMaker HyperPod, and Amazon Elastic Kubernetes Service (Amazon EKS) cluster.",
+      "quality_note": "Vendor/company source: useful primary signal, but not neutral proof.",
+      "relevance_score": 2
+    },
+    {
+      "source": "AWS Machine Learning Blog",
+      "type": "ai_data_tooling",
+      "title": "How Yahoo enhances search retargeting using Amazon Bedrock",
+      "published": "Thu, 30 Jul 2026 16:40:36 +0000",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-yahoo-enhances-search-retargeting-using-amazon-bedrock/",
+      "summary": "In this post, we demonstrate how Yahoo implemented Amazon Bedrock to enhance their Search Retargeting (SRT) capabilities in the Yahoo DSP ad tech suite. SRT is a core audience targeting solution that helps advertisers reach users based on their historical search behavior, bridging search intent with display, video, and native advertising. Beyond targeting keywords entered on Yahoo Search, SRT uses AI to identify and engage users who demonstrate intent through search activity both on Yahoo and across integrated partner systems.",
+      "quality_note": "Vendor/company source: useful primary signal, but not neutral proof.",
+      "relevance_score": 2
+    },
+    {
+      "source": "AWS Machine Learning Blog",
+      "type": "ai_data_tooling",
+      "title": "Introducing explicit prompt caching for OpenAI GPT-5.6 models on Amazon Bedrock",
+      "published": "Thu, 30 Jul 2026 16:02:32 +0000",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-explicit-prompt-caching-for-openai-gpt-5-6-models-on-amazon-bedrock/",
+      "summary": "OpenAI GPT-5.6 Sol, Terra, and Luna are now generally available on Amazon Bedrock, along with explicit prompt caching that gives you precise control over which parts of your prompt are cached and reused. Learn how to get started, set up explicit caching, and migrate existing GPT workloads to reduce inference cost.",
+      "quality_note": "Vendor/company source: useful primary signal, but not neutral proof.",
+      "relevance_score": 2
+    },
+    {
+      "source": "AWS Machine Learning Blog",
+      "type": "ai_data_tooling",
+      "title": "Migrate your prompts to new models and optimize them on Amazon Bedrock",
+      "published": "Thu, 30 Jul 2026 15:58:32 +0000",
+      "url": "https://aws.amazon.com/blogs/machine-learning/migrate-your-prompts-to-new-models-and-optimize-them-on-amazon-bedrock/",
+      "summary": "Amazon Bedrock Advanced Prompt Optimization optimizes your prompts for up to 5 models at once and compares original versus optimized performance across quality, latency, and cost. Migrate to a new model or improve your current one in minutes instead of weeks.",
+      "quality_note": "Vendor/company source: useful primary signal, but not neutral proof.",
+      "relevance_score": 2
+    },
+    {
+      "source": "MIT Sloan Management Review",
+      "type": "professional_insight",
+      "title": "How ﻿a Healthy ﻿Work Culture﻿ Help﻿s﻿ ﻿Trauma Survivors",
+      "published": "Thu, 30 Jul 2026 11:00:24 +0000",
+      "url": "https://sloanreview.mit.edu/article/how-a-healthy-work-culture-helps-trauma-survivors/",
+      "summary": "Donna Grethen/Ikon Images Over the past few decades, there has been burgeoning interest in how leaders and organizations can support employees in the aftermath of traumatic events.1 But there is another pervasive and often hidden source of trauma that originates well before individuals enter the workforce. Childhood adversity, referred to as adverse childhood experiences (ACEs), [&#8230;]",
+      "quality_note": "Professional insight source: useful framing, but may be marketing-led.",
+      "relevance_score": 2
+    },
+    {
+      "source": "MIT Sloan Management Review",
+      "type": "professional_insight",
+      "title": "﻿A New Way to ﻿Address Troubled Team Dynamics",
+      "published": "Wed, 22 Jul 2026 11:00:22 +0000",
+      "url": "https://sloanreview.mit.edu/article/a-new-way-to-address-troubled-team-dynamics/",
+      "summary": "Gillian Blease/Ikon Images The Research The authors adapted the Big Five personality test into a tool for illustrating personality preferences among team members. They and their colleagues tested the tool with over 600 ad hoc teams that attended IMD leadership development programs. They confirmed the applicability of this method with 100 senior executive teams in [&#8230;]",
+      "quality_note": "Professional insight source: useful framing, but may be marketing-led.",
+      "relevance_score": 2
+    },
+    {
+      "source": "McKinsey Insights",
+      "type": "professional_insight",
+      "title": "From drift to dynamism: Reinventing Japan to compete in a new era",
+      "published": "Fri, 31 Jul 2026",
+      "url": "https://www.mckinsey.com/featured-insights/future-of-asia/from-drift-to-dynamism-reinventing-japan-to-compete-in-a-new-era",
+      "summary": "Bold actions to spur corporate dynamism can unlock transformational opportunities for Japan in a new era and reset its growth trajectory.",
+      "quality_note": "Professional insight source: useful framing, but may be marketing-led.",
+      "relevance_score": 2
+    },
+    {
+      "source": "McKinsey Insights",
+      "type": "professional_insight",
+      "title": "The new advantage in the age of AI: Building in the real world",
+      "published": "Thu, 30 Jul 2026",
+      "url": "https://www.mckinsey.com/industries/real-estate/our-insights/the-new-advantage-in-the-age-of-ai-building-in-the-real-world",
+      "summary": "As AI accelerates the digital economy, the real constraint is physical: housing, power, and infrastructure. Laura Hines-Pierce, co-CEO of Hines, explains why execution—not capital—will define the next era of value creation.",
+      "quality_note": "Professional insight source: useful framing, but may be marketing-led.",
+      "relevance_score": 2
+    },
+    {
+      "source": "McKinsey Insights",
+      "type": "professional_insight",
+      "title": "Author Talks: The daily practices that lead to exceptional performance",
+      "published": "Thu, 30 Jul 2026",
+      "url": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-the-daily-practices-that-lead-to-exceptional-performance",
+      "summary": "What separates good from exceptional? Learning Leader Show host Ryan Hawk reveals why disciplined daily habits and purposeful ambition are the foundation of high performance.",
+      "quality_note": "Professional insight source: useful framing, but may be marketing-led.",
+      "relevance_score": 2
+    },
+    {
+      "source": "BBC Business",
+      "type": "independent_news",
+      "title": "South Korean shares soar after chip stock rout",
+      "published": "Fri, 31 Jul 2026 06:56:02 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/c4gdzlzprv1o?at_medium=RSS&at_campaign=rss",
+      "summary": "It comes after a three-day rout that wiped hundreds of billions of dollars off the value of the country's stock market.",
+      "quality_note": "News/search source: useful for current signals, but verify important claims.",
+      "relevance_score": 2
+    },
+    {
+      "source": "The Guardian Business",
+      "type": "independent_news",
+      "title": "BP to sell North Sea business; AI companies lead record surge on Korea’s stock market – business live",
+      "published": "Fri, 31 Jul 2026 07:26:59 GMT",
+      "url": "https://www.theguardian.com/business/live/2026/jul/31/bp-sell-north-sea-ai-record-korea-kospi-stock-market-latest-news-updates",
+      "summary": "Live, rolling coverage as British oil company looks for buyer amid political dispute over future drilling licences Aerospace company Melrose Industries has paused its share buybacks as it waits for potential legal and regulatory action over a leaking chemical tank in California . The company’s GKN Aerospace business said the tank at its Garden Grove facility was leaking methyl methacrylate, a flammable chemical used in the acrylic for windows for the F-35 fighter jet and passenger cabin windows on commercial aircraft, because it was overheating. The local area had to be evacuated in case the tank exploded (which it did not). We are managing the situation at our Garden Grove transparencies site following the incident in May. Partial production has since resumed, and we will continue to work closely with customers, regulators and other authorities to safely restore the site to full production in the second half. Market activity and house prices have remained soft in recent months, in part reflecting the uncertain economic backdrop. Geopolitical tensions remain high, with the conflict between Iran and the US again exerting upward pressure on energy prices and market interest rates in ",
+      "quality_note": "News/search source: useful for current signals, but verify important claims.",
+      "relevance_score": 2
+    },
+    {
+      "source": "OpenAI News",
+      "type": "company_primary_ai",
+      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+      "published": "Wed, 29 Jul 2026 10:00:00 GMT",
+      "url": "https://openai.com/index/chatgpt-for-academic-researchers",
+      "summary": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
+      "quality_note": "Vendor/company source: useful primary signal, but not neutral proof.",
+      "relevance_score": 1
+    },
+    {
+      "source": "Google DeepMind Blog",
+      "type": "company_primary_ai",
+      "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+      "published": "Thu, 30 Jul 2026 15:00:59 +0000",
+      "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+      "summary": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.",
+      "quality_note": "Vendor/company source: useful primary signal, but not neutral proof.",
+      "relevance_score": 1
+    },
+    {
+      "source": "Google DeepMind Blog",
+      "type": "company_primary_ai",
+      "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+      "published": "Wed, 29 Jul 2026 16:02:10 +0000",
+      "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
+      "summary": "",
+      "quality_note": "Vendor/company source: useful primary signal, but not neutral proof.",
+      "relevance_score": 1
+    },
+    {
+      "source": "Google DeepMind Blog",
+      "type": "company_primary_ai",
+      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+      "published": "Tue, 28 Jul 2026 13:21:37 +0000",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+      "summary": "",
+      "quality_note": "Vendor/company source: useful primary signal, but not neutral proof.",
+      "relevance_score": 1
+    },
+    {
+      "source": "Google DeepMind Blog",
+      "type": "company_primary_ai",
+      "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+      "published": "Wed, 22 Jul 2026 13:38:54 +0000",
+      "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+      "summary": "Google commits $40M in AI tokens and credits for the Genesis Mission",
+      "quality_note": "Vendor/company source: useful primary signal, but not neutral proof.",
+      "relevance_score": 1
+    },
+    {
+      "source": "Google DeepMind Blog",
+      "type": "company_primary_ai",
+      "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+      "published": "Tue, 21 Jul 2026 15:16:30 +0000",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
+      "summary": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
+      "quality_note": "Vendor/company source: useful primary signal, but not neutral proof.",
+      "relevance_score": 1
+    },
+    {
+      "source": "BBC Business",
+      "type": "independent_news",
+      "title": "Sainsbury's agrees to sell Argos for £120m",
+      "published": "Fri, 31 Jul 2026 07:21:43 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cpw9yrl4p2qo?at_medium=RSS&at_campaign=rss",
+      "summary": "Under the terms of the deal, Argos will still operate in Sainsbury's shops, sell Habitat products, and offer Nectar points.",
+      "quality_note": "News/search source: useful for current signals, but verify important claims.",
+      "relevance_score": 1
+    },
+    {
+      "source": "BBC Business",
+      "type": "independent_news",
+      "title": "Thames Water boss says leakage targets 'not realistic'",
+      "published": "Thu, 30 Jul 2026 23:06:37 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/c04kd3gl1gpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Chris Weston said Thames wanted \"to do better\" but some of its targets were not achievable.",
+      "quality_note": "News/search source: useful for current signals, but verify important claims.",
+      "relevance_score": 1
+    },
+    {
+      "source": "BBC Business",
+      "type": "independent_news",
+      "title": "'I pay £580 a month to live in a disused care home': Property guardians show us around",
+      "published": "Thu, 30 Jul 2026 23:05:41 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cj4kvge1pyvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Could you live communally in a disused building in exchange for a heavily discounted rent? Property guardians show us around.",
+      "quality_note": "News/search source: useful for current signals, but verify important claims.",
+      "relevance_score": 1
+    },
+    {
+      "source": "BBC Business",
+      "type": "independent_news",
+      "title": "Anthropic's Claude AI escapes tests to hack three organisations",
+      "published": "Fri, 31 Jul 2026 04:31:30 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss",
+      "summary": "It comes just days after rival OpenAI said rogue AI agents had breached other firms' networks.",
+      "quality_note": "News/search source: useful for current signals, but verify important claims.",
+      "relevance_score": 1
+    },
+    {
+      "source": "The Guardian Business",
+      "type": "independent_news",
+      "title": "Burnham to free mayors from ‘Treasury death grip’ with new devolved powers",
+      "published": "Thu, 30 Jul 2026 21:30:55 GMT",
+      "url": "https://www.theguardian.com/politics/2026/jul/30/burnham-mayors-income-tax-business-rates-devolution",
+      "summary": "Local leaders say plan will transform funding so English regions no longer rely on Whitehall handouts for projects England’s regional mayors will be able to break out of the “death grip of the Treasury” by borrowing to invest in big projects under “transformational” plans to shift power out of Whitehall. For the first time, mayors will keep a share of income tax generated in their area from 2028, as well as business rates totalling tens of millions of pounds by April 2027. Continue reading...",
+      "quality_note": "News/search source: useful for current signals, but verify important claims.",
+      "relevance_score": 1
+    },
+    {
+      "source": "The Guardian Business",
+      "type": "independent_news",
+      "title": "Anthropic’s AI Claude escaped testing environment and hacked organizations",
+      "published": "Fri, 31 Jul 2026 00:22:16 GMT",
+      "url": "https://www.theguardian.com/technology/2026/jul/30/anthropic-ai-claude-hack",
+      "summary": "Company says it discovered unauthorized access during ‘proactive review’ after rival OpenAI revealed rogue agent Anthropic ⁠said on Thursday its AI Claude model hacked ⁠systems of ⁠three ​organizations during testing, days after rival OpenAI ⁠revealed a rogue agent had gone on a days-long ⁠hacking spree at AI ​firm Hugging ‌Face. Claude gained ‌unauthorized access to the ‌systems during cybersecurity evaluations after a misconfiguration allowed the models to reach the internet from testing environments that ‌were supposed to be isolated, Anthropic said. Continue reading...",
+      "quality_note": "News/search source: useful for current signals, but verify important claims.",
+      "relevance_score": 1
+    },
+    {
+      "source": "GOV.UK AI business adoption",
+      "type": "official_policy",
+      "url": "https://www.gov.uk/api/search.json?q=artificial%20intelligence%20business%20adoption&count=5&order=updated-newest",
+      "error": "HTTP Error 422: Unknown Error",
+      "quality_note": "Official source: credible context, but may be broad or slow-moving.",
+      "relevance_score": 1
+    }
+  ]
+}
