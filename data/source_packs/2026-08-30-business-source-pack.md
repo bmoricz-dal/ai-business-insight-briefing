@@ -1,0 +1,1133 @@
+# Business Source Pack - 2026-08-30
+
+Purpose: source material for practical AI business adoption and market intelligence briefs.
+
+Use this file as input for `prompts/business_insight_prompt.md`.
+
+## Source selection reminder
+
+- Prefer implementation evidence over hype.
+- Treat vendor/company sources as biased primary signals.
+- Separate fact, meaning, risk and application.
+- Look for BI/workflow, FMCG/distribution, SME and market intelligence relevance.
+
+---
+
+## 1. How Decathlon runs demand forecasting at scale with Chronos-2
+
+**Source:** AWS Machine Learning Blog
+**Type:** ai_data_tooling
+**Published:** Fri, 28 Aug 2026 16:22:30 +0000
+**URL:** https://aws.amazon.com/blogs/machine-learning/how-decathlon-runs-demand-forecasting-at-scale-with-chronos-2/
+**Relevance score:** 5/5
+**Quality note:** Vendor/company source: useful primary signal, but not neutral proof.
+
+**Summary:**
+
+Decathlon, one of the world's largest sporting goods retailers, forecasts weekly demand for tens of thousands of products across multiple continents. Learn how they deployed Chronos-2 on AWS to improve forecast accuracy by 11-15 points while cutting operational complexity and running weekly inference for about $0.03 on CPU-only instances.
+
+---
+
+## 2. Spreading the load: How Salesforce met Multi-AZ HA with SageMaker Inference Components
+
+**Source:** AWS Machine Learning Blog
+**Type:** ai_data_tooling
+**Published:** Fri, 28 Aug 2026 16:20:40 +0000
+**URL:** https://aws.amazon.com/blogs/machine-learning/spreading-the-load-how-salesforce-met-multi-az-ha-with-sagemaker-inference-components/
+**Relevance score:** 5/5
+**Quality note:** Vendor/company source: useful primary signal, but not neutral proof.
+
+**Summary:**
+
+Learn how Salesforce used Amazon SageMaker AI Inference Component placement (the SchedulingConfig parameter) to distribute model copies across multiple Availability Zones, meeting their Multi-AZ high availability compliance requirements without sacrificing the cost efficiency of multi-model co-hosting.
+
+---
+
+## 3. Upgrade Power BI Dataflows Gen1 to Fabric Dataflows Gen2 with the Upgrade Wizard (Preview)
+
+**Source:** Microsoft Power BI Blog
+**Type:** bi_tooling
+**Published:** Mon, 24 Aug 2026 15:00:00 GMT
+**URL:** https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Upgrade-Power-BI-Dataflows-Gen1-to-Fabric-Dataflows-Gen2-with/ba-p/5360422
+**Relevance score:** 5/5
+**Quality note:** Vendor/company source: useful primary signal, but not neutral proof.
+
+**Summary:**
+
+Upgrading Power BI Dataflows Gen1 is now easier with the Dataflows Upgrade Wizard. Now in preview for eligible workspaces assigned to Fabric capacity, the wizard provides a guided experience to upgrade Power BI Dataflows Gen1 items to Fabric Dataflows Gen2 (CI/CD). The wizard preserves key properties of the existing dataflow and assesses each item before you begin, helping you understand the upgrade scope and expected follow-up actions. Modernize at your own pace Power BI Dataflows Gen1 remains supported in a legacy state, while new feature investment focuses on Fabric Dataflows Gen2 (CI/CD), as shared in a previous post about the future of Dataflows . The Upgrade Wizard gives dataflow owners a guided self-service path to start that modernization without rebuilding their Power Query logic. You don't need to upgrade your full estate at once. Start with a representative set of dataflows, validate the results, and expand at a pace that works for your organization. For detailed migration planning and inventory guidance, review Migrate from Dataflow Gen1 to Dataflow Gen2 . Build on the benefits of Dataflows Gen2 Fabric Dataflows Gen2 (CI/CD) builds on the Power Query authoring experienc
+
+---
+
+## 4. The AI Semantic Layer You Probably Already Have
+
+**Source:** Microsoft Power BI Blog
+**Type:** bi_tooling
+**Published:** Thu, 20 Aug 2026 19:00:00 GMT
+**URL:** https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/The-AI-Semantic-Layer-You-Probably-Already-Have/ba-p/5360197
+**Relevance score:** 5/5
+**Quality note:** Vendor/company source: useful primary signal, but not neutral proof.
+
+**Summary:**
+
+If your organization uses Power BI, you own something most companies chasing AI are desperately trying to build. You just may not know it by name. Let me explain. The invisible thing behind every report Every Power BI report you have ever opened sits on top of a semantic model . Every single one. No exceptions. The report is the visible part; the semantic model is the machinery underneath that makes it trustworthy. What does it do? It translates raw data into business meaning. Somewhere in your organization, someone spent weeks deciding what “revenue” actually means. Gross or net? Booked or recognized? Which currency conversion, on which date? Someone fought over what counts as an “active customer” and whether returns subtract from sales this quarter or the quarter of the original purchase. Those decisions did not stay in meeting notes. They were encoded into the semantic model: the metric definitions, the relationships between customers and orders and products, the hierarchies that let you roll up a region into a country into a continent. That is why two people opening the same report see the same number, and why the CFO trusts the quarterly dashboard enough to present it to the b
+
+---
+
+## 5. Power BI August 2026 Feature Summary
+
+**Source:** Microsoft Power BI Blog
+**Type:** bi_tooling
+**Published:** Fri, 21 Aug 2026 21:06:18 GMT
+**URL:** https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-August-2026-Feature-Summary/ba-p/5348434
+**Relevance score:** 5/5
+**Quality note:** Vendor/company source: useful primary signal, but not neutral proof.
+
+**Summary:**
+
+Welcome to the August 2026 Power BI Feature Summary! This month includes updates across reporting, modeling, data connectivity, mobile, embedded analytics, and developer experiences, with a mix of generally available enhancements and new preview capabilities. Let's take a look at what's new. Table of Contents Download Power BI Desktop Events and Announcements September 15 | What a Winning Power BI Dataviz Looks Like Community Conference Tickets are Getting Low General Deprecation of Old File Picker experience in Power BI Desktop Copilot and AI Updates to required semantic model permissions for Fabric Apps Copilot Summary and Copilot Narrative can now read visuals hidden behind bookmarks Reporting Modern visual defaults and customize themes formatting panes (Generally Available) Date picker for Slicer visual (Generally Available) Center value for donut chart (Generally Available) Comments support for reports in org apps Matrix: Expand and collapse for column headers (Generally Available) Matrix: Set the default freeze state for row headers in the format pane OneLake file URLS for report visuals and maps (Generally Available) Outer padding for bar, column, line, ribbon, and waterfall
+
+---
+
+## 6. Edit your Power BI projects anywhere and reload them instantly in Power BI Desktop (Preview)
+
+**Source:** Microsoft Power BI Blog
+**Type:** bi_tooling
+**Published:** Tue, 18 Aug 2026 17:00:00 GMT
+**URL:** https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Edit-your-Power-BI-projects-anywhere-and-reload-them-instantly/ba-p/5359136
+**Relevance score:** 5/5
+**Quality note:** Vendor/company source: useful primary signal, but not neutral proof.
+
+**Summary:**
+
+Power BI Projects (PBIP) make reports and semantic models file-based, enabling source control, automation, and other developer workflows. You can edit those files directly in a code editor or through external tools. Until now, changes made outside of Power BI Desktop wouldn't appear until you restarted the application. With this update, Power BI Desktop detects those changes automatically, so there's no restart required. Edit anywhere and see changes immediately Power BI Desktop now detects changes made directly to PBIP files, regardless of whether those changes come from an editor, external tool, or automated process. When a PBIP file changes on disk, Desktop detects the update and prompts you to reload the latest version of your project. Apply external changes prompt in Power BI Desktop Selecting Apply external changes reloads the updated files into Power BI Desktop without restarting the application. This creates a much smoother experience when moving between Power BI Desktop and the tools you already use. Open your project directly in Visual Studio Code Power BI Desktop now includes an Open in VS Code option for PBIP projects. Selecting it launches Visual Studio Code with the p
+
+---
+
+## 7. Jim Beam maker chooses next chief supply chain officer
+
+**Source:** Supply Chain Dive
+**Type:** fmcg_supply_chain_news
+**Published:** Fri, 28 Aug 2026 09:58:00 -0400
+**URL:** https://www.supplychaindive.com/news/jim-beam-maker-chooses-next-chief-supply-chain-officer/828859/
+**Relevance score:** 5/5
+**Quality note:** Industry source: useful sector context, but check whether evidence is narrow or anecdotal.
+
+**Summary:**
+
+Manuel Caba&ntilde;as has been with Suntory Global Spirits since 2000 and will now oversee manufacturing, distribution, quality, sourcing and operations across the company&rsquo;s global network.
+
+---
+
+## 8. How a New York City bill could shake up Amazon, FedEx delivery operations
+
+**Source:** Supply Chain Dive
+**Type:** fmcg_supply_chain_news
+**Published:** Thu, 27 Aug 2026 13:13:12 -0400
+**URL:** https://www.supplychaindive.com/news/how-a-new-york-city-bill-could-shake-up-amazon-fedex-delivery-operations/828860/
+**Relevance score:** 5/5
+**Quality note:** Industry source: useful sector context, but check whether evidence is narrow or anecdotal.
+
+**Summary:**
+
+Proponents say the Delivery Protection Act will hold Amazon to account, but a report warns the bill could up shipping costs and slow service in the city.
+
+---
+
+## 9. US, Canada trade war poses sourcing risks for agriculture, consumer goods
+
+**Source:** Supply Chain Dive
+**Type:** fmcg_supply_chain_news
+**Published:** Thu, 27 Aug 2026 12:33:00 -0400
+**URL:** https://www.supplychaindive.com/news/us-canada-trade-war-poses-sourcing-risks-for-agriculture-consumer-goods/828967/
+**Relevance score:** 5/5
+**Quality note:** Industry source: useful sector context, but check whether evidence is narrow or anecdotal.
+
+**Summary:**
+
+The tit-for-tat tariff fight could hike costs for goods from ski jackets to agriculture and forest products, industry groups warn.
+
+---
+
+## 10. UPS preps higher holiday surcharges for 2026
+
+**Source:** Supply Chain Dive
+**Type:** fmcg_supply_chain_news
+**Published:** Thu, 27 Aug 2026 11:17:00 -0400
+**URL:** https://www.supplychaindive.com/news/ups-preps-higher-holiday-surcharges-for-2026/828936/
+**Relevance score:** 5/5
+**Quality note:** Industry source: useful sector context, but check whether evidence is narrow or anecdotal.
+
+**Summary:**
+
+The added fees, which start as early as Sept. 27, come as the carrier prepares for U.S. volume to jump 24% from Q3 to Q4.
+
+---
+
+## 11. Packaging sector braces for US-Canada trade war impacts
+
+**Source:** Supply Chain Dive
+**Type:** fmcg_supply_chain_news
+**Published:** Thu, 27 Aug 2026 10:43:00 -0400
+**URL:** https://www.supplychaindive.com/news/packaging-sector-braces-for-us-canada-trade-war-impacts/828938/
+**Relevance score:** 5/5
+**Quality note:** Industry source: useful sector context, but check whether evidence is narrow or anecdotal.
+
+**Summary:**
+
+Trade associations representing manufacturers of fiber, metal and glass packaging weighed in on expected effects &mdash; mainly higher costs &mdash; that could affect companies along both countries&rsquo; supply chains.
+
+---
+
+## 12. PepsiCo, Dell, HP and live warehouse technology set for IntraLogisteX in Dallas, Texas
+
+**Source:** Logistics Manager
+**Type:** logistics_distribution_news
+**Published:** Thu, 27 Aug 2026 15:52:27 +0000
+**URL:** https://www.logisticsmanager.com/pepsico-dell-hp-and-live-warehouse-technology-set-for-intralogistex-in-dallas-texas/
+**Relevance score:** 5/5
+**Quality note:** Industry source: useful sector context, but check whether evidence is narrow or anecdotal.
+
+**Summary:**
+
+The post PepsiCo, Dell, HP and live warehouse technology set for IntraLogisteX in Dallas, Texas appeared first on Logistics Manager .
+
+---
+
+## 13. Mavic includes contract logistics in expanded XPO partnership
+
+**Source:** Logistics Manager
+**Type:** logistics_distribution_news
+**Published:** Thu, 27 Aug 2026 11:27:05 +0000
+**URL:** https://www.logisticsmanager.com/mavic-includes-contract-logistics-in-expanded-xpo-partnership/
+**Relevance score:** 5/5
+**Quality note:** Industry source: useful sector context, but check whether evidence is narrow or anecdotal.
+
+**Summary:**
+
+The post Mavic includes contract logistics in expanded XPO partnership appeared first on Logistics Manager .
+
+---
+
+## 14. SAS Scandinavian Airlines appoints new ground handling partner
+
+**Source:** Logistics Manager
+**Type:** logistics_distribution_news
+**Published:** Thu, 27 Aug 2026 11:20:38 +0000
+**URL:** https://www.logisticsmanager.com/sas-scandinavian-airlines-appoints-new-ground-handling-partner/
+**Relevance score:** 5/5
+**Quality note:** Industry source: useful sector context, but check whether evidence is narrow or anecdotal.
+
+**Summary:**
+
+The post SAS Scandinavian Airlines appoints new ground handling partner appeared first on Logistics Manager .
+
+---
+
+## 15. M&S partners with ZEOS to strengthen omnichannel
+
+**Source:** Logistics Manager
+**Type:** logistics_distribution_news
+**Published:** Thu, 27 Aug 2026 08:44:20 +0000
+**URL:** https://www.logisticsmanager.com/ms-partners-with-zeos-to-strengthen-omnichannel/
+**Relevance score:** 5/5
+**Quality note:** Industry source: useful sector context, but check whether evidence is narrow or anecdotal.
+
+**Summary:**
+
+The post M&#038;S partners with ZEOS to strengthen omnichannel appeared first on Logistics Manager .
+
+---
+
+## 16. Oslo Airport awards handling license to expand freight options
+
+**Source:** Logistics Manager
+**Type:** logistics_distribution_news
+**Published:** Wed, 26 Aug 2026 08:44:58 +0000
+**URL:** https://www.logisticsmanager.com/oslo-airport-awards-handling-license-to-expand-freight-options/
+**Relevance score:** 5/5
+**Quality note:** Industry source: useful sector context, but check whether evidence is narrow or anecdotal.
+
+**Summary:**
+
+The post Oslo Airport awards handling license to expand freight options appeared first on Logistics Manager .
+
+---
+
+## 17. Building on AI’s Unfinished Foundation
+
+**Source:** MIT Sloan Management Review
+**Type:** professional_insight
+**Published:** Wed, 26 Aug 2026 11:00:49 +0000
+**URL:** https://sloanreview.mit.edu/article/building-on-ais-unfinished-foundation/
+**Relevance score:** 5/5
+**Quality note:** Professional insight source: useful framing, but may be marketing-led.
+
+**Summary:**
+
+Brian Stauffer/theispot.com By the ordinary measures of any new technology, the current wave of generative AI has moved fast. By some estimates, about 2.4 billion people worldwide use generative AI platforms each month, and coding agents have changed how software is written. Efforts to commercialize the technology have scaled just as fast. AI coding platform [&#8230;]
+
+---
+
+## 18. The AI adoption gap: what UK SMEs need that nobody is building for them - BCS, The Chartered Institute for IT
+
+**Source:** Google News - UK SME AI adoption
+**Type:** news_search
+**Published:** Tue, 21 Jul 2026 07:00:00 GMT
+**URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxNZHJaQks3STZhT2NiNU1GNjVEYlpUQngtSHR2QU1fWmF4Slp3X3ZTeFRwSXQzVXFhdHpKYzFnTnMzZW91bWRFdWtmcnhlQ2R4azE2Q01PY19PQW1mU015b3lWbi1WanM0WXJLYUlGejFNUXYyV3lfMDNLN0lNNGdzTXpibmxzSUtDZ2VCZ21hV3BqTUVMX01ocGd2dDlMbnQySzZKMFcwV1lzbG1iSV8wQXZSVXZvb1BJTnZkaG1n?oc=5
+**Relevance score:** 5/5
+**Quality note:** News/search source: useful for current signals, but verify important claims.
+
+**Summary:**
+
+The AI adoption gap: what UK SMEs need that nobody is building for them BCS, The Chartered Institute for IT
+
+---
+
+## 19. UK sectors split as AI adoption races ahead of workforce readiness - Small Business UK
+
+**Source:** Google News - UK SME AI adoption
+**Type:** news_search
+**Published:** Tue, 11 Aug 2026 07:00:00 GMT
+**URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxNR21rb1RFRks1WkNwQmlHVnlWRjRtM0tzQ0hSTnNRaXpTSmFnYU8tcEZzOVFIdEt0SjkzVlVfTzNrTmpyaXJCX3ZuNUsxWDUzbVlmaUJpTU9TZjlpdXZKVmJQZ1pCdzEtd1BGQzdoaFJXempUcWNqQnBKVUZfSjlnM0ZXRlZBS09VZkk0SkVTZlZPWmprM3dlOTRidw?oc=5
+**Relevance score:** 5/5
+**Quality note:** News/search source: useful for current signals, but verify important claims.
+
+**Summary:**
+
+UK sectors split as AI adoption races ahead of workforce readiness Small Business UK
+
+---
+
+## 20. UK business AI adoption rises to 29% in 2026 - Staffing Industry Analysts
+
+**Source:** Google News - UK SME AI adoption
+**Type:** news_search
+**Published:** Fri, 03 Jul 2026 11:30:33 GMT
+**URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxQcGxlNWVMenFGYTVhYjFfLXZQOTBXS2lEWFJ5UFFtRmg3dmlRRS1vbTUxdVRncGIxRXNhTWw4X2dEZnFyVHpTMHhLQURVUUc4VzUzS1hLZkdpa3NmbHMtVjZMekhsTFdFemQ1eUV2WWFyLWw1dm5KRmN3WVpwVmpqX0EwRVF1MXJkcWw4X09GQVJnaVpRLXN6LUJlVi1JR3Jt?oc=5
+**Relevance score:** 5/5
+**Quality note:** News/search source: useful for current signals, but verify important claims.
+
+**Summary:**
+
+UK business AI adoption rises to 29% in 2026 Staffing Industry Analysts
+
+---
+
+## 21. AI adoption in Scotland remains behind UK - Bank of Scotland Business Barometer - The Scotsman
+
+**Source:** Google News - UK SME AI adoption
+**Type:** news_search
+**Published:** Tue, 18 Aug 2026 07:00:00 GMT
+**URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdExfcUlXQWJEaUR1OHBWc3RnSjJJRzBiZW5wd3ZlNFJ3dDB5elZPMXFyY0tVSHNDel9XRDk5U2ViOE1mMDZER3pta1VhTFRfTUhsWkZnbnZHcWM1NF9yZVB0Szc2eDhNSFJqaHFkQjFpaERMNjBhTHRRRm16M1lIUjRIZl84TWh5Vko5Z24teU5XSjZrWlc0NnlVaFdadzh2eXlxLTE1OWRqeW03d2tnQVlkXzBuU1FXSWxR?oc=5
+**Relevance score:** 5/5
+**Quality note:** News/search source: useful for current signals, but verify important claims.
+
+**Summary:**
+
+AI adoption in Scotland remains behind UK - Bank of Scotland Business Barometer The Scotsman
+
+---
+
+## 22. Small businesses divided on whether to use AI for growth - Credit Connect
+
+**Source:** Google News - UK SME AI adoption
+**Type:** news_search
+**Published:** Mon, 10 Aug 2026 07:00:00 GMT
+**URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxOX0t2cEpwNngwS0dyT1E0WWRBbDBMclduY0hNNHJuMU84NVU5UHJCeVVTTURoQkdiQ1NNQVd5Nk9yU2U4WDVwd0hFcHA2RVlrSHFWTUd2NUhlX0lnMUtzejlTbGNkdmQyMnFRREhPTEh4bzhHOS1TOENmclNTWGYwRTlYMnc4cXdJcDBrOTJaelFidnJMT1dMdFlkNHFnZXNGM2NFMEdTRlR2UHpTUkQzWklKRGhCZGxEakNZMEhCNk1sQQ?oc=5
+**Relevance score:** 5/5
+**Quality note:** News/search source: useful for current signals, but verify important claims.
+
+**Summary:**
+
+Small businesses divided on whether to use AI for growth Credit Connect
+
+---
+
+## 23. ERP.io Launches AI-Native ERP & CRM Platform Built for Modern Businesses - Macau Business
+
+**Source:** Google News - business intelligence AI workflow
+**Type:** news_search
+**Published:** Sun, 30 Aug 2026 09:41:53 GMT
+**URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxQTzVvSjN6ekFrTXIwZVJCYXVYcFpEcWNYaDZCb0pzR1lSYmFrd0tuc3o4QmdLbko4RFhaN1IzWW40TEd6VDBtRUlZeTNITXNsbVQ2MXdRQ3RYdUVRMzVDY3paTmNxdXZPTGtPRk16b1IyWHFqX2Zzc1kzVEhOUlhIdkNGUFgzckdRa1hILTZEX2ZfYW95czlrUElPaGxjZw?oc=5
+**Relevance score:** 5/5
+**Quality note:** News/search source: useful for current signals, but verify important claims.
+
+**Summary:**
+
+ERP.io Launches AI-Native ERP & CRM Platform Built for Modern Businesses Macau Business
+
+---
+
+## 24. The 12 Best AI Accounting Software and Tools for 2026 - Intuit
+
+**Source:** Google News - business intelligence AI workflow
+**Type:** news_search
+**Published:** Wed, 26 Aug 2026 07:00:00 GMT
+**URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxQMHpGRjhPZkoyMzRSYk9NRF9KMVRhQzNQcjJhYjZ3Ukh1aWFjY1R2UFNpN3FUWnRIYlNKUHpjRUN0bEh2SmJIX3d1WVVLTlJ3cXY0U0Y2TzBMSllvT0diTnVXUmRzdklEanp0TmpiNEFMcElXOGc0VjQwU2Q2VDhVWWxLWWlnTndLaFE?oc=5
+**Relevance score:** 5/5
+**Quality note:** News/search source: useful for current signals, but verify important claims.
+
+**Summary:**
+
+The 12 Best AI Accounting Software and Tools for 2026 Intuit
+
+---
+
+## 25. 7 Types of AI Agents to Automate Your Workflows in 2026 - Reply
+
+**Source:** Google News - business intelligence AI workflow
+**Type:** news_search
+**Published:** Thu, 16 Jul 2026 01:21:10 GMT
+**URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxQVU13cjVYWkVGWFBQWmVKckdNcTRTc0pEdXlTNjVHZDE2TlZVZ1N6WndhenhsLXhKb3hCWU9FcnlQN01BWkdadDdRakR4MV83LTR3bXp0b29WWGM2Sjd2elhoWnViXzdIcHNFT1VxcTdfdzg3bkFQMXBmQUJHUFZySW1BanpKM0dqQzhyQ0NtWWl0XzdpX2hxVUpoWk5ScUF0eWZ5amlmb3lTeEZGUUFF?oc=5
+**Relevance score:** 5/5
+**Quality note:** News/search source: useful for current signals, but verify important claims.
+
+**Summary:**
+
+7 Types of AI Agents to Automate Your Workflows in 2026 Reply
+
+---
+
+## 26. AI Fabric – Connecting Every Business Function Through Seamless Enterprise Intelligence - AiThority
+
+**Source:** Google News - business intelligence AI workflow
+**Type:** news_search
+**Published:** Mon, 17 Aug 2026 07:14:06 GMT
+**URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxNaXBMV2FYcXdFSDlGWDl1VER3T2NmMFJ1d01PZndLVlpuMldPZkxER0poak0xdGtsSUhmQU51eVJmaDlNaTh3SnhWanZIVTJJdm5pMnVQTmpNNXlWREc1Rm42N3dtcGNsMXRoTS1YN2wzbWhLVmt0OHJvaEIwYmJ2ajVLdTFZbGMwUDZ5ZVlyX1dzeHpYbzBNN0lqSW5iUFB6M1pJMENIZldfVVZOTnNMc3FWd1psb3VnRVc3N0hqS0tlSkxmWmc?oc=5
+**Relevance score:** 5/5
+**Quality note:** News/search source: useful for current signals, but verify important claims.
+
+**Summary:**
+
+AI Fabric – Connecting Every Business Function Through Seamless Enterprise Intelligence AiThority
+
+---
+
+## 27. LigoLab and MarginLogic Health AI Bring AI-Powered Requisition Automation to Laboratory Workflows - markets.businessinsider.com
+
+**Source:** Google News - business intelligence AI workflow
+**Type:** news_search
+**Published:** Thu, 13 Aug 2026 07:00:00 GMT
+**URL:** https://news.google.com/rss/articles/CBMi7AFBVV95cUxQdTlUdV80ZkdFbGQ3cXFMQmxZb1FONXg0RTlxR2RMbWY3bHB0UDVuTVB3ZE51cWlla1lqMlNVVV82LVBVZ2pEWUx5U1hRdmtJMFIycUxtRm1ZUEwtM1hYb0ExLWUzVnJXaGJ0dVZFRHc1YW93T29kTDBZS0VhTkRSdzUxamlFU1VVb0xhSkhSanB2b3ZZVjdSVUVzUEFlRldqRGZnejJCLXllYzV6UTRyUGIzak41dU1xS3JKRE1EOXJHMHdJdVh1eTNxNFhLd2lJU2ZwOHlROUZJcS15UTJNUlczSTZBQVF2MEZxSg?oc=5
+**Relevance score:** 5/5
+**Quality note:** News/search source: useful for current signals, but verify important claims.
+
+**Summary:**
+
+LigoLab and MarginLogic Health AI Bring AI-Powered Requisition Automation to Laboratory Workflows markets.businessinsider.com
+
+---
+
+## 28. M&S hires data and AI leader - Research Live
+
+**Source:** Google News - retail distribution AI UK
+**Type:** news_search
+**Published:** Wed, 26 Aug 2026 13:01:52 GMT
+**URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaDJsU2lWbG00c3JuNUozTjE3bzA5OTVaWEZUUWVKMWVQRWUwbzVTT1duZXVtS1NxcGxvY0xON2FoMTlnSjd6RVlKNlpWZ0hoLVNTYWRmb1RjN0o0LTN3dldhUnJtc3RNSTJucnlyZERlaVBjOERVcmNXX3R0ZWI5SE92c1JHNWRm?oc=5
+**Relevance score:** 5/5
+**Quality note:** News/search source: useful for current signals, but verify important claims.
+
+**Summary:**
+
+M&S hires data and AI leader Research Live
+
+---
+
+## 29. Daily Research News Online no. 40240 - M&S Hires Head of Data and AI Delivery - MrWeb
+
+**Source:** Google News - retail distribution AI UK
+**Type:** news_search
+**Published:** Tue, 25 Aug 2026 22:46:17 GMT
+**URL:** https://news.google.com/rss/articles/CBMiUkFVX3lxTE9INjczcnhqbnlGLUdoZllGWUVvRUtzZlBLZF8zanNqOFI3UjJPR0ZnY0ZEUVhEY0ZfRlpGSFNpV2x0MTQyMG0tUGRKYU43S2pmNlE?oc=5
+**Relevance score:** 5/5
+**Quality note:** News/search source: useful for current signals, but verify important claims.
+
+**Summary:**
+
+Daily Research News Online no. 40240 - M&S Hires Head of Data and AI Delivery MrWeb
+
+---
+
+## 30. Moody's: retail P&C distribution faces the fastest AI disruption of any financial services segment - Insurance Business
+
+**Source:** Google News - retail distribution AI UK
+**Type:** news_search
+**Published:** Tue, 04 Aug 2026 07:00:00 GMT
+**URL:** https://news.google.com/rss/articles/CBMi-gFBVV95cUxQVTNEVXBSOXJHMFFfcmpESWpJZEw2MEE3UHR5X1FGOUpkSVFrX2x2Z0RheXJYX0VQcUpxVFRQckRfOE1LM1NhSkhiaXJKWmxIUUpmd2dEdHRVcy05dGdHaEF1OXZpRWpBWTI5YXdxOUxUclpOZTRsM2tGMnRNd3pQdlA1NHUtMzBLMEtGYzBTTVpmNmtTbnQzcDhXOGcyczl4MUtlMmlWbGxuYkVQU0pqSDRkVzZZN3JwRnNYUXl5X3hJaGZGNGhrVHQ2bUktbHlYVGk2RUg4MThjTUFOYmxvMGx2dnB4ZXR6YVZwbFNnVlNfa2VXbXBULU9B?oc=5
+**Relevance score:** 5/5
+**Quality note:** News/search source: useful for current signals, but verify important claims.
+
+**Summary:**
+
+Moody's: retail P&C distribution faces the fastest AI disruption of any financial services segment Insurance Business
+
+---
+
+## 31. The future of AI regulation in UK financial services: key insights from the FCA's Mills Review - Deloitte
+
+**Source:** Google News - retail distribution AI UK
+**Type:** news_search
+**Published:** Fri, 10 Jul 2026 07:00:00 GMT
+**URL:** https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUVpqbzFQaEp4c1hLa3ctZVYzbXItTFNNQ2tsMUswNXFTUlFzQTdsQ29MYmVNeVpLU2pSNWlmaW83dHBEdDR0WVdrcGVBaVczaWhxMTh3TnJQb05aSGhRVUdSbnNPU1Y2SHo4MDdDYW1hNGhSU0FQVFFPY3BMMy1BQkhvNHlMbTNJaWQ3QmhpSzRFWkdMOFdCcGtnWmtMSlNHdEZfcl81ejZKMXc3bk9RVF9wZkhRaC0xdU9kdk5TNlVyaUVlc3YzbmdWOTl0SmptMVg2ckhn?oc=5
+**Relevance score:** 5/5
+**Quality note:** News/search source: useful for current signals, but verify important claims.
+
+**Summary:**
+
+The future of AI regulation in UK financial services: key insights from the FCA's Mills Review Deloitte
+
+---
+
+## 32. Wholesale and retail businesses slower to adopt AI than other sectors, says ONS - Retail Week
+
+**Source:** Google News - retail distribution AI UK
+**Type:** news_search
+**Published:** Mon, 20 Jul 2026 07:00:00 GMT
+**URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxQVjdmWFFkZ2FhQTB4N0NmUmZYeVJFRWdlS0tIWlJkMGVVWXkxY0t2UFdfNlQwMDc0YjB2cnlVc1p0RlJZNF9YTmRFeVJfWEFDYTVUa1NNM3l5bXQ1MmZoRFpDWldpQlBHOE1Uc1RjZ1dtQkxZZ2d5ekYyOVR1ajJ1UFlIQWxHb1VTYWF2ZHlpNTRqSU9yak55dUw4bVRBZmJoQnA1dUQ0OFZlU2pranpUTjJRbXBwaWh6Ni1uS29mTTgzV1Zxc0E?oc=5
+**Relevance score:** 5/5
+**Quality note:** News/search source: useful for current signals, but verify important claims.
+
+**Summary:**
+
+Wholesale and retail businesses slower to adopt AI than other sectors, says ONS Retail Week
+
+---
+
+## 33. ONS business, economy and technology statistics
+
+**Source:** ONS
+**Type:** official_watchlist
+**Published:** 2026-08-30
+**URL:** https://www.ons.gov.uk/
+**Relevance score:** 5/5
+**Quality note:** Official source: credible context, but may be broad or slow-moving.
+**Manual check:** Yes - this source is included as a watchlist item.
+
+**Summary:**
+
+Official UK statistics source for business conditions, productivity, retail, labour market and economic context.
+
+---
+
+## 34. OECD AI, SMEs, productivity and digital adoption
+
+**Source:** OECD
+**Type:** official_watchlist
+**Published:** 2026-08-30
+**URL:** https://www.oecd.org/
+**Relevance score:** 5/5
+**Quality note:** Official source: credible context, but may be broad or slow-moving.
+**Manual check:** Yes - this source is included as a watchlist item.
+
+**Summary:**
+
+Useful for international context on SME digital adoption, productivity, AI diffusion and policy.
+
+---
+
+## 35. The Grocer - UK FMCG and grocery sector
+
+**Source:** The Grocer
+**Type:** fmcg_watchlist
+**Published:** 2026-08-30
+**URL:** https://www.thegrocer.co.uk/
+**Relevance score:** 5/5
+**Quality note:** Industry source: useful sector context, but check whether evidence is narrow or anecdotal.
+**Manual check:** Yes - this source is included as a watchlist item.
+
+**Summary:**
+
+Specialist UK FMCG and grocery source. Useful for suppliers, wholesalers, pricing, retail pressure and distribution signals.
+
+---
+
+## 36. IGD grocery, retail and supply-chain insight
+
+**Source:** IGD
+**Type:** fmcg_watchlist
+**Published:** 2026-08-30
+**URL:** https://www.igd.com/
+**Relevance score:** 5/5
+**Quality note:** Industry source: useful sector context, but check whether evidence is narrow or anecdotal.
+**Manual check:** Yes - this source is included as a watchlist item.
+
+**Summary:**
+
+Useful for grocery, retail, wholesale and supply-chain context.
+
+---
+
+## 37. Kantar retail and FMCG insights
+
+**Source:** Kantar
+**Type:** fmcg_watchlist
+**Published:** 2026-08-30
+**URL:** https://www.kantar.com/uki/industries/retail
+**Relevance score:** 5/5
+**Quality note:** Industry source: useful sector context, but check whether evidence is narrow or anecdotal.
+**Manual check:** Yes - this source is included as a watchlist item.
+
+**Summary:**
+
+Professional insight source for FMCG, retail, consumers and brand performance.
+
+---
+
+## 38. NielsenIQ retail and FMCG insights
+
+**Source:** NielsenIQ
+**Type:** fmcg_watchlist
+**Published:** 2026-08-30
+**URL:** https://nielseniq.com/global/en/insights/
+**Relevance score:** 5/5
+**Quality note:** Industry source: useful sector context, but check whether evidence is narrow or anecdotal.
+**Manual check:** Yes - this source is included as a watchlist item.
+
+**Summary:**
+
+Professional retail and FMCG data source for market trends, consumer behaviour and category performance.
+
+---
+
+## 39. Build agentic creative workflows with Amazon Quick and fal
+
+**Source:** AWS Machine Learning Blog
+**Type:** ai_data_tooling
+**Published:** Thu, 27 Aug 2026 23:04:22 +0000
+**URL:** https://aws.amazon.com/blogs/machine-learning/build-agentic-creative-workflows-with-amazon-quick-and-fal/
+**Relevance score:** 4/5
+**Quality note:** Vendor/company source: useful primary signal, but not neutral proof.
+
+**Summary:**
+
+Creative teams produce more assets than ever, but fragmented tools and manual context transfer slow production. This post shows how to build a reusable agent harness with Amazon Quick and fal, connected through the Model Context Protocol (MCP), using two hands-on workflows: an eight-panel storyboard and a music-video concept prototype.
+
+---
+
+## 40. Direct Lake Calculated Columns (Preview)
+
+**Source:** Microsoft Power BI Blog
+**Type:** bi_tooling
+**Published:** Mon, 24 Aug 2026 16:14:20 GMT
+**URL:** https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Direct-Lake-Calculated-Columns-Preview/ba-p/5357159
+**Relevance score:** 4/5
+**Quality note:** Vendor/company source: useful primary signal, but not neutral proof.
+
+**Summary:**
+
+Calculated columns are now available in preview for Direct Lake on OneLake semantic models. This has been one of the most requested capabilities since Direct Lake launched and closes a long-standing gap with Import and DirectQuery storage modes. You can define calculated columns directly in your semantic model using DAX in web modeling and Power BI Desktop, without changing the table storage mode or modifying data upstream. The problem this solves Direct Lake combines Import-like performance with near real-time data freshness by querying Delta tables in OneLake and loading data into memory as needed. But until now, if your model needed a derived column, you had only two options: push the logic upstream into the data source or move the table to a different storage mode. Calculated columns close that gap – you can now define columns directly in the semantic model using DAX without leaving Direct Lake. What you can build Common use cases include: Derived values , such as an age calculated from a birth date. Concatenating fields , such as city and region into a single field for slicers. Formatted dates like Month-Year for grouping in visuals. Multilingual reports using data translation
+
+---
+
+## 41. Pacsun’s Gen Z playbook: Listen, learn, and let go
+
+**Source:** McKinsey Insights
+**Type:** professional_insight
+**Published:** Thu, 27 Aug 2026
+**URL:** https://www.mckinsey.com/industries/retail/our-insights/pacsuns-gen-z-playbook-listen-learn-and-let-go
+**Relevance score:** 4/5
+**Quality note:** Professional insight source: useful framing, but may be marketing-led.
+
+**Summary:**
+
+Brieane Olson, CEO of the US-based clothing retailer, says the secret to the company’s success is community cocreation—which can work in other industries, too.
+
+---
+
+## 42. Expanding OpenAI’s presence in Brazil
+
+**Source:** OpenAI News
+**Type:** company_primary_ai
+**Published:** Thu, 27 Aug 2026 03:00:00 GMT
+**URL:** https://openai.com/index/expanding-our-presence-in-brazil
+**Relevance score:** 3/5
+**Quality note:** Vendor/company source: useful primary signal, but not neutral proof.
+
+**Summary:**
+
+OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.
+
+---
+
+## 43. Introducing OpenAI models on Amazon Bedrock for in-country inferencing in India
+
+**Source:** AWS Machine Learning Blog
+**Type:** ai_data_tooling
+**Published:** Thu, 27 Aug 2026 18:36:08 +0000
+**URL:** https://aws.amazon.com/blogs/machine-learning/introducing-openai-models-on-amazon-bedrock-for-in-country-inferencing-in-india/
+**Relevance score:** 3/5
+**Quality note:** Vendor/company source: useful primary signal, but not neutral proof.
+
+**Summary:**
+
+Amazon Bedrock now supports the OpenAI GPT-5.6 models, Terra and Luna, in India with India geographic cross-Region inference. If you have local data processing requirements, you can now use these models at scale while Amazon Bedrock keeps inference requests and data within India.
+
+---
+
+## 44. Spot New Tech Skills Emerging From the Workforce
+
+**Source:** MIT Sloan Management Review
+**Type:** professional_insight
+**Published:** Thu, 27 Aug 2026 11:00:10 +0000
+**URL:** https://sloanreview.mit.edu/article/spot-new-tech-skills-emerging-from-the-workforce/
+**Relevance score:** 3/5
+**Quality note:** Professional insight source: useful framing, but may be marketing-led.
+
+**Summary:**
+
+Matt Chinworth Across industries, companies are investing unprecedented sums in reskilling programs to prepare employees to use emerging technologies.1 The programs are typically built around forecasts of which skills, such as data literacy, digital fluency, systems thinking, and adaptability, will matter most. Each year, when the forecasts are updated, training courses — and their related [&#8230;]
+
+---
+
+## 45. Algorithms Trap Us in the Familiar. Can They Also Spark Breakthroughs?
+
+**Source:** MIT Sloan Management Review
+**Type:** professional_insight
+**Published:** Thu, 20 Aug 2026 11:00:25 +0000
+**URL:** https://sloanreview.mit.edu/article/algorithms-trap-us-in-the-familiar-can-they-also-spark-breakthroughs/
+**Relevance score:** 3/5
+**Quality note:** Professional insight source: useful framing, but may be marketing-led.
+
+**Summary:**
+
+Gary Waters/Ikon Images Algorithmic tools promise to democratize access to knowledge and thus spark creativity and innovation, but research we conducted revealed a hidden risk: Those tools may be silently narrowing organizations’ creative potential by suppressing the value of expertise. The fault lies not with the experts but with the hidden architecture of the tools [&#8230;]
+
+---
+
+## 46. Pet owners at risk of being ripped off by private equity firms as vet ownership rules change
+
+**Source:** The Guardian Business
+**Type:** independent_news
+**Published:** Sun, 30 Aug 2026 08:00:50 GMT
+**URL:** https://www.theguardian.com/lifeandstyle/2026/aug/30/pet-owners-private-equity-firms-vet-ownership-rules-change
+**Relevance score:** 3/5
+**Quality note:** News/search source: useful for current signals, but verify important claims.
+
+**Summary:**
+
+Critics say changes by CMA will allow multinationals to obscure their ownership of vet practices Pet owners have been warned that they could be unknowingly ripped off by private equity firms who have bought local vet clinics, after the Competition and Markets Authority (CMA) removed requirements for multinational companies to disclose which practices they own. The CMA recently ran an investigation into the monopolisation of vet practices , and found that the lack of competition and transparency of ownership had led to high prices and a lack of information for customers. Pet owners were often unaware their local vet practice could be owned by an international private equity company. Continue reading...
+
+---
+
+## 47. Untitled
+
+**Source:** GOV.UK SMEs digital adoption
+**Type:** official_policy
+**Published:** 
+**URL:** https://www.gov.uk/api/search.json?q=SME%20digital%20adoption%20artificial%20intelligence&count=5&order=updated-newest
+**Relevance score:** 3/5
+**Quality note:** Official source: credible context, but may be broad or slow-moving.
+**Fetch error:** HTTP Error 422: Unknown Error
+
+**Summary:**
+
+
+
+---
+
+## 48. Untitled
+
+**Source:** GOV.UK business productivity technology
+**Type:** official_policy
+**Published:** 
+**URL:** https://www.gov.uk/api/search.json?q=business%20productivity%20technology%20SME&count=5&order=updated-newest
+**Relevance score:** 3/5
+**Quality note:** Official source: credible context, but may be broad or slow-moving.
+**Fetch error:** HTTP Error 422: Unknown Error
+
+**Summary:**
+
+
+
+---
+
+## 49. Our decision on Cursor following its acquisition by SpaceX
+
+**Source:** OpenAI News
+**Type:** company_primary_ai
+**Published:** Fri, 28 Aug 2026 06:00:00 GMT
+**URL:** https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex
+**Relevance score:** 2/5
+**Quality note:** Vendor/company source: useful primary signal, but not neutral proof.
+
+**Summary:**
+
+Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.
+
+---
+
+## 50. Batch write and discover records in Amazon SageMaker Feature Store
+
+**Source:** AWS Machine Learning Blog
+**Type:** ai_data_tooling
+**Published:** Fri, 28 Aug 2026 19:31:05 +0000
+**URL:** https://aws.amazon.com/blogs/machine-learning/batch-write-and-discover-records-in-amazon-sagemaker-feature-store/
+**Relevance score:** 2/5
+**Quality note:** Vendor/company source: useful primary signal, but not neutral proof.
+
+**Summary:**
+
+Amazon SageMaker Feature Store now supports two new APIs: BatchWriteRecord writes up to 25 records across multiple feature groups in a single call, and ListRecords enumerates record identifiers within a feature group. In this post, we walk through each API with code examples you can use to get started.
+
+---
+
+## 51. Ask Sanyin: How Do I Communicate That I’ve Grown and Changed?
+
+**Source:** MIT Sloan Management Review
+**Type:** professional_insight
+**Published:** Tue, 25 Aug 2026 11:00:14 +0000
+**URL:** https://sloanreview.mit.edu/article/ask-sanyin-how-do-i-communicate-that-ive-grown-and-changed/
+**Relevance score:** 2/5
+**Quality note:** Professional insight source: useful framing, but may be marketing-led.
+
+**Summary:**
+
+Carolyn Geason-Beissel/MIT SMR &#124; Unsplash, Fotos After receiving some challenging feedback about my management style, I’ve done a lot of introspection, taken responsibility, worked with a coach, and I believe I’ve made real changes in how I work with others. But I don’t sense that others’ perceptions have changed accordingly. What else do I need [&#8230;]
+
+---
+
+## 52. Develop Your Team’s Social Capital, Not Just Their Skills
+
+**Source:** MIT Sloan Management Review
+**Type:** professional_insight
+**Published:** Mon, 24 Aug 2026 11:00:55 +0000
+**URL:** https://sloanreview.mit.edu/article/develop-your-teams-social-capital-not-just-their-skills/
+**Relevance score:** 2/5
+**Quality note:** Professional insight source: useful framing, but may be marketing-led.
+
+**Summary:**
+
+Leigh Wells/Ikon Images Leaders may prioritize executing strategy and driving organizational performance, but they are also responsible for developing the next generation of leaders. Traditionally, leadership development has focused heavily on performance — an understandable emphasis, given that leaders themselves are evaluated and rewarded based on execution and results. However, as organizational strategies increasingly rely [&#8230;]
+
+---
+
+## 53. The new management playbook for AI: How to move faster and create more value
+
+**Source:** McKinsey Insights
+**Type:** professional_insight
+**Published:** Fri, 28 Aug 2026
+**URL:** https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/the-new-management-playbook-for-ai-how-to-move-faster-and-create-more-value
+**Relevance score:** 2/5
+**Quality note:** Professional insight source: useful framing, but may be marketing-led.
+
+**Summary:**
+
+Scale is where the value is. Enabling scale depends on how strong your foundations are.
+
+---
+
+## 54. An update on US consumer sentiment: Holiday budgeting begins
+
+**Source:** McKinsey Insights
+**Type:** professional_insight
+**Published:** Thu, 27 Aug 2026
+**URL:** https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/the-state-of-the-us-consumer
+**Relevance score:** 2/5
+**Quality note:** Professional insight source: useful framing, but may be marketing-led.
+
+**Summary:**
+
+Despite being wary about the economy, consumers plan to spend the same or more on holiday shopping as they did last year. Here’s the latest research from our ConsumerWise team.
+
+---
+
+## 55. Consumers don’t trust AI advice. They turn to it anyway.
+
+**Source:** McKinsey Insights
+**Type:** professional_insight
+**Published:** Thu, 27 Aug 2026
+**URL:** https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/consumers-dont-trust-ai-advice-they-turn-to-it-anyway
+**Relevance score:** 2/5
+**Quality note:** Professional insight source: useful framing, but may be marketing-led.
+
+**Summary:**
+
+Consumer behavior is more dynamic and unpredictable than ever. Our latest research highlights four converging trends redefining how consumers shop, what they value, and why they buy.
+
+---
+
+## 56. Cross-border payments: Out of the commodity trap, into the future
+
+**Source:** McKinsey Insights
+**Type:** professional_insight
+**Published:** Wed, 26 Aug 2026
+**URL:** https://www.mckinsey.com/industries/financial-services/our-insights/cross-border-payments-out-of-the-commodity-trap-into-the-future
+**Relevance score:** 2/5
+**Quality note:** Professional insight source: useful framing, but may be marketing-led.
+
+**Summary:**
+
+As the current playbook reaches its limits, international payments is transitioning from a stand-alone product to a feature embedded in broader services. Here is how industry players can make the pivot.
+
+---
+
+## 57. Supporting Thailand’s next generation of AI startups
+
+**Source:** OpenAI News
+**Type:** company_primary_ai
+**Published:** Fri, 28 Aug 2026 02:00:00 GMT
+**URL:** https://openai.com/index/supporting-next-generation-ai-startups-thailand
+**Relevance score:** 1/5
+**Quality note:** Vendor/company source: useful primary signal, but not neutral proof.
+
+**Summary:**
+
+OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.
+
+---
+
+## 58. Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training
+
+**Source:** OpenAI News
+**Type:** company_primary_ai
+**Published:** Thu, 27 Aug 2026 09:00:00 GMT
+**URL:** https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training
+**Relevance score:** 1/5
+**Quality note:** Vendor/company source: useful primary signal, but not neutral proof.
+
+**Summary:**
+
+A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.
+
+---
+
+## 59. Learning never stops: How AI makes learning continuous
+
+**Source:** OpenAI News
+**Type:** company_primary_ai
+**Published:** Wed, 26 Aug 2026 10:00:00 GMT
+**URL:** https://openai.com/index/learning-never-stops
+**Relevance score:** 1/5
+**Quality note:** Vendor/company source: useful primary signal, but not neutral proof.
+
+**Summary:**
+
+OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.
+
+---
+
+## 60. Gemini Omni 1.1 Flash lets you build with more control
+
+**Source:** Google DeepMind Blog
+**Type:** company_primary_ai
+**Published:** Thu, 27 Aug 2026 16:11:32 +0000
+**URL:** https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/
+**Relevance score:** 1/5
+**Quality note:** Vendor/company source: useful primary signal, but not neutral proof.
+
+**Summary:**
+
+
+
+---
+
+## 61. Piloting the world's first double-blind AI evaluations
+
+**Source:** Google DeepMind Blog
+**Type:** company_primary_ai
+**Published:** Thu, 27 Aug 2026 12:59:16 +0000
+**URL:** https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/
+**Relevance score:** 1/5
+**Quality note:** Vendor/company source: useful primary signal, but not neutral proof.
+
+**Summary:**
+
+Piloting the world's first double-blind AI evaluations
+
+---
+
+## 62. Intelligent transcription with Gemini 3.5 Transcribe
+
+**Source:** Google DeepMind Blog
+**Type:** company_primary_ai
+**Published:** Wed, 26 Aug 2026 17:01:00 +0000
+**URL:** https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/
+**Relevance score:** 1/5
+**Quality note:** Vendor/company source: useful primary signal, but not neutral proof.
+
+**Summary:**
+
+Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.
+
+---
+
+## 63. From Atari to EVE Online: Building on 15 Years of AI Research in Games
+
+**Source:** Google DeepMind Blog
+**Type:** company_primary_ai
+**Published:** Fri, 21 Aug 2026 11:59:48 +0000
+**URL:** https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/
+**Relevance score:** 1/5
+**Quality note:** Vendor/company source: useful primary signal, but not neutral proof.
+
+**Summary:**
+
+Google DeepMind partners with game studios to prototype breakthrough AI gameplay.
+
+---
+
+## 64. Introducing Gemini 3.7 Flash
+
+**Source:** Google DeepMind Blog
+**Type:** company_primary_ai
+**Published:** Thu, 13 Aug 2026 17:04:18 +0000
+**URL:** https://deepmind.google/blog/introducing-gemini-3-7-flash/
+**Relevance score:** 1/5
+**Quality note:** Vendor/company source: useful primary signal, but not neutral proof.
+
+**Summary:**
+
+
+
+---
+
+## 65. Trump hails 'historic' deal to control 65 billion barrels of Venezuelan oil
+
+**Source:** BBC Business
+**Type:** independent_news
+**Published:** Sun, 30 Aug 2026 04:01:02 GMT
+**URL:** https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss
+**Relevance score:** 1/5
+**Quality note:** News/search source: useful for current signals, but verify important claims.
+
+**Summary:**
+
+Venezuelan interim president says the unusual agreement will help revive her country's economy.
+
+---
+
+## 66. Fed has 'work to do' if price rises don't ease for Americans, Warsh says
+
+**Source:** BBC Business
+**Type:** independent_news
+**Published:** Fri, 28 Aug 2026 15:15:26 GMT
+**URL:** https://www.bbc.co.uk/news/articles/cy9zjgv9lgdo?at_medium=RSS&at_campaign=rss
+**Relevance score:** 1/5
+**Quality note:** News/search source: useful for current signals, but verify important claims.
+
+**Summary:**
+
+Kevin Warsh remarks suggest interest rates could be increased if policymakers think inflation is running too high.
+
+---
+
+## 67. Wife of man who died after turbulence sues airline
+
+**Source:** BBC Business
+**Type:** independent_news
+**Published:** Fri, 28 Aug 2026 17:47:00 GMT
+**URL:** https://www.bbc.co.uk/news/articles/cqlwrpey1epo?at_medium=RSS&at_campaign=rss
+**Relevance score:** 1/5
+**Quality note:** News/search source: useful for current signals, but verify important claims.
+
+**Summary:**
+
+Lawyers for Linda Kitchen say her husband was "fatally injured" after the flight dropped 6,000 ft.
+
+---
+
+## 68. I was spending £700 a month: How I beat my late-night shopping addiction
+
+**Source:** BBC Business
+**Type:** independent_news
+**Published:** Thu, 27 Aug 2026 23:04:21 GMT
+**URL:** https://www.bbc.co.uk/news/articles/czxqk1gwxn7o?at_medium=RSS&at_campaign=rss
+**Relevance score:** 1/5
+**Quality note:** News/search source: useful for current signals, but verify important claims.
+
+**Summary:**
+
+Younger generations are thought to be more susceptible to impulse spending. The BBC looks at ways to get it under control.
+
+---
+
+## 69. Trump administration illegally retaliated against Anthropic, judge rules
+
+**Source:** BBC Business
+**Type:** independent_news
+**Published:** Fri, 28 Aug 2026 03:41:59 GMT
+**URL:** https://www.bbc.co.uk/news/articles/cm2q7z5mlrmo?at_medium=RSS&at_campaign=rss
+**Relevance score:** 1/5
+**Quality note:** News/search source: useful for current signals, but verify important claims.
+
+**Summary:**
+
+The AI startup has been at loggerheads with the Pentagon over the use of AI by the US military.
+
+---
+
+## 70. Arms and the £5m man: Farage megadonor Christopher Harborne’s military empire
+
+**Source:** The Guardian Business
+**Type:** independent_news
+**Published:** Sun, 30 Aug 2026 05:00:47 GMT
+**URL:** https://www.theguardian.com/business/2026/aug/30/arms-and-the-5m-man-farage-megadonor-christopher-harbornes-military-empire
+**Relevance score:** 1/5
+**Quality note:** News/search source: useful for current signals, but verify important claims.
+
+**Summary:**
+
+Reform UK denies donor and crypto-billionaire’s global interests in arms and military could present a conflict of interest over its defence spending policy As he struggles with questions about the millions he has received from the billionaire Christopher Harborne, Nigel Farage has made no secret of his enthusiastic support for the industry that made part of his benefactor’s fortune – cryptocurrency. The Reform UK leader even urged the governor of the Bank of England to drop a crypto policy that may be costly for Harborne. But another element of Harborne’s business interests could prove still more consequential if it shapes Farage’s positions. There appears to be no precedent for a major UK donor who is so entwined with the military. Continue reading...
+
+---
+
+## 71. South West Water has worst environmental record in England, analysis shows
+
+**Source:** The Guardian Business
+**Type:** independent_news
+**Published:** Sun, 30 Aug 2026 06:00:48 GMT
+**URL:** https://www.theguardian.com/environment/2026/aug/30/south-west-water-worst-environmental-record-england
+**Relevance score:** 1/5
+**Quality note:** News/search source: useful for current signals, but verify important claims.
+
+**Summary:**
+
+Exclusive: Friends of the Earth finds greatest sewage discharge in Devon, Cornwall, Dorset and Somerset ‘Tiny bit of rain and the sewage comes’: Brighton swimmers vent fury at sea pollution South West Water is doing more harm to the environment than any other water company in England, according to new analysis, with more sewage discharged in Devon, Cornwall, Dorset and Somerset than anywhere else. Friends of the Earth analysed water companies’ environmental performance in six categories: sewage spills, water quality at bathing sites, pollution incidents or warnings at bathing sites, severity of sewage pollution at bathing sites, the percentage of rivers rated below the standard for good ecological health, and the affordability of bills. Continue reading...
+
+---
+
+## 72. AA could face £5bn takeover move by German insurer Allianz, reports claim
+
+**Source:** The Guardian Business
+**Type:** independent_news
+**Published:** Sun, 30 Aug 2026 09:26:18 GMT
+**URL:** https://www.theguardian.com/business/2026/aug/30/aa-takeover-german-insurer-allianz
+**Relevance score:** 1/5
+**Quality note:** News/search source: useful for current signals, but verify important claims.
+
+**Summary:**
+
+Breakdown recovery group’s private equity owners reportedly in talks with various suitors to sell company Germany-based financial services company ⁠Allianz is considering a £5bn takeover swoop for AA, ⁠the breakdown ⁠recovery ​group, Sky News has reported. Allianz is ‌one of a small number of parties holding talks with advisers to the AA about a deal, Sky News said, adding that ‌the private equity outfit EQT was another bidder. Continue reading...
+
+---
+
+## 73. On long road back from Brexit, north-east’s recovery rides on survival of Nissan’s ‘shining star’ plant
+
+**Source:** The Guardian Business
+**Type:** independent_news
+**Published:** Sun, 30 Aug 2026 06:00:48 GMT
+**URL:** https://www.theguardian.com/business/2026/aug/30/brexit-north-east-recovery-rides-survival-nissan-plant
+**Relevance score:** 1/5
+**Quality note:** News/search source: useful for current signals, but verify important claims.
+
+**Summary:**
+
+Operating at only half its capacity, Japanese carmaker’s Sunderland factory seeks deal with China’s Chery as it battles Brexit threats In a factory in Gateshead, engineers carefully wind metal wires around iron cores to go in electric motors. Here, workers produce a smaller “pancake motor”, which generates higher torque than conventional versions for supercars or construction equipment. These workers form part of north-east England’s automotive industry, which has experienced a long line of political disruptions, from Margaret Thatcher’s efforts to attract international investment , through Brexit and now Andy Burnham’s reindustrialisation strategy . Continue reading...
+
+---
+
+## 74. Untitled
+
+**Source:** GOV.UK AI business adoption
+**Type:** official_policy
+**Published:** 
+**URL:** https://www.gov.uk/api/search.json?q=artificial%20intelligence%20business%20adoption&count=5&order=updated-newest
+**Relevance score:** 1/5
+**Quality note:** Official source: credible context, but may be broad or slow-moving.
+**Fetch error:** HTTP Error 422: Unknown Error
+
+**Summary:**
+
+
+
+---
