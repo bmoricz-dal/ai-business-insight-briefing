@@ -1,0 +1,676 @@
+{
+  "date": "2026-11-10",
+  "purpose": "AI business adoption, BI/workflow, FMCG/distribution, SME software and market intelligence source pack.",
+  "items": [
+    {
+      "source": "Microsoft Power BI Blog",
+      "type": "bi_tooling",
+      "title": "Power Query Corner: Finding and connecting to data in the new experience (Preview)",
+      "published": "Thu, 05 Nov 2026 17:00:00 GMT",
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-Query-Corner-Finding-and-connecting-to-data-in-the-new/ba-p/5382053",
+      "summary": "About this series This is the first in a six-part Power Query Corner series exploring the new Power Query experience. Each post takes a closer look at a different part of the experience, including what’s changing, why it matters, and how you can put it to work. Getting data doesn't always begin with a connector name. You might know which database to use, recognize a team-maintained Fabric item, want to return to a source from yesterday, or already have the query logic you need. A connector list is useful once you've decided how to connect. But choosing the right data often comes before that decision. We moved to a module-based approach so Get data can support those different starting points, rather than making every task begin with the same connector picker. The idea is simple: start with what you know, then follow the route that fits the task . Modules organize discovery, reconnection, and authoring around that idea. They don't remove the need to authenticate, select the right objects, inspect a preview, or maintain the query afterward. This first Power Query Corner issue follows a sales-report scenario in the new Power BI Desktop experience. It also uses clearly labeled Power Que",
+      "quality_note": "Vendor/company source: useful primary signal, but not neutral proof.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Microsoft Power BI Blog",
+      "type": "bi_tooling",
+      "title": "Power BI October 2026 Feature Summary",
+      "published": "Thu, 15 Oct 2026 21:25:10 GMT",
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-October-2026-Feature-Summary/ba-p/5374650",
+      "summary": "Last month, we shared a packed September update alongside the European Microsoft Fabric + SQL Community Conference. Even so, the Power BI team has continued delivering new capabilities, and we didn't want to wait another month to share them. This update includes enhancements across Copilot and AI, reporting, and semantic models, helping users create richer reports, streamline workflows, and get more value from their data. Table of Contents Copilot and AI Create Power BI reports with custom visuals using skills for Fabric (Generally Available) Reporting Gantt chart (Preview) List slicer with dropdown option (Preview) Chart plot area background color (Generally Available) Auto-expand hierarchy axis with field parameter support (Generally Available) Personal bookmarks keep column widths (Generally Available) Semantic models More accurate surge protection with semantic models That’s a wrap! Copilot and AI Create Power BI reports with custom visuals using skills for Fabric (Generally Available) The Power BI Report Authoring skill now extends natural-language report authoring to custom visuals, helping teams create reports that meet specialized business and design requirements with less ",
+      "quality_note": "Vendor/company source: useful primary signal, but not neutral proof.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Supply Chain Dive",
+      "type": "fmcg_supply_chain_news",
+      "title": "Zipline raises $1.5B, plans US drone manufacturing expansion",
+      "published": "Mon, 09 Nov 2026 11:01:00 -0500",
+      "url": "https://www.supplychaindive.com/news/zipline-raises-15b-plans-us-drone-manufacturing-expansion/874009/",
+      "summary": "The startup is building out its drone delivery nationwide network and recently inked deals with Walmart and Uber to launch additional sites.",
+      "quality_note": "Industry source: useful sector context, but check whether evidence is narrow or anecdotal.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Supply Chain Dive",
+      "type": "fmcg_supply_chain_news",
+      "title": "How Chili’s supply chain improvements are helping menu consistency",
+      "published": "Mon, 09 Nov 2026 10:42:00 -0500",
+      "url": "https://www.supplychaindive.com/news/how-chilis-supply-chain-improvements-are-helping-menu-consistency/874109/",
+      "summary": "CSCO James Butler has reordered Chili&rsquo;s supply chain priorities to focus on the customer experience, resulting in sales growth for the restaurant chain and its suppliers.",
+      "quality_note": "Industry source: useful sector context, but check whether evidence is narrow or anecdotal.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Supply Chain Dive",
+      "type": "fmcg_supply_chain_news",
+      "title": "UP CEO’s rate threat adds wrinkle to Norfolk Southern merger process",
+      "published": "Fri, 06 Nov 2026 14:49:00 -0500",
+      "url": "https://www.supplychaindive.com/news/up-ceos-rate-threat-adds-wrinkle-to-norfolk-southern-merger-process/874006/",
+      "summary": "The railroad said Jim Vena&rsquo;s remarks that he would raise rates on shippers who oppose the merger was an &ldquo;offhand comment.&rdquo;",
+      "quality_note": "Industry source: useful sector context, but check whether evidence is narrow or anecdotal.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Supply Chain Dive",
+      "type": "fmcg_supply_chain_news",
+      "title": "Aurora’s truck production schedule delayed by supply, quality issues",
+      "published": "Fri, 06 Nov 2026 10:54:00 -0500",
+      "url": "https://www.supplychaindive.com/news/auroras-truck-production-schedule-delayed-by-supply-quality-issues/873995/",
+      "summary": "The autonomous trucking company is working with Roush to upfit trucks, and despite the delay, still expects to have more than 1,000 trucks ready by the end of 2027.",
+      "quality_note": "Industry source: useful sector context, but check whether evidence is narrow or anecdotal.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Supply Chain Dive",
+      "type": "fmcg_supply_chain_news",
+      "title": "Lear to open automated factory as ‘blueprint’ for global network",
+      "published": "Fri, 06 Nov 2026 09:43:00 -0500",
+      "url": "https://www.supplychaindive.com/news/lear-to-open-automated-factory-as-blueprint-for-global-network/873888/",
+      "summary": "The Michigan facility is expected to go live next year and be equipped with a host of automation tools, including two separate automated storage and retrieval systems.",
+      "quality_note": "Industry source: useful sector context, but check whether evidence is narrow or anecdotal.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Logistics Manager",
+      "type": "logistics_distribution_news",
+      "title": "Birstall-based Lidl store installs an LGV-equipped EV charging hub",
+      "published": "Tue, 10 Nov 2026 11:47:53 +0000",
+      "url": "https://www.logisticsmanager.com/birstall-based-lidl-store-installs-an-lgv-equipped-ev-charging-hub/",
+      "summary": "The post Birstall-based Lidl store installs an LGV-equipped EV charging hub appeared first on Logistics Manager .",
+      "quality_note": "Industry source: useful sector context, but check whether evidence is narrow or anecdotal.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Logistics Manager",
+      "type": "logistics_distribution_news",
+      "title": "Paris Charles de Gaulle Airport implements SAF into cargo operations",
+      "published": "Tue, 10 Nov 2026 10:38:55 +0000",
+      "url": "https://www.logisticsmanager.com/paris-charles-de-gaulle-airport-implements-saf-into-cargo-operations/",
+      "summary": "The post Paris Charles de Gaulle Airport implements SAF into cargo operations appeared first on Logistics Manager .",
+      "quality_note": "Industry source: useful sector context, but check whether evidence is narrow or anecdotal.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Logistics Manager",
+      "type": "logistics_distribution_news",
+      "title": "West Thamesmead Opportunity Area’s £30m urban logistics scheme",
+      "published": "Tue, 10 Nov 2026 10:18:05 +0000",
+      "url": "https://www.logisticsmanager.com/west-thamesmead-opportunity-area-30m-urban-logistics-scheme/",
+      "summary": "The post West Thamesmead Opportunity Area&#8217;s £30m urban logistics scheme appeared first on Logistics Manager .",
+      "quality_note": "Industry source: useful sector context, but check whether evidence is narrow or anecdotal.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Logistics Manager",
+      "type": "logistics_distribution_news",
+      "title": "Freight Innovation Fund 26/27 selects next contingent of logistics operators",
+      "published": "Tue, 10 Nov 2026 09:58:46 +0000",
+      "url": "https://www.logisticsmanager.com/freight-innovation-fund-26-27-selects-next-contingent-of-logistics-operators/",
+      "summary": "The post Freight Innovation Fund 26/27 selects next contingent of logistics operators appeared first on Logistics Manager .",
+      "quality_note": "Industry source: useful sector context, but check whether evidence is narrow or anecdotal.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Logistics Manager",
+      "type": "logistics_distribution_news",
+      "title": "P&O Ferries to provide transport for 2027 Tour de France",
+      "published": "Tue, 10 Nov 2026 09:00:48 +0000",
+      "url": "https://www.logisticsmanager.com/po-ferries-to-provide-transport-for-2027-tour-de-france/",
+      "summary": "The post P&#038;O Ferries to provide transport for 2027 Tour de France appeared first on Logistics Manager .",
+      "quality_note": "Industry source: useful sector context, but check whether evidence is narrow or anecdotal.",
+      "relevance_score": 5
+    },
+    {
+      "source": "MIT Sloan Management Review",
+      "type": "professional_insight",
+      "title": "The AI Governance Paradox",
+      "published": "Mon, 02 Nov 2026 12:00:13 +0000",
+      "url": "https://sloanreview.mit.edu/article/the-ai-governance-paradox/",
+      "summary": "Getty Images Operations that run under extreme risk — such as nuclear power plants, aircraft carriers, and air traffic control centers — have long understood that safety depends not just on good technology but on how people exercise judgment under uncertainty. The scholarly field of high-reliability organizing (HRO) has identified a clear normative framework to [&#8230;]",
+      "quality_note": "Professional insight source: useful framing, but may be marketing-led.",
+      "relevance_score": 5
+    },
+    {
+      "source": "MIT Sloan Management Review",
+      "type": "professional_insight",
+      "title": "AI Is Thriving at Capital One",
+      "published": "Wed, 28 Oct 2026 11:00:15 +0000",
+      "url": "https://sloanreview.mit.edu/article/ai-is-thriving-at-capital-one/",
+      "summary": "Eliot Wyatt/Ikon Images If one were making a list of the companies that have most exploited the potential of data, analytics, and artificial intelligence in the 21st century, Capital One would probably be at or near the top. Spun out of the credit card business of Signet Bank in 1994, Capital One was founded on [&#8230;]",
+      "quality_note": "Professional insight source: useful framing, but may be marketing-led.",
+      "relevance_score": 5
+    },
+    {
+      "source": "McKinsey Insights",
+      "type": "professional_insight",
+      "title": "The new realities of grocery retail in the Americas and Europe",
+      "published": "Tue, 10 Nov 2026",
+      "url": "https://www.mckinsey.com/industries/retail/our-insights/the-new-realities-of-grocery-retail-in-the-americas-and-europe",
+      "summary": "From AI and private brands to premium products and wellness-focused shopping, grocery retailers face new opportunities—and hard choices.",
+      "quality_note": "Professional insight source: useful framing, but may be marketing-led.",
+      "relevance_score": 5
+    },
+    {
+      "source": "The Guardian Business",
+      "type": "independent_news",
+      "title": "Britons stockpiling water and food tins but not panic buying, figures show",
+      "published": "Tue, 10 Nov 2026 08:53:30 GMT",
+      "url": "https://www.theguardian.com/business/2026/nov/10/britons-stockpiling-water-food-tins-panic-buy-be-ready",
+      "summary": "Shoppers appear to have taken government’s Be Ready campaign seriously, retail analysts say Business live – latest updates British shoppers have been stocking up on essentials such as bottled water, tinned goods and hand sanitiser, but did not panic buy after the government advised people to prepare for emergencies, shopping data has shown. Sales of essentials jumped in the 10 days after the government launched its Be Ready campaign , which encourages households to prepare for up to three days in the event of disruption to essential services from incidents such as cyber-attacks or extreme weather. Continue reading...",
+      "quality_note": "News/search source: useful for current signals, but verify important claims.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Google News - UK SME AI adoption",
+      "type": "news_search",
+      "title": "AI growth gap emerging across UK businesses, as smaller firms risk missing out on AI opportunity - NatWest Group",
+      "published": "Fri, 25 Sep 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQckxWRHp3dDc5Sk9UVkU4a3RudTFvNXo0ZXhmX0hRc2FubUZrbUhvdFJpRTA5ejQ2bEZyVVpORGtmNkNCRXdZVG5UTzZiLUNNNTVuazBfNFR2d0dIcG5yY0ZtSUJFTDBkMUFWbFJQcFlNMzFzT0lvR0tDZ183WE1MQktCNVgteHZrLXp1SUU0Y2E3SDRXMk5IeVVlbEFUTU9zenVTV2FweWIxaHhRbnI2NnVFRlhRbWlxa2otUjREaVJ3ckVnMDYxTnhsSm9FTXVHbEJGR3J0amVRSXhOeElR?oc=5",
+      "summary": "AI growth gap emerging across UK businesses, as smaller firms risk missing out on AI opportunity NatWest Group",
+      "quality_note": "News/search source: useful for current signals, but verify important claims.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Google News - UK SME AI adoption",
+      "type": "news_search",
+      "title": "Wider AI adoption could add £43bn to small business revenues, new modelling finds - Social Market Foundation",
+      "published": "Mon, 19 Oct 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdVZDUlkwM09MUVMtNzRJLVNEMFRuUTF0bUVNQUZHbWdoUlZMbGl0T3dNSFNaT0UtaFp1V1E3ZEdiZ3E1M0poMDhoNHRoYWpLaHBMalZpdFRZdnhMT3ljSmdBSG5uMU1waU9CeUJkaUd4endXVkxNbVM0Ti04V25aU01BNDZFeDl5Q2R3QmxkMXNzM1hZc0dLeW9wSzd5VHEwUjNTcQ?oc=5",
+      "summary": "Wider AI adoption could add £43bn to small business revenues, new modelling finds Social Market Foundation",
+      "quality_note": "News/search source: useful for current signals, but verify important claims.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Google News - UK SME AI adoption",
+      "type": "news_search",
+      "title": "Average UK business spending £20.6 million on AI, with returns set to rise to 39% by 2028 - SAP News Center",
+      "published": "Wed, 14 Oct 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRXZFdzRQbkE5U0FReVZNR1BVRXNOMnlSQWVDUlladGNLVHhkeXV4U09xX0ZjcG9OczRSelFGMW44MXYtbmR4VE1zdmg1X2lRaWhPd1NvRS04eUM5WFVja0lFUjhQZEhqb3FGYVJMdDRGMVY0LUVzUmxhNVk5X2lqak02dExMWEtKMm1aa2g4NjFkNnVZdWE0RFFLS3BYbjBxMGU0WGNHYlo?oc=5",
+      "summary": "Average UK business spending £20.6 million on AI, with returns set to rise to 39% by 2028 SAP News Center",
+      "quality_note": "News/search source: useful for current signals, but verify important claims.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Google News - UK SME AI adoption",
+      "type": "news_search",
+      "title": "How SMEs can turn AI adoption into competitive advantage - Financial Times",
+      "published": "Mon, 05 Oct 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE01VmVQY2pKQ09IMTNqMHdKc0kzQThDZmoyOTZfQ3hFQU01WGNDMGZXVWhsVEd6YVkwLXdvZ05zWjdfWThGSE9EaW04TDQwTWtYeXpQaVZyWklEWGFwM3hvcElVSTBicEZjV1RrMXZzMEU?oc=5",
+      "summary": "How SMEs can turn AI adoption into competitive advantage Financial Times",
+      "quality_note": "News/search source: useful for current signals, but verify important claims.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Google News - UK SME AI adoption",
+      "type": "news_search",
+      "title": "Smaller UK firms risk being left behind in AI race - ADS Advance",
+      "published": "Thu, 01 Oct 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0wTGlWLWlDRFJJYWtqSmwyUXFlMDRSVzEtUmZZa2ZJR2tVSk1waE5WYmcyd3JIZUR4MTR4alNxMzZlM29CMkdMWWhBRENEYmFuMkxnNzZ1RVpxRk9ISVR6SHBmSHFTb1R5d00tMnZyWUVCM2FS?oc=5",
+      "summary": "Smaller UK firms risk being left behind in AI race ADS Advance",
+      "quality_note": "News/search source: useful for current signals, but verify important claims.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Google News - FMCG AI supply chain UK",
+      "type": "news_search",
+      "title": "Skills: the missing link in supply chain resilience - The Grocer",
+      "published": "Thu, 22 Oct 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY0hZOW9iY2FpX0tleVhSNlBXdWhQZExGSjM2cW1UQVdTUVNyMjBGWVFBZDJXM1h2WWxsd0hhdFc5bVFIU3JxNXpMMUJCc01YX2lvWUZzMFk2UWN2Y0lYcG9GRUU4bElvOVRZZS1yNGdQMVhmZXRQallVYjUxRl81QXR2dG9DTmZiMGJlQ1dHenpENURmUEZ5MQ?oc=5",
+      "summary": "Skills: the missing link in supply chain resilience The Grocer",
+      "quality_note": "News/search source: useful for current signals, but verify important claims.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Google News - business intelligence AI workflow",
+      "type": "news_search",
+      "title": "Serval triples valuation to $3 billion as businesses adopt AI workflow automation - Reuters",
+      "published": "Thu, 29 Oct 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWGsxVlVwdm94YVFRbXJ6eWNIXzRuWkZqVkZwNm5QUnkyc0EyUHFyY21WTE9LRFNRSVpEbHg5b0UxaGJsbEYtdVRuTWxHN0xFVnkwa1kya1I4S0ZadXhGQmZmZWtQdGJvbDVrQXI1UVhjLU1zWTdPQWlpLW5ubEdEMWhrczRhbGNHUVRxVTJBZVZtVmpiT0UtWlYwZEZMRjN3NW1LSFhYR1pfc1lLS0lBaGdnc1pLazVyT0dJ?oc=5",
+      "summary": "Serval triples valuation to $3 billion as businesses adopt AI workflow automation Reuters",
+      "quality_note": "News/search source: useful for current signals, but verify important claims.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Google News - retail distribution AI UK",
+      "type": "news_search",
+      "title": "2026 Deloitte Holiday Retail Survey - Deloitte",
+      "published": "Thu, 15 Oct 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWUkzb0FpUGdvVnpCM0pEWEF5QzJnNHpWam9MeVVKNGh0SV9lc3BkYkt4VTVTTzAzTHE0RjZRcVFLMXdnU25nUG52T1lLa1dIWk9OU09GMVhIYjNYZXNGT0FSWlc0cFhsOFNybjYxSlE0QndSd1RVcDQ4MWtjRk9WX0pVN0o0Y0FkNGpuS0szRDNLNjFpUF9mSXFFOW1VelRxVUNzX0ZWcldkOHdqRFVV?oc=5",
+      "summary": "2026 Deloitte Holiday Retail Survey Deloitte",
+      "quality_note": "News/search source: useful for current signals, but verify important claims.",
+      "relevance_score": 5
+    },
+    {
+      "source": "ONS",
+      "type": "official_watchlist",
+      "title": "ONS business, economy and technology statistics",
+      "published": "2026-11-10",
+      "url": "https://www.ons.gov.uk/",
+      "summary": "Official UK statistics source for business conditions, productivity, retail, labour market and economic context.",
+      "manual_check": true,
+      "quality_note": "Official source: credible context, but may be broad or slow-moving.",
+      "relevance_score": 5
+    },
+    {
+      "source": "OECD",
+      "type": "official_watchlist",
+      "title": "OECD AI, SMEs, productivity and digital adoption",
+      "published": "2026-11-10",
+      "url": "https://www.oecd.org/",
+      "summary": "Useful for international context on SME digital adoption, productivity, AI diffusion and policy.",
+      "manual_check": true,
+      "quality_note": "Official source: credible context, but may be broad or slow-moving.",
+      "relevance_score": 5
+    },
+    {
+      "source": "The Grocer",
+      "type": "fmcg_watchlist",
+      "title": "The Grocer - UK FMCG and grocery sector",
+      "published": "2026-11-10",
+      "url": "https://www.thegrocer.co.uk/",
+      "summary": "Specialist UK FMCG and grocery source. Useful for suppliers, wholesalers, pricing, retail pressure and distribution signals.",
+      "manual_check": true,
+      "quality_note": "Industry source: useful sector context, but check whether evidence is narrow or anecdotal.",
+      "relevance_score": 5
+    },
+    {
+      "source": "IGD",
+      "type": "fmcg_watchlist",
+      "title": "IGD grocery, retail and supply-chain insight",
+      "published": "2026-11-10",
+      "url": "https://www.igd.com/",
+      "summary": "Useful for grocery, retail, wholesale and supply-chain context.",
+      "manual_check": true,
+      "quality_note": "Industry source: useful sector context, but check whether evidence is narrow or anecdotal.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Kantar",
+      "type": "fmcg_watchlist",
+      "title": "Kantar retail and FMCG insights",
+      "published": "2026-11-10",
+      "url": "https://www.kantar.com/uki/industries/retail",
+      "summary": "Professional insight source for FMCG, retail, consumers and brand performance.",
+      "manual_check": true,
+      "quality_note": "Industry source: useful sector context, but check whether evidence is narrow or anecdotal.",
+      "relevance_score": 5
+    },
+    {
+      "source": "NielsenIQ",
+      "type": "fmcg_watchlist",
+      "title": "NielsenIQ retail and FMCG insights",
+      "published": "2026-11-10",
+      "url": "https://nielseniq.com/global/en/insights/",
+      "summary": "Professional retail and FMCG data source for market trends, consumer behaviour and category performance.",
+      "manual_check": true,
+      "quality_note": "Industry source: useful sector context, but check whether evidence is narrow or anecdotal.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Google DeepMind Blog",
+      "type": "company_primary_ai",
+      "title": "Speeding up planning decisions with AI",
+      "published": "Fri, 30 Oct 2026 14:18:30 +0000",
+      "url": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+      "summary": "Google DeepMind and UK government work together to reduce planning assessment times",
+      "quality_note": "Vendor/company source: useful primary signal, but not neutral proof.",
+      "relevance_score": 4
+    },
+    {
+      "source": "Microsoft Power BI Blog",
+      "type": "bi_tooling",
+      "title": "Power BI reports support OAP exceptions for semantic models in separate workspaces (Preview)",
+      "published": "Thu, 05 Nov 2026 22:00:00 GMT",
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-reports-support-OAP-exceptions-for-semantic-models-in/ba-p/5377907",
+      "summary": "Workspace outbound access protection (OAP) helps you control where data in a Microsoft Fabric workspace can flow. The initial preview for Power BI reports , launched in June, required a report in an OAP-protected workspace to use a semantic model in that same workspace. Customer feedback highlighted that this was too restrictive. With this improvement, a report can now query a semantic model in another workspace provided a workspace administrator explicitly allowed that destination through an OAP exception policy. Apply exception policies to allow report-to-model connections OAP continues to block outbound report-to-model connections by default. When a report opens, Power BI evaluates the report workspace policy before it renders the report in the browser. If the destination workspace is covered by an applicable exception, the report can connect to its semantic model. Otherwise, Power BI blocks the connection, and the report does not open. The report honors the policy that a workspace admin configured for the semantic model destination. You don't configure an exception on each report, and you don't need to move the report and semantic model into the same workspace. The OAP exceptio",
+      "quality_note": "Vendor/company source: useful primary signal, but not neutral proof.",
+      "relevance_score": 4
+    },
+    {
+      "source": "Microsoft Power BI Blog",
+      "type": "bi_tooling",
+      "title": "Databricks ADBC connector for Power BI and Microsoft Fabric (Generally Available)",
+      "published": "Thu, 15 Oct 2026 17:00:00 GMT",
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Databricks-ADBC-connector-for-Power-BI-and-Microsoft-Fabric/ba-p/5369591",
+      "summary": "This release is part of the broader ODBC-to-ADBC transition for Power Query connectors described in the Transition from ODBC to ADBC drivers in Power BI and Microsoft Fabric documentation. What’s new Existing connections in your semantic models, dataflows, and paginated reports continue to work unchanged — the migration path is currently opt-in per connection, per workspace, or per tenant. Highlights: Improved security - ADBC drivers incorporate security enhancements, such as memory safety and garbage collection. No changes to existing behavior - This transition moves away from the embedded ODBC drivers that ship with Power BI. It does not change behavior for the ODBC connector when you use a separately installed ODBC driver. Efficient large dataset support - ADBC provides a set of standard interfaces for interacting with Arrow data, which is especially efficient at fetching large datasets with minimal overhead and no serialization or copying. Supported authentication - Databricks ADBC supports OAuth (user), OAuth (M2M / Client Credentials), and Microsoft Entra ID. Connectors covered by this release Connector Previous driver New driver (GA) Databricks Simba Spark ODBC Databricks AD",
+      "quality_note": "Vendor/company source: useful primary signal, but not neutral proof.",
+      "relevance_score": 4
+    },
+    {
+      "source": "MIT Sloan Management Review",
+      "type": "professional_insight",
+      "title": "Do More With Sustainability Data",
+      "published": "Mon, 09 Nov 2026 12:00:41 +0000",
+      "url": "https://sloanreview.mit.edu/article/do-more-with-sustainability-data/",
+      "summary": "Maria Bloom/Ikon Images Many large companies have invested significant amounts of time and capital into sustainability reporting. In 2022, the European Union’s ambitious sustainability reporting framework, the Corporate Sustainability Reporting Directive, was projected to generate approximately €1.7 billion (about $1.8 billion) in one-off costs and €1.9 billion in recurring costs. Even in less regulated markets [&#8230;]",
+      "quality_note": "Professional insight source: useful framing, but may be marketing-led.",
+      "relevance_score": 4
+    },
+    {
+      "source": "MIT Sloan Management Review",
+      "type": "professional_insight",
+      "title": "When Cultures Collide in Crisis",
+      "published": "Wed, 04 Nov 2026 12:00:49 +0000",
+      "url": "https://sloanreview.mit.edu/article/when-cultures-collide-in-crisis/",
+      "summary": "Sergio Ingravalle/Ikon Images High-stakes disruptions test businesses’ cultural agility as well as their operational resilience. As supply chains stretch across continents and leadership teams span time zones, cultural agility becomes a business essential. Many crises now unfold across cultures as much as they do across borders, but few executives are prepared for what happens when [&#8230;]",
+      "quality_note": "Professional insight source: useful framing, but may be marketing-led.",
+      "relevance_score": 4
+    },
+    {
+      "source": "Google DeepMind Blog",
+      "type": "company_primary_ai",
+      "title": "Agentic cheminformatics with Google Antigravity",
+      "published": "Tue, 03 Nov 2026 17:01:49 +0000",
+      "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+      "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+      "quality_note": "Vendor/company source: useful primary signal, but not neutral proof.",
+      "relevance_score": 3
+    },
+    {
+      "source": "AWS Machine Learning Blog",
+      "type": "ai_data_tooling",
+      "title": "Introducing Claude Fable 5.2 on AWS",
+      "published": "Mon, 09 Nov 2026 20:04:37 +0000",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-2-on-aws/",
+      "summary": "Claude Fable 5.2 and Claude Mythos 5.2 are now available on Amazon Bedrock and Claude Platform on AWS. Learn what's new in both models, why Fable 5.2 matters for your technical workloads, and how to get started building with it on Amazon Bedrock.",
+      "quality_note": "Vendor/company source: useful primary signal, but not neutral proof.",
+      "relevance_score": 3
+    },
+    {
+      "source": "Microsoft Power BI Blog",
+      "type": "bi_tooling",
+      "title": "Announcing the retirement of R and Python visuals in Power BI",
+      "published": "Mon, 09 Nov 2026 19:00:39 GMT",
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Announcing-the-retirement-of-R-and-Python-visuals-in-Power-BI/ba-p/5400748",
+      "summary": "The built-in R and Python visuals in Power BI will retire in May 2027 . What changes This retirement applies only to R and Python visuals in interactive Power BI reports. Python scripts used in Power Query to populate tables are not affected. Power BI service: At retirement, all R and Python visuals will stop working in published reports, including those published before retirement. R-powered custom visuals: Custom visuals that use R will also no longer work at retirement. Older versions of Power BI Desktop: These visuals will continue to work locally using R and Python installed on your machine. Future versions of Power BI Desktop: After retirement, R and Python visuals will be removed, so you won't be able to add them to reports. What you need to do No migration within your report will recreate your exact R or Python visual. You must replace it with a different visualization before retirement. Start reviewing your reports for R and Python visuals and communicate within your organization that reports using them will be impacted. Preserve their scripts and dependencies. If you use Power BI project (PBIP) format and Git-integrated workspaces , search your report definitions in sourc",
+      "quality_note": "Vendor/company source: useful primary signal, but not neutral proof.",
+      "relevance_score": 3
+    },
+    {
+      "source": "McKinsey Insights",
+      "type": "professional_insight",
+      "title": "How CFOs can make AI pay off",
+      "published": "Mon, 09 Nov 2026",
+      "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/how-cfos-can-make-ai-pay-off",
+      "summary": "Creating value from AI in finance—and beyond—requires setting measurable targets and redesigning processes. Here’s how.",
+      "quality_note": "Professional insight source: useful framing, but may be marketing-led.",
+      "relevance_score": 3
+    },
+    {
+      "source": "BBC Business",
+      "type": "independent_news",
+      "title": "Sales of tinned food and bottled water jump after 'Be Ready' campaign launch",
+      "published": "Tue, 10 Nov 2026 11:43:06 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss",
+      "summary": "Sales of essential goods such as hand sanitiser soar after the government called on households to be prepared for emergencies.",
+      "quality_note": "News/search source: useful for current signals, but verify important claims.",
+      "relevance_score": 3
+    },
+    {
+      "source": "The Guardian Business",
+      "type": "independent_news",
+      "title": "Nvidia hit by shareholder lawsuit over Jensen Huang’s relationship with suspected Chinese spy – business live",
+      "published": "Tue, 10 Nov 2026 12:45:01 GMT",
+      "url": "https://www.theguardian.com/business/live/2026/nov/10/nvidia-shareholder-lawsuit-jensen-huang-relationship-suspected-chinese-spy-fbi-trump-bank-of-england-latest-news-updates",
+      "summary": "Rolling coverage of the latest economic and financial news Nvidia and Jensen Huang sued by shareholders over affair with alleged Chinese spy The AI poster boy, the ‘Chinese spy’ and Trump: how an affair may have harmed US security Jensen Huang’s image has been shattered. Could he be pushed out at Nvidia? A senior US central banker is calling for a hike in interest rates next month. Federal Reserve governor Christopher Waller is arguing that the Fed should raise short-term borrowing costs next month even if government data shows inflation cooling. “While I am hoping for an improvement over September, even if this occurs, I would still support a 25 basis point increase in the FOMC’s policy rate at our December meeting.” “The affair itself is unlikely to be the central issue for shareholders. What matters is whether shareholders have suffered loss due to Nvidia failing to disclose material information, particularly given the sensitivities surrounding China, AI chips and US export controls. “US plaintiff lawyers will be looking closely at matters such as what Nvidia and its board knew and when, what was said publicly and whether any material information was withheld from the market. Fo",
+      "quality_note": "News/search source: useful for current signals, but verify important claims.",
+      "relevance_score": 3
+    },
+    {
+      "source": "The Guardian Business",
+      "type": "independent_news",
+      "title": "EU manufacturers could give up on competing with China by 2030, warns commerce chief",
+      "published": "Tue, 10 Nov 2026 06:00:30 GMT",
+      "url": "https://www.theguardian.com/business/2026/nov/10/eu-manufacturers-china-jens-eskelund",
+      "summary": "Jens Eskelund says Europe may need to allow its companies to become part of Chinese firms’ supply chains Europe’s manufacturers could give up on attempting to compete with their Chinese counterparts by the end of the decade if current trends continue amid fears over mass job losses, the head of the European Union Chamber of Commerce in China has warned. In a case of “if you can’t beat them, join them”, Jens Eskelund said European companies operating in China were now thinking “Made in China for China” could be replaced by a philosophy of “Made in China for the world”. Continue reading...",
+      "quality_note": "News/search source: useful for current signals, but verify important claims.",
+      "relevance_score": 3
+    },
+    {
+      "source": "GOV.UK SMEs digital adoption",
+      "type": "official_policy",
+      "url": "https://www.gov.uk/api/search.json?q=SME%20digital%20adoption%20artificial%20intelligence&count=5&order=updated-newest",
+      "error": "HTTP Error 422: Unknown Error",
+      "quality_note": "Official source: credible context, but may be broad or slow-moving.",
+      "relevance_score": 3
+    },
+    {
+      "source": "GOV.UK business productivity technology",
+      "type": "official_policy",
+      "url": "https://www.gov.uk/api/search.json?q=business%20productivity%20technology%20SME&count=5&order=updated-newest",
+      "error": "HTTP Error 422: Unknown Error",
+      "quality_note": "Official source: credible context, but may be broad or slow-moving.",
+      "relevance_score": 3
+    },
+    {
+      "source": "OpenAI News",
+      "type": "company_primary_ai",
+      "title": "ChatGPT Enterprise now available in AWS Marketplace",
+      "published": "Mon, 09 Nov 2026 19:00:00 GMT",
+      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+      "quality_note": "Vendor/company source: useful primary signal, but not neutral proof.",
+      "relevance_score": 2
+    },
+    {
+      "source": "OpenAI News",
+      "type": "company_primary_ai",
+      "title": "CodeRabbit scales agentic software development and ships 20x more",
+      "published": "Mon, 09 Nov 2026 08:00:00 GMT",
+      "url": "https://openai.com/index/coderabbit-codex-daybreak",
+      "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+      "quality_note": "Vendor/company source: useful primary signal, but not neutral proof.",
+      "relevance_score": 2
+    },
+    {
+      "source": "Google DeepMind Blog",
+      "type": "company_primary_ai",
+      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+      "published": "Tue, 10 Nov 2026 12:02:28 +0000",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "summary": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
+      "quality_note": "Vendor/company source: useful primary signal, but not neutral proof.",
+      "relevance_score": 2
+    },
+    {
+      "source": "AWS Machine Learning Blog",
+      "type": "ai_data_tooling",
+      "title": "How skills and agents work in AWS Quick",
+      "published": "Tue, 10 Nov 2026 00:21:34 +0000",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-skills-and-agents-work-in-aws-quick/",
+      "summary": "Repeatable tasks like status updates, release notes, and ticket creation can be encoded in AWS Quick through agents and skills. This post covers how agents, skills, and your data fit together in AWS Quick, how to build and share skills for your team, and how the official catalog and custom agents help you use them.",
+      "quality_note": "Vendor/company source: useful primary signal, but not neutral proof.",
+      "relevance_score": 2
+    },
+    {
+      "source": "AWS Machine Learning Blog",
+      "type": "ai_data_tooling",
+      "title": "Single-shot and agentic retrieval with Amazon Bedrock Managed Knowledge Base",
+      "published": "Mon, 09 Nov 2026 20:13:18 +0000",
+      "url": "https://aws.amazon.com/blogs/machine-learning/single-shot-and-agentic-retrieval-with-amazon-bedrock-managed-knowledge-base/",
+      "summary": "Amazon Bedrock Managed Knowledge Base now supports single-shot RAG and retrieval-only requests through AgenticRetrieveStream, alongside agentic retrieval. This post explains how the maxAgentIteration parameter matches retrieval effort to each request, using an illustrative internal banking policy assistant.",
+      "quality_note": "Vendor/company source: useful primary signal, but not neutral proof.",
+      "relevance_score": 2
+    },
+    {
+      "source": "AWS Machine Learning Blog",
+      "type": "ai_data_tooling",
+      "title": "NVIDIA Nemotron 3.5 Super VL is now available in Amazon SageMaker JumpStart",
+      "published": "Mon, 09 Nov 2026 20:01:20 +0000",
+      "url": "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-5-super-vl-is-now-available-in-amazon-sagemaker-jumpstart/",
+      "summary": "NVIDIA Nemotron 3.5 Super VL, a 120B-parameter multimodal vision-language model, is now available in Amazon SageMaker JumpStart. Deploy the NVFP4 or BF16 variant in a few steps, then run text, image, and video inference for document intelligence, computer-use agents, and multimodal agentic workloads.",
+      "quality_note": "Vendor/company source: useful primary signal, but not neutral proof.",
+      "relevance_score": 2
+    },
+    {
+      "source": "AWS Machine Learning Blog",
+      "type": "ai_data_tooling",
+      "title": "Pluggable Agentic AI Framework: A seven-layer composable enterprise agentic AI reference architecture on Amazon Bedrock AgentCore",
+      "published": "Mon, 09 Nov 2026 19:05:54 +0000",
+      "url": "https://aws.amazon.com/blogs/machine-learning/pluggable-agentic-ai-framework-a-seven-layer-composable-enterprise-agentic-ai-reference-architecture-on-amazon-bedrock-agentcore/",
+      "summary": "A seven-layer composable reference architecture for taking enterprise agentic AI from prototype to production on Amazon Bedrock AgentCore. Each layer has a stable contract, so you can swap technologies at any layer without redesigning the rest of the stack.",
+      "quality_note": "Vendor/company source: useful primary signal, but not neutral proof.",
+      "relevance_score": 2
+    },
+    {
+      "source": "MIT Sloan Management Review",
+      "type": "professional_insight",
+      "title": "What Interruptions Say About Your Organizational Culture",
+      "published": "Tue, 27 Oct 2026 11:00:35 +0000",
+      "url": "https://sloanreview.mit.edu/article/what-interruptions-say-about-your-organizational-culture/",
+      "summary": "Mark Airs/Ikon Images Leaders tend to talk about culture in abstract terms: values, norms, trust, belonging, and the like. But employees watch for the moments that show how culture actually manifests. During meetings, who gets interrupted? Employees notice whose sentences are cut short, redirected, or quietly overtaken — and whose ideas are allowed full expression. [&#8230;]",
+      "quality_note": "Professional insight source: useful framing, but may be marketing-led.",
+      "relevance_score": 2
+    },
+    {
+      "source": "McKinsey Insights",
+      "type": "professional_insight",
+      "title": "Beyond agency boundaries: Building a statewide approach to customer experience",
+      "published": "Mon, 09 Nov 2026",
+      "url": "https://www.mckinsey.com/industries/public-sector/our-insights/beyond-agency-boundaries-building-a-statewide-approach-to-customer-experience",
+      "summary": "As expectations for government evolve, three opportunities can help US states strengthen customer experience and service delivery to better meet residents’ needs.",
+      "quality_note": "Professional insight source: useful framing, but may be marketing-led.",
+      "relevance_score": 2
+    },
+    {
+      "source": "McKinsey Insights",
+      "type": "professional_insight",
+      "title": "Future of healthcare: Extinction or accelerated evolution?",
+      "published": "Mon, 09 Nov 2026",
+      "url": "https://www.mckinsey.com/industries/healthcare/our-insights/the-future-of-healthcare",
+      "summary": "Shapers of healthcare’s future must evolve under relentless economic pressure. To avoid extinction, they must harness AI and biopharma breakthroughs to innovate clinical and business models.",
+      "quality_note": "Professional insight source: useful framing, but may be marketing-led.",
+      "relevance_score": 2
+    },
+    {
+      "source": "McKinsey Insights",
+      "type": "professional_insight",
+      "title": "Could aviation at last be close to earning its wings?",
+      "published": "Fri, 06 Nov 2026",
+      "url": "https://www.mckinsey.com/industries/travel/our-insights/could-aviation-at-last-be-close-to-earning-its-wings",
+      "summary": "The aviation value chain’s recent performance tells divergent stories: More airlines are creating value, and more are doing so consistently—yet the industry still cannot cover its cost of capital.",
+      "quality_note": "Professional insight source: useful framing, but may be marketing-led.",
+      "relevance_score": 2
+    },
+    {
+      "source": "BBC Business",
+      "type": "independent_news",
+      "title": "Anthropic to raise $64bn in major stock market listing",
+      "published": "Tue, 10 Nov 2026 13:01:03 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
+      "summary": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78.",
+      "quality_note": "News/search source: useful for current signals, but verify important claims.",
+      "relevance_score": 2
+    },
+    {
+      "source": "The Guardian Business",
+      "type": "independent_news",
+      "title": "Oil prices fall to lowest since August as Trump says Iran war is ‘effectively over’",
+      "published": "Tue, 10 Nov 2026 10:28:47 GMT",
+      "url": "https://www.theguardian.com/business/2026/nov/10/oil-prices-fall-donald-trump-iran-war-ftse-100-markets",
+      "summary": "Brent crude drops below $90 and markets climb after president downplays prospect of further strikes Business live – latest updates Oil prices have fallen to the lowest level since late August while stock markets climbed higher, as markets reacted with relief to Donald Trump saying that the war on Iran is “effectively over” . Brent crude, the global oil benchmark, fell nearly 3% to $89.66, the lowest since 31 August, on Tuesday morning, after the US president downplayed the need for military action against Iran “at this point”. The fall came after a near 6% drop on Monday on signs that the conflict might be nearing an end. Continue reading...",
+      "quality_note": "News/search source: useful for current signals, but verify important claims.",
+      "relevance_score": 2
+    },
+    {
+      "source": "OpenAI News",
+      "type": "company_primary_ai",
+      "title": "Helping caregivers use AI in everyday life",
+      "published": "Tue, 10 Nov 2026 12:00:00 GMT",
+      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+      "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+      "quality_note": "Vendor/company source: useful primary signal, but not neutral proof.",
+      "relevance_score": 1
+    },
+    {
+      "source": "OpenAI News",
+      "type": "company_primary_ai",
+      "title": "Closing the AI guidance gap in education",
+      "published": "Tue, 10 Nov 2026 09:00:00 GMT",
+      "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+      "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
+      "quality_note": "Vendor/company source: useful primary signal, but not neutral proof.",
+      "relevance_score": 1
+    },
+    {
+      "source": "OpenAI News",
+      "type": "company_primary_ai",
+      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "published": "Mon, 09 Nov 2026 13:00:00 GMT",
+      "url": "https://openai.com/index/control-room",
+      "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+      "quality_note": "Vendor/company source: useful primary signal, but not neutral proof.",
+      "relevance_score": 1
+    },
+    {
+      "source": "Google DeepMind Blog",
+      "type": "company_primary_ai",
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "published": "Thu, 05 Nov 2026 17:05:16 +0000",
+      "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+      "summary": "",
+      "quality_note": "Vendor/company source: useful primary signal, but not neutral proof.",
+      "relevance_score": 1
+    },
+    {
+      "source": "Google DeepMind Blog",
+      "type": "company_primary_ai",
+      "title": "Gemini 4 Carbon: Our next frontier model",
+      "published": "Wed, 28 Oct 2026 17:00:58 +0000",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+      "summary": "",
+      "quality_note": "Vendor/company source: useful primary signal, but not neutral proof.",
+      "relevance_score": 1
+    },
+    {
+      "source": "BBC Business",
+      "type": "independent_news",
+      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+      "published": "Tue, 10 Nov 2026 08:23:21 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+      "quality_note": "News/search source: useful for current signals, but verify important claims.",
+      "relevance_score": 1
+    },
+    {
+      "source": "BBC Business",
+      "type": "independent_news",
+      "title": "Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash",
+      "published": "Tue, 10 Nov 2026 09:57:49 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cqp8g8p53x6ko?at_medium=RSS&at_campaign=rss",
+      "summary": "The contents of the calendar, including hair clips and keychains, have been widely criticised on social media.",
+      "quality_note": "News/search source: useful for current signals, but verify important claims.",
+      "relevance_score": 1
+    },
+    {
+      "source": "BBC Business",
+      "type": "independent_news",
+      "title": "Faisal Islam: What the boss of US tech giant Nvidia told me about China and national security",
+      "published": "Tue, 10 Nov 2026 09:23:55 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Huang, who is now being investigated over an affair with an alleged Chinese spy, is far more important to the future of the world order than other tech bosses.",
+      "quality_note": "News/search source: useful for current signals, but verify important claims.",
+      "relevance_score": 1
+    },
+    {
+      "source": "The Guardian Business",
+      "type": "independent_news",
+      "title": "Young people in UK hit by ‘low-gear economy’, warns Bank of England deputy",
+      "published": "Tue, 10 Nov 2026 06:00:30 GMT",
+      "url": "https://www.theguardian.com/business/2026/nov/10/young-people-uk-economy-bank-of-england-clare-lombardelli",
+      "summary": "Exclusive: Iran war has fuelled energy price rise and clouded outlook, driving up unemployment, says Clare Lombardelli Young people in Britain are bearing the brunt of a “low-gear economy” as employers hold back from hiring amid the fallout from the war in the Middle East, a deputy governor of the Bank of England has warned. Clare Lombardelli, the Bank’s deputy governor for monetary policy, said the unfolding conflict, which has triggered a surge in energy prices and clouded the outlook for the economy, was contributing to an increase in youth unemployment. Continue reading...",
+      "quality_note": "News/search source: useful for current signals, but verify important claims.",
+      "relevance_score": 1
+    },
+    {
+      "source": "GOV.UK AI business adoption",
+      "type": "official_policy",
+      "url": "https://www.gov.uk/api/search.json?q=artificial%20intelligence%20business%20adoption&count=5&order=updated-newest",
+      "error": "HTTP Error 422: Unknown Error",
+      "quality_note": "Official source: credible context, but may be broad or slow-moving.",
+      "relevance_score": 1
+    }
+  ]
+}
